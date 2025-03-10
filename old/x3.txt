@@ -1,0 +1,6015 @@
+Training History
+===============
+
+Epoch 1:
+G_Loss: 0.078089
+D_Loss: 1.999501
+Val_PSNR: 23.5194
+Val_SSIM: 0.655249
+
+Epoch 2:
+G_Loss: 0.047834
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 3:
+G_Loss: 0.042097
+D_Loss: 2.000000
+Val_PSNR: 24.4479
+Val_SSIM: 0.715520
+
+Epoch 4:
+G_Loss: 0.039107
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 5:
+G_Loss: 0.037273
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 6:
+G_Loss: 0.035767
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 7:
+G_Loss: 0.034273
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 8:
+G_Loss: 0.033570
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 9:
+G_Loss: 0.032707
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 10:
+G_Loss: 0.032014
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 11:
+G_Loss: 0.031559
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 12:
+G_Loss: 0.030928
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 13:
+G_Loss: 0.030572
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 14:
+G_Loss: 0.030125
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 15:
+G_Loss: 0.029418
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 16:
+G_Loss: 0.029503
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 17:
+G_Loss: 0.029433
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 18:
+G_Loss: 0.028611
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 19:
+G_Loss: 0.028483
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 20:
+G_Loss: 0.028398
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 21:
+G_Loss: 0.027887
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 22:
+G_Loss: 0.028603
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 23:
+G_Loss: 0.028234
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 24:
+G_Loss: 0.028152
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 25:
+G_Loss: 0.027915
+D_Loss: 2.000000
+Val_PSNR: nan
+Val_SSIM: nan
+
+Epoch 26:
+G_Loss: 0.027630
+D_Loss: 2.000000
+Val_PSNR: 27.2004
+Val_SSIM: 0.790768
+
+Epoch 27:
+G_Loss: 0.027127
+D_Loss: 2.000000
+Val_PSNR: 29.8255
+Val_SSIM: 0.850465
+
+Epoch 28:
+G_Loss: 0.026902
+D_Loss: 2.000000
+Val_PSNR: 28.1960
+Val_SSIM: 0.827772
+
+Epoch 29:
+G_Loss: 0.026591
+D_Loss: 2.000000
+Val_PSNR: 26.9489
+Val_SSIM: 0.783183
+
+Epoch 30:
+G_Loss: 0.026701
+D_Loss: 2.000000
+Val_PSNR: 28.4325
+Val_SSIM: 0.810087
+
+Epoch 31:
+G_Loss: 0.026377
+D_Loss: 2.000000
+Val_PSNR: 27.9649
+Val_SSIM: 0.803219
+
+Epoch 32:
+G_Loss: 0.026269
+D_Loss: 2.000000
+Val_PSNR: 28.1721
+Val_SSIM: 0.802272
+
+Epoch 33:
+G_Loss: 0.026096
+D_Loss: 2.000000
+Val_PSNR: 28.4095
+Val_SSIM: 0.814400
+
+Epoch 34:
+G_Loss: 0.025762
+D_Loss: 2.000000
+Val_PSNR: 28.9100
+Val_SSIM: 0.832927
+
+Epoch 35:
+G_Loss: 0.025940
+D_Loss: 2.000000
+Val_PSNR: 29.4224
+Val_SSIM: 0.843394
+
+Epoch 36:
+G_Loss: 0.025610
+D_Loss: 2.000000
+Val_PSNR: 28.0607
+Val_SSIM: 0.806267
+
+Epoch 37:
+G_Loss: 0.025478
+D_Loss: 2.000000
+Val_PSNR: 28.7582
+Val_SSIM: 0.826195
+
+Epoch 38:
+G_Loss: 0.025393
+D_Loss: 2.000000
+Val_PSNR: 27.4304
+Val_SSIM: 0.811898
+
+Epoch 39:
+G_Loss: 0.025219
+D_Loss: 2.000000
+Val_PSNR: 28.6495
+Val_SSIM: 0.820257
+
+Epoch 40:
+G_Loss: 0.025161
+D_Loss: 2.000000
+Val_PSNR: 29.4220
+Val_SSIM: 0.837878
+
+Epoch 41:
+G_Loss: 0.025022
+D_Loss: 2.000000
+Val_PSNR: 28.8541
+Val_SSIM: 0.823169
+
+Epoch 42:
+G_Loss: 0.024926
+D_Loss: 2.000000
+Val_PSNR: 28.8171
+Val_SSIM: 0.824744
+
+Epoch 43:
+G_Loss: 0.024793
+D_Loss: 2.000000
+Val_PSNR: 29.0188
+Val_SSIM: 0.825932
+
+Epoch 44:
+G_Loss: 0.024838
+D_Loss: 2.000000
+Val_PSNR: 29.1519
+Val_SSIM: 0.825272
+
+Epoch 45:
+G_Loss: 0.024672
+D_Loss: 2.000000
+Val_PSNR: 29.4281
+Val_SSIM: 0.835649
+
+Epoch 46:
+G_Loss: 0.024464
+D_Loss: 2.000000
+Val_PSNR: 30.1056
+Val_SSIM: 0.851804
+
+Epoch 47:
+G_Loss: 0.024430
+D_Loss: 2.000000
+Val_PSNR: 29.0088
+Val_SSIM: 0.820919
+
+Epoch 48:
+G_Loss: 0.024574
+D_Loss: 2.000000
+Val_PSNR: 28.9654
+Val_SSIM: 0.825291
+
+Epoch 49:
+G_Loss: 0.024314
+D_Loss: 2.000000
+Val_PSNR: 29.0558
+Val_SSIM: 0.829058
+
+Epoch 50:
+G_Loss: 0.024223
+D_Loss: 2.000000
+Val_PSNR: 29.6408
+Val_SSIM: 0.843314
+
+Epoch 51:
+G_Loss: 0.024255
+D_Loss: 2.000000
+Val_PSNR: 29.6864
+Val_SSIM: 0.837357
+
+Epoch 52:
+G_Loss: 0.024053
+D_Loss: 2.000000
+Val_PSNR: 30.1403
+Val_SSIM: 0.859451
+
+Epoch 53:
+G_Loss: 0.024132
+D_Loss: 2.000000
+Val_PSNR: 30.3200
+Val_SSIM: 0.854414
+
+Epoch 54:
+G_Loss: 0.023868
+D_Loss: 2.000000
+Val_PSNR: 29.7157
+Val_SSIM: 0.830778
+
+Epoch 55:
+G_Loss: 0.023977
+D_Loss: 2.000000
+Val_PSNR: 30.5374
+Val_SSIM: 0.857823
+
+Epoch 56:
+G_Loss: 0.023715
+D_Loss: 2.000000
+Val_PSNR: 30.1207
+Val_SSIM: 0.847274
+
+Epoch 57:
+G_Loss: 0.023718
+D_Loss: 2.000000
+Val_PSNR: 30.5754
+Val_SSIM: 0.858644
+
+Epoch 58:
+G_Loss: 0.023663
+D_Loss: 2.000000
+Val_PSNR: 29.6159
+Val_SSIM: 0.832643
+
+Epoch 59:
+G_Loss: 0.023670
+D_Loss: 2.000000
+Val_PSNR: 30.2262
+Val_SSIM: 0.840484
+
+Epoch 60:
+G_Loss: 0.023669
+D_Loss: 2.000000
+Val_PSNR: 30.0409
+Val_SSIM: 0.854997
+
+Epoch 61:
+G_Loss: 0.023391
+D_Loss: 2.000000
+Val_PSNR: 30.4775
+Val_SSIM: 0.858221
+
+Epoch 62:
+G_Loss: 0.023481
+D_Loss: 2.000000
+Val_PSNR: 30.5447
+Val_SSIM: 0.857254
+
+Epoch 63:
+G_Loss: 0.023718
+D_Loss: 2.000000
+Val_PSNR: 30.6591
+Val_SSIM: 0.860166
+
+Epoch 64:
+G_Loss: 0.023523
+D_Loss: 2.000000
+Val_PSNR: 30.6180
+Val_SSIM: 0.871289
+
+Epoch 65:
+G_Loss: 0.023415
+D_Loss: 2.000000
+Val_PSNR: 30.9069
+Val_SSIM: 0.872131
+
+Epoch 66:
+G_Loss: 0.023234
+D_Loss: 2.000000
+Val_PSNR: 30.7559
+Val_SSIM: 0.860539
+
+Epoch 67:
+G_Loss: 0.023331
+D_Loss: 2.000000
+Val_PSNR: 30.7960
+Val_SSIM: 0.873277
+
+Epoch 68:
+G_Loss: 0.023069
+D_Loss: 2.000000
+Val_PSNR: 30.8959
+Val_SSIM: 0.870216
+
+Epoch 69:
+G_Loss: 0.023177
+D_Loss: 2.000000
+Val_PSNR: 30.5473
+Val_SSIM: 0.861858
+
+Epoch 70:
+G_Loss: 0.023166
+D_Loss: 2.000000
+Val_PSNR: 30.9601
+Val_SSIM: 0.874504
+
+Epoch 71:
+G_Loss: 0.022987
+D_Loss: 2.000000
+Val_PSNR: 31.0565
+Val_SSIM: 0.873692
+
+Epoch 72:
+G_Loss: 0.022919
+D_Loss: 2.000000
+Val_PSNR: 30.8697
+Val_SSIM: 0.870530
+
+Epoch 73:
+G_Loss: 0.023011
+D_Loss: 2.000000
+Val_PSNR: 31.0070
+Val_SSIM: 0.879660
+
+Epoch 74:
+G_Loss: 0.022826
+D_Loss: 2.000000
+Val_PSNR: 30.8459
+Val_SSIM: 0.864706
+
+Epoch 75:
+G_Loss: 0.022831
+D_Loss: 2.000000
+Val_PSNR: 30.9520
+Val_SSIM: 0.872294
+
+Epoch 76:
+G_Loss: 0.022676
+D_Loss: 2.000000
+Val_PSNR: 30.6210
+Val_SSIM: 0.857130
+
+Epoch 77:
+G_Loss: 0.022831
+D_Loss: 2.000000
+Val_PSNR: 31.0180
+Val_SSIM: 0.876907
+
+Epoch 78:
+G_Loss: 0.022975
+D_Loss: 2.000000
+Val_PSNR: 30.7066
+Val_SSIM: 0.870448
+
+Epoch 79:
+G_Loss: 0.022773
+D_Loss: 2.000000
+Val_PSNR: 31.0369
+Val_SSIM: 0.871745
+
+Epoch 80:
+G_Loss: 0.022913
+D_Loss: 2.000000
+Val_PSNR: 31.1559
+Val_SSIM: 0.874648
+
+Epoch 81:
+G_Loss: 0.022741
+D_Loss: 2.000000
+Val_PSNR: 31.1782
+Val_SSIM: 0.874390
+
+Epoch 82:
+G_Loss: 0.022700
+D_Loss: 2.000000
+Val_PSNR: 31.1033
+Val_SSIM: 0.877204
+
+Epoch 83:
+G_Loss: 0.022515
+D_Loss: 2.000000
+Val_PSNR: 31.1548
+Val_SSIM: 0.876341
+
+Epoch 84:
+G_Loss: 0.022710
+D_Loss: 2.000000
+Val_PSNR: 31.1744
+Val_SSIM: 0.874848
+
+Epoch 85:
+G_Loss: 0.022650
+D_Loss: 2.000000
+Val_PSNR: 31.1222
+Val_SSIM: 0.878865
+
+Epoch 86:
+G_Loss: 0.022501
+D_Loss: 2.000000
+Val_PSNR: 31.2567
+Val_SSIM: 0.878912
+
+Epoch 87:
+G_Loss: 0.022524
+D_Loss: 2.000000
+Val_PSNR: 30.6941
+Val_SSIM: 0.872055
+
+Epoch 88:
+G_Loss: 0.022461
+D_Loss: 2.000000
+Val_PSNR: 31.2701
+Val_SSIM: 0.875706
+
+Epoch 89:
+G_Loss: 0.022625
+D_Loss: 2.000000
+Val_PSNR: 31.1069
+Val_SSIM: 0.868474
+
+Epoch 90:
+G_Loss: 0.022350
+D_Loss: 2.000000
+Val_PSNR: 31.2111
+Val_SSIM: 0.883388
+
+Epoch 91:
+G_Loss: 0.022387
+D_Loss: 2.000000
+Val_PSNR: 31.0862
+Val_SSIM: 0.877243
+
+Epoch 92:
+G_Loss: 0.022381
+D_Loss: 2.000000
+Val_PSNR: 31.1414
+Val_SSIM: 0.872020
+
+Epoch 93:
+G_Loss: 0.022410
+D_Loss: 2.000000
+Val_PSNR: 31.1915
+Val_SSIM: 0.879545
+
+Epoch 94:
+G_Loss: 0.022098
+D_Loss: 2.000000
+Val_PSNR: 31.4301
+Val_SSIM: 0.875939
+
+Epoch 95:
+G_Loss: 0.022162
+D_Loss: 2.000000
+Val_PSNR: 31.5103
+Val_SSIM: 0.876739
+
+Epoch 96:
+G_Loss: 0.022212
+D_Loss: 2.000000
+Val_PSNR: 31.2015
+Val_SSIM: 0.876933
+
+Epoch 97:
+G_Loss: 0.022184
+D_Loss: 2.000000
+Val_PSNR: 31.3646
+Val_SSIM: 0.880805
+
+Epoch 98:
+G_Loss: 0.022069
+D_Loss: 2.000000
+Val_PSNR: 31.2970
+Val_SSIM: 0.877980
+
+Epoch 99:
+G_Loss: 0.021985
+D_Loss: 2.000000
+Val_PSNR: 31.4261
+Val_SSIM: 0.873640
+
+Epoch 100:
+G_Loss: 0.022084
+D_Loss: 2.000000
+Val_PSNR: 31.3413
+Val_SSIM: 0.883251
+
+Epoch 101:
+G_Loss: 0.022005
+D_Loss: 2.000000
+Val_PSNR: 31.4733
+Val_SSIM: 0.876492
+
+Epoch 102:
+G_Loss: 0.022078
+D_Loss: 2.000000
+Val_PSNR: 31.3834
+Val_SSIM: 0.882242
+
+Epoch 103:
+G_Loss: 0.021914
+D_Loss: 2.000000
+Val_PSNR: 31.4166
+Val_SSIM: 0.866456
+
+Epoch 104:
+G_Loss: 0.022016
+D_Loss: 2.000000
+Val_PSNR: 31.4981
+Val_SSIM: 0.877528
+
+Epoch 105:
+G_Loss: 0.021862
+D_Loss: 2.000000
+Val_PSNR: 31.1699
+Val_SSIM: 0.875980
+
+Epoch 106:
+G_Loss: 0.021836
+D_Loss: 2.000000
+Val_PSNR: 31.4870
+Val_SSIM: 0.872331
+
+Epoch 107:
+G_Loss: 0.021792
+D_Loss: 2.000000
+Val_PSNR: 31.2576
+Val_SSIM: 0.872989
+
+Epoch 108:
+G_Loss: 0.021871
+D_Loss: 2.000000
+Val_PSNR: 31.1973
+Val_SSIM: 0.872392
+
+Epoch 109:
+G_Loss: 0.021677
+D_Loss: 2.000000
+Val_PSNR: 31.0716
+Val_SSIM: 0.859442
+
+Epoch 110:
+G_Loss: 0.021794
+D_Loss: 2.000000
+Val_PSNR: 30.9736
+Val_SSIM: 0.872369
+
+Epoch 111:
+G_Loss: 0.021885
+D_Loss: 2.000000
+Val_PSNR: 31.3235
+Val_SSIM: 0.874819
+
+Epoch 112:
+G_Loss: 0.021756
+D_Loss: 2.000000
+Val_PSNR: 31.3399
+Val_SSIM: 0.881064
+
+Epoch 113:
+G_Loss: 0.021951
+D_Loss: 2.000000
+Val_PSNR: 31.4910
+Val_SSIM: 0.875214
+
+Epoch 114:
+G_Loss: 0.021678
+D_Loss: 2.000000
+Val_PSNR: 30.8701
+Val_SSIM: 0.861323
+
+Epoch 115:
+G_Loss: 0.021663
+D_Loss: 2.000000
+Val_PSNR: 31.4686
+Val_SSIM: 0.875057
+
+Epoch 116:
+G_Loss: 0.021736
+D_Loss: 2.000000
+Val_PSNR: 31.5421
+Val_SSIM: 0.875808
+
+Epoch 117:
+G_Loss: 0.021512
+D_Loss: 2.000000
+Val_PSNR: 31.4829
+Val_SSIM: 0.885420
+
+Epoch 118:
+G_Loss: 0.021578
+D_Loss: 2.000000
+Val_PSNR: 31.4656
+Val_SSIM: 0.873752
+
+Epoch 119:
+G_Loss: 0.021629
+D_Loss: 2.000000
+Val_PSNR: 31.5067
+Val_SSIM: 0.876407
+
+Epoch 120:
+G_Loss: 0.021530
+D_Loss: 2.000000
+Val_PSNR: 31.6170
+Val_SSIM: 0.876543
+
+Epoch 121:
+G_Loss: 0.021542
+D_Loss: 2.000000
+Val_PSNR: 31.3590
+Val_SSIM: 0.875839
+
+Epoch 122:
+G_Loss: 0.021471
+D_Loss: 2.000000
+Val_PSNR: 31.6650
+Val_SSIM: 0.887848
+
+Epoch 123:
+G_Loss: 0.021446
+D_Loss: 2.000000
+Val_PSNR: 31.5831
+Val_SSIM: 0.882323
+
+Epoch 124:
+G_Loss: 0.021358
+D_Loss: 2.000000
+Val_PSNR: 31.6824
+Val_SSIM: 0.879318
+
+Epoch 125:
+G_Loss: 0.021441
+D_Loss: 2.000000
+Val_PSNR: 31.6410
+Val_SSIM: 0.878040
+
+Epoch 126:
+G_Loss: 0.021325
+D_Loss: 2.000000
+Val_PSNR: 31.2794
+Val_SSIM: 0.882011
+
+Epoch 127:
+G_Loss: 0.021509
+D_Loss: 2.000000
+Val_PSNR: 31.6495
+Val_SSIM: 0.886064
+
+Epoch 128:
+G_Loss: 0.021455
+D_Loss: 2.000000
+Val_PSNR: 31.6253
+Val_SSIM: 0.884249
+
+Epoch 129:
+G_Loss: 0.021375
+D_Loss: 2.000000
+Val_PSNR: 31.0683
+Val_SSIM: 0.879995
+
+Epoch 130:
+G_Loss: 0.021380
+D_Loss: 2.000000
+Val_PSNR: 31.3945
+Val_SSIM: 0.873551
+
+Epoch 131:
+G_Loss: 0.021230
+D_Loss: 2.000000
+Val_PSNR: 31.5435
+Val_SSIM: 0.883460
+
+Epoch 132:
+G_Loss: 0.021192
+D_Loss: 2.000000
+Val_PSNR: 31.7361
+Val_SSIM: 0.882218
+
+Epoch 133:
+G_Loss: 0.021265
+D_Loss: 2.000000
+Val_PSNR: 31.6282
+Val_SSIM: 0.881265
+
+Epoch 134:
+G_Loss: 0.021256
+D_Loss: 2.000000
+Val_PSNR: 31.5217
+Val_SSIM: 0.877880
+
+Epoch 135:
+G_Loss: 0.021271
+D_Loss: 2.000000
+Val_PSNR: 31.6321
+Val_SSIM: 0.875999
+
+Epoch 136:
+G_Loss: 0.021297
+D_Loss: 2.000000
+Val_PSNR: 31.6117
+Val_SSIM: 0.882464
+
+Epoch 137:
+G_Loss: 0.021555
+D_Loss: 2.000000
+Val_PSNR: 31.5073
+Val_SSIM: 0.875653
+
+Epoch 138:
+G_Loss: 0.021223
+D_Loss: 2.000000
+Val_PSNR: 31.8455
+Val_SSIM: 0.883237
+
+Epoch 139:
+G_Loss: 0.021060
+D_Loss: 2.000000
+Val_PSNR: 31.8369
+Val_SSIM: 0.879112
+
+Epoch 140:
+G_Loss: 0.020958
+D_Loss: 2.000000
+Val_PSNR: 31.7262
+Val_SSIM: 0.881522
+
+Epoch 141:
+G_Loss: 0.021028
+D_Loss: 2.000000
+Val_PSNR: 31.5782
+Val_SSIM: 0.874189
+
+Epoch 142:
+G_Loss: 0.021083
+D_Loss: 2.000000
+Val_PSNR: 31.7366
+Val_SSIM: 0.881022
+
+Epoch 143:
+G_Loss: 0.021096
+D_Loss: 2.000000
+Val_PSNR: 31.8059
+Val_SSIM: 0.883490
+
+Epoch 144:
+G_Loss: 0.020992
+D_Loss: 2.000000
+Val_PSNR: 31.7916
+Val_SSIM: 0.882464
+
+Epoch 145:
+G_Loss: 0.021009
+D_Loss: 2.000000
+Val_PSNR: 31.9112
+Val_SSIM: 0.888285
+
+Epoch 146:
+G_Loss: 0.020992
+D_Loss: 2.000000
+Val_PSNR: 31.8558
+Val_SSIM: 0.883791
+
+Epoch 147:
+G_Loss: 0.021026
+D_Loss: 2.000000
+Val_PSNR: 31.7222
+Val_SSIM: 0.883755
+
+Epoch 148:
+G_Loss: 0.021011
+D_Loss: 2.000000
+Val_PSNR: 31.6985
+Val_SSIM: 0.882971
+
+Epoch 149:
+G_Loss: 0.020950
+D_Loss: 2.000000
+Val_PSNR: 31.9283
+Val_SSIM: 0.887593
+
+Epoch 150:
+G_Loss: 0.020987
+D_Loss: 2.000000
+Val_PSNR: 31.7182
+Val_SSIM: 0.883883
+
+Epoch 151:
+G_Loss: 0.020914
+D_Loss: 2.000000
+Val_PSNR: 31.9998
+Val_SSIM: 0.885614
+
+Epoch 152:
+G_Loss: 0.020948
+D_Loss: 2.000000
+Val_PSNR: 31.8935
+Val_SSIM: 0.883608
+
+Epoch 153:
+G_Loss: 0.020859
+D_Loss: 2.000000
+Val_PSNR: 31.8387
+Val_SSIM: 0.881413
+
+Epoch 154:
+G_Loss: 0.020810
+D_Loss: 2.000000
+Val_PSNR: 31.8410
+Val_SSIM: 0.886328
+
+Epoch 155:
+G_Loss: 0.020733
+D_Loss: 2.000000
+Val_PSNR: 31.9663
+Val_SSIM: 0.885085
+
+Epoch 156:
+G_Loss: 0.020802
+D_Loss: 2.000000
+Val_PSNR: 31.8439
+Val_SSIM: 0.884970
+
+Epoch 157:
+G_Loss: 0.020803
+D_Loss: 2.000000
+Val_PSNR: 31.9037
+Val_SSIM: 0.888603
+
+Epoch 158:
+G_Loss: 0.020925
+D_Loss: 2.000000
+Val_PSNR: 31.9084
+Val_SSIM: 0.877330
+
+Epoch 159:
+G_Loss: 0.020802
+D_Loss: 2.000000
+Val_PSNR: 31.8969
+Val_SSIM: 0.882928
+
+Epoch 160:
+G_Loss: 0.020785
+D_Loss: 2.000000
+Val_PSNR: 32.0558
+Val_SSIM: 0.889970
+
+Epoch 161:
+G_Loss: 0.020280
+D_Loss: 2.000000
+Val_PSNR: 32.1769
+Val_SSIM: 0.889576
+
+Epoch 162:
+G_Loss: 0.020290
+D_Loss: 2.000000
+Val_PSNR: 32.1287
+Val_SSIM: 0.890924
+
+Epoch 163:
+G_Loss: 0.020317
+D_Loss: 2.000000
+Val_PSNR: 32.1898
+Val_SSIM: 0.889874
+
+Epoch 164:
+G_Loss: 0.020296
+D_Loss: 2.000000
+Val_PSNR: 32.1220
+Val_SSIM: 0.889468
+
+Epoch 165:
+G_Loss: 0.020332
+D_Loss: 2.000000
+Val_PSNR: 32.1258
+Val_SSIM: 0.891396
+
+Epoch 166:
+G_Loss: 0.020253
+D_Loss: 2.000000
+Val_PSNR: 32.1549
+Val_SSIM: 0.889980
+
+Epoch 167:
+G_Loss: 0.020245
+D_Loss: 2.000000
+Val_PSNR: 32.1251
+Val_SSIM: 0.891090
+
+Epoch 168:
+G_Loss: 0.020269
+D_Loss: 2.000000
+Val_PSNR: 32.1869
+Val_SSIM: 0.892778
+
+Epoch 169:
+G_Loss: 0.020249
+D_Loss: 2.000000
+Val_PSNR: 32.1066
+Val_SSIM: 0.891688
+
+Epoch 170:
+G_Loss: 0.020240
+D_Loss: 2.000000
+Val_PSNR: 32.1785
+Val_SSIM: 0.890168
+
+Epoch 171:
+G_Loss: 0.020209
+D_Loss: 2.000000
+Val_PSNR: 32.0738
+Val_SSIM: 0.886690
+
+Epoch 172:
+G_Loss: 0.020196
+D_Loss: 2.000000
+Val_PSNR: 32.1944
+Val_SSIM: 0.891051
+
+Epoch 173:
+G_Loss: 0.020209
+D_Loss: 2.000000
+Val_PSNR: 32.0179
+Val_SSIM: 0.885370
+
+Epoch 174:
+G_Loss: 0.020164
+D_Loss: 2.000000
+Val_PSNR: 32.2024
+Val_SSIM: 0.891303
+
+Epoch 175:
+G_Loss: 0.020213
+D_Loss: 2.000000
+Val_PSNR: 32.2237
+Val_SSIM: 0.888043
+
+Epoch 176:
+G_Loss: 0.020227
+D_Loss: 2.000000
+Val_PSNR: 32.1552
+Val_SSIM: 0.888322
+
+Epoch 177:
+G_Loss: 0.020118
+D_Loss: 2.000000
+Val_PSNR: 32.2455
+Val_SSIM: 0.893040
+
+Epoch 178:
+G_Loss: 0.020135
+D_Loss: 2.000000
+Val_PSNR: 32.1739
+Val_SSIM: 0.886906
+
+Epoch 179:
+G_Loss: 0.020132
+D_Loss: 2.000000
+Val_PSNR: 32.1515
+Val_SSIM: 0.889482
+
+Epoch 180:
+G_Loss: 0.020160
+D_Loss: 2.000000
+Val_PSNR: 32.2220
+Val_SSIM: 0.893060
+
+Epoch 181:
+G_Loss: 0.020072
+D_Loss: 2.000000
+Val_PSNR: 32.2645
+Val_SSIM: 0.891627
+
+Epoch 182:
+G_Loss: 0.020127
+D_Loss: 2.000000
+Val_PSNR: 32.1942
+Val_SSIM: 0.892910
+
+Epoch 183:
+G_Loss: 0.020111
+D_Loss: 2.000000
+Val_PSNR: 32.2254
+Val_SSIM: 0.890557
+
+Epoch 184:
+G_Loss: 0.020123
+D_Loss: 2.000000
+Val_PSNR: 32.2337
+Val_SSIM: 0.891521
+
+Epoch 185:
+G_Loss: 0.020075
+D_Loss: 2.000000
+Val_PSNR: 32.0773
+Val_SSIM: 0.888566
+
+Epoch 186:
+G_Loss: 0.019962
+D_Loss: 2.000000
+Val_PSNR: 32.2541
+Val_SSIM: 0.892619
+
+Epoch 187:
+G_Loss: 0.019950
+D_Loss: 2.000000
+Val_PSNR: 32.3125
+Val_SSIM: 0.893119
+
+Epoch 188:
+G_Loss: 0.019939
+D_Loss: 2.000000
+Val_PSNR: 32.2581
+Val_SSIM: 0.893582
+
+Epoch 189:
+G_Loss: 0.019933
+D_Loss: 2.000000
+Val_PSNR: 32.3276
+Val_SSIM: 0.893243
+
+Epoch 190:
+G_Loss: 0.019938
+D_Loss: 2.000000
+Val_PSNR: 32.3106
+Val_SSIM: 0.894570
+
+Epoch 191:
+G_Loss: 0.019933
+D_Loss: 2.000000
+Val_PSNR: 32.3256
+Val_SSIM: 0.892339
+
+Epoch 192:
+G_Loss: 0.019925
+D_Loss: 2.000000
+Val_PSNR: 32.3036
+Val_SSIM: 0.889299
+
+Epoch 193:
+G_Loss: 0.019907
+D_Loss: 2.000000
+Val_PSNR: 32.3087
+Val_SSIM: 0.893332
+
+Epoch 194:
+G_Loss: 0.019918
+D_Loss: 2.000000
+Val_PSNR: 32.3546
+Val_SSIM: 0.893537
+
+Epoch 195:
+G_Loss: 0.019913
+D_Loss: 2.000000
+Val_PSNR: 32.3121
+Val_SSIM: 0.893957
+
+Epoch 196:
+G_Loss: 0.019887
+D_Loss: 2.000000
+Val_PSNR: 32.3255
+Val_SSIM: 0.893677
+
+Epoch 197:
+G_Loss: 0.019895
+D_Loss: 2.000000
+Val_PSNR: 32.3040
+Val_SSIM: 0.895802
+
+Epoch 198:
+G_Loss: 0.019899
+D_Loss: 2.000000
+Val_PSNR: 32.3439
+Val_SSIM: 0.891656
+
+Epoch 199:
+G_Loss: 0.019885
+D_Loss: 2.000000
+Val_PSNR: 32.3497
+Val_SSIM: 0.892237
+
+Epoch 200:
+G_Loss: 0.019876
+D_Loss: 2.000000
+Val_PSNR: 32.3437
+Val_SSIM: 0.892288
+
+Epoch 201:
+G_Loss: 0.019871
+D_Loss: 2.000000
+Val_PSNR: 32.2922
+Val_SSIM: 0.892730
+
+Epoch 202:
+G_Loss: 0.019856
+D_Loss: 2.000000
+Val_PSNR: 32.3613
+Val_SSIM: 0.897149
+
+Epoch 203:
+G_Loss: 0.019852
+D_Loss: 2.000000
+Val_PSNR: 32.3597
+Val_SSIM: 0.896463
+
+Epoch 204:
+G_Loss: 0.019838
+D_Loss: 2.000000
+Val_PSNR: 32.3767
+Val_SSIM: 0.893625
+
+Epoch 205:
+G_Loss: 0.019847
+D_Loss: 2.000000
+Val_PSNR: 32.3709
+Val_SSIM: 0.893152
+
+Epoch 206:
+G_Loss: 0.019849
+D_Loss: 2.000000
+Val_PSNR: 32.3275
+Val_SSIM: 0.895787
+
+Epoch 207:
+G_Loss: 0.019843
+D_Loss: 2.000000
+Val_PSNR: 32.3761
+Val_SSIM: 0.896337
+
+Epoch 208:
+G_Loss: 0.019824
+D_Loss: 2.000000
+Val_PSNR: 32.3878
+Val_SSIM: 0.898786
+
+Epoch 209:
+G_Loss: 0.019830
+D_Loss: 2.000000
+Val_PSNR: 32.3773
+Val_SSIM: 0.893751
+
+Epoch 210:
+G_Loss: 0.019844
+D_Loss: 2.000000
+Val_PSNR: 32.3556
+Val_SSIM: 0.895120
+
+Epoch 211:
+G_Loss: 0.019871
+D_Loss: 2.000000
+Val_PSNR: 32.3531
+Val_SSIM: 0.895274
+
+Epoch 212:
+G_Loss: 0.019931
+D_Loss: 2.000000
+Val_PSNR: 32.3377
+Val_SSIM: 0.895743
+
+Epoch 213:
+G_Loss: 0.019896
+D_Loss: 2.000000
+Val_PSNR: 32.3529
+Val_SSIM: 0.893454
+
+Epoch 214:
+G_Loss: 0.019898
+D_Loss: 2.000000
+Val_PSNR: 32.3211
+Val_SSIM: 0.891307
+
+Epoch 215:
+G_Loss: 0.019880
+D_Loss: 2.000000
+Val_PSNR: 32.2778
+Val_SSIM: 0.892353
+
+Epoch 216:
+G_Loss: 0.019882
+D_Loss: 2.000000
+Val_PSNR: 32.3687
+Val_SSIM: 0.892230
+
+Epoch 217:
+G_Loss: 0.019876
+D_Loss: 2.000000
+Val_PSNR: 32.1924
+Val_SSIM: 0.891471
+
+Epoch 218:
+G_Loss: 0.019892
+D_Loss: 2.000000
+Val_PSNR: 32.2927
+Val_SSIM: 0.892383
+
+Epoch 219:
+G_Loss: 0.019865
+D_Loss: 2.000000
+Val_PSNR: 32.2941
+Val_SSIM: 0.892032
+
+Epoch 220:
+G_Loss: 0.019810
+D_Loss: 2.000000
+Val_PSNR: 32.3383
+Val_SSIM: 0.890031
+
+Epoch 221:
+G_Loss: 0.019837
+D_Loss: 2.000000
+Val_PSNR: 32.3257
+Val_SSIM: 0.892742
+
+Epoch 222:
+G_Loss: 0.019855
+D_Loss: 2.000000
+Val_PSNR: 32.2851
+Val_SSIM: 0.892349
+
+Epoch 223:
+G_Loss: 0.019859
+D_Loss: 2.000000
+Val_PSNR: 32.3329
+Val_SSIM: 0.891545
+
+Epoch 224:
+G_Loss: 0.019819
+D_Loss: 2.000000
+Val_PSNR: 32.3923
+Val_SSIM: 0.894342
+
+Epoch 225:
+G_Loss: 0.019829
+D_Loss: 2.000000
+Val_PSNR: 32.3629
+Val_SSIM: 0.893181
+
+Epoch 226:
+G_Loss: 0.019796
+D_Loss: 2.000000
+Val_PSNR: 32.3694
+Val_SSIM: 0.896381
+
+Epoch 227:
+G_Loss: 0.019738
+D_Loss: 2.000000
+Val_PSNR: 32.4034
+Val_SSIM: 0.892637
+
+Epoch 228:
+G_Loss: 0.019729
+D_Loss: 2.000000
+Val_PSNR: 32.4024
+Val_SSIM: 0.895784
+
+Epoch 229:
+G_Loss: 0.019724
+D_Loss: 2.000000
+Val_PSNR: 32.4173
+Val_SSIM: 0.894122
+
+Epoch 230:
+G_Loss: 0.019723
+D_Loss: 2.000000
+Val_PSNR: 32.4216
+Val_SSIM: 0.897237
+
+Epoch 231:
+G_Loss: 0.019728
+D_Loss: 2.000000
+Val_PSNR: 32.4251
+Val_SSIM: 0.894470
+
+Epoch 232:
+G_Loss: 0.019731
+D_Loss: 2.000000
+Val_PSNR: 32.4108
+Val_SSIM: 0.892781
+
+Epoch 233:
+G_Loss: 0.019720
+D_Loss: 2.000000
+Val_PSNR: 32.3827
+Val_SSIM: 0.893053
+
+Epoch 234:
+G_Loss: 0.019709
+D_Loss: 2.000000
+Val_PSNR: 32.3778
+Val_SSIM: 0.892990
+
+Epoch 235:
+G_Loss: 0.019706
+D_Loss: 2.000000
+Val_PSNR: 32.4085
+Val_SSIM: 0.892439
+
+Epoch 236:
+G_Loss: 0.019712
+D_Loss: 2.000000
+Val_PSNR: 32.4197
+Val_SSIM: 0.892240
+
+Epoch 237:
+G_Loss: 0.019698
+D_Loss: 2.000000
+Val_PSNR: 32.4281
+Val_SSIM: 0.896297
+
+Epoch 238:
+G_Loss: 0.019697
+D_Loss: 2.000000
+Val_PSNR: 32.4081
+Val_SSIM: 0.894724
+
+Epoch 239:
+G_Loss: 0.019696
+D_Loss: 2.000000
+Val_PSNR: 32.4187
+Val_SSIM: 0.896167
+
+Epoch 240:
+G_Loss: 0.019698
+D_Loss: 2.000000
+Val_PSNR: 32.3804
+Val_SSIM: 0.895841
+
+Epoch 241:
+G_Loss: 0.019698
+D_Loss: 2.000000
+Val_PSNR: 32.4193
+Val_SSIM: 0.892634
+
+Epoch 242:
+G_Loss: 0.019687
+D_Loss: 2.000000
+Val_PSNR: 32.3906
+Val_SSIM: 0.894913
+
+Epoch 243:
+G_Loss: 0.019685
+D_Loss: 2.000000
+Val_PSNR: 32.4142
+Val_SSIM: 0.895845
+
+Epoch 244:
+G_Loss: 0.019691
+D_Loss: 2.000000
+Val_PSNR: 32.4086
+Val_SSIM: 0.894792
+
+Epoch 245:
+G_Loss: 0.019691
+D_Loss: 2.000000
+Val_PSNR: 32.3853
+Val_SSIM: 0.898459
+
+Epoch 246:
+G_Loss: 0.019690
+D_Loss: 2.000000
+Val_PSNR: 32.4360
+Val_SSIM: 0.894590
+
+Epoch 247:
+G_Loss: 0.019674
+D_Loss: 2.000000
+Val_PSNR: 32.3924
+Val_SSIM: 0.892014
+
+Epoch 248:
+G_Loss: 0.019681
+D_Loss: 2.000000
+Val_PSNR: 32.4544
+Val_SSIM: 0.891960
+
+Epoch 249:
+G_Loss: 0.019670
+D_Loss: 2.000000
+Val_PSNR: 32.4135
+Val_SSIM: 0.893849
+
+Epoch 250:
+G_Loss: 0.019676
+D_Loss: 2.000000
+Val_PSNR: 32.4336
+Val_SSIM: 0.896157
+
+Epoch 251:
+G_Loss: 0.019666
+D_Loss: 2.000000
+Val_PSNR: 32.4482
+Val_SSIM: 0.893843
+
+Epoch 252:
+G_Loss: 0.019667
+D_Loss: 2.000000
+Val_PSNR: 32.4431
+Val_SSIM: 0.892426
+
+Epoch 253:
+G_Loss: 0.019661
+D_Loss: 2.000000
+Val_PSNR: 32.4313
+Val_SSIM: 0.894281
+
+Epoch 254:
+G_Loss: 0.019652
+D_Loss: 2.000000
+Val_PSNR: 32.4418
+Val_SSIM: 0.894463
+
+Epoch 255:
+G_Loss: 0.019650
+D_Loss: 2.000000
+Val_PSNR: 32.4524
+Val_SSIM: 0.894218
+
+Epoch 256:
+G_Loss: 0.019677
+D_Loss: 2.000000
+Val_PSNR: 32.4435
+Val_SSIM: 0.893668
+
+Epoch 257:
+G_Loss: 0.019643
+D_Loss: 2.000000
+Val_PSNR: 32.4392
+Val_SSIM: 0.894052
+
+Epoch 258:
+G_Loss: 0.019650
+D_Loss: 2.000000
+Val_PSNR: 32.4540
+Val_SSIM: 0.895978
+
+Epoch 259:
+G_Loss: 0.019649
+D_Loss: 2.000000
+Val_PSNR: 32.4486
+Val_SSIM: 0.895089
+
+Epoch 260:
+G_Loss: 0.019640
+D_Loss: 2.000000
+Val_PSNR: 32.4456
+Val_SSIM: 0.894380
+
+Epoch 261:
+G_Loss: 0.019645
+D_Loss: 2.000000
+Val_PSNR: 32.4154
+Val_SSIM: 0.894221
+
+Epoch 262:
+G_Loss: 0.019637
+D_Loss: 2.000000
+Val_PSNR: 32.4402
+Val_SSIM: 0.896368
+
+Epoch 263:
+G_Loss: 0.019637
+D_Loss: 2.000000
+Val_PSNR: 32.4586
+Val_SSIM: 0.894915
+
+Epoch 264:
+G_Loss: 0.019641
+D_Loss: 2.000000
+Val_PSNR: 32.4408
+Val_SSIM: 0.893208
+
+Epoch 265:
+G_Loss: 0.019634
+D_Loss: 2.000000
+Val_PSNR: 32.4256
+Val_SSIM: 0.896144
+
+Epoch 266:
+G_Loss: 0.019637
+D_Loss: 2.000000
+Val_PSNR: 32.4535
+Val_SSIM: 0.894807
+
+Epoch 267:
+G_Loss: 0.019608
+D_Loss: 2.000000
+Val_PSNR: 32.4564
+Val_SSIM: 0.893266
+
+Epoch 268:
+G_Loss: 0.019606
+D_Loss: 2.000000
+Val_PSNR: 32.4595
+Val_SSIM: 0.894416
+
+Epoch 269:
+G_Loss: 0.019607
+D_Loss: 2.000000
+Val_PSNR: 32.4536
+Val_SSIM: 0.892889
+
+Epoch 270:
+G_Loss: 0.019604
+D_Loss: 2.000000
+Val_PSNR: 32.4084
+Val_SSIM: 0.892986
+
+Epoch 271:
+G_Loss: 0.019601
+D_Loss: 2.000000
+Val_PSNR: 32.4255
+Val_SSIM: 0.894820
+
+Epoch 272:
+G_Loss: 0.019602
+D_Loss: 2.000000
+Val_PSNR: 32.4533
+Val_SSIM: 0.896477
+
+Epoch 273:
+G_Loss: 0.019596
+D_Loss: 2.000000
+Val_PSNR: 32.4689
+Val_SSIM: 0.894027
+
+Epoch 274:
+G_Loss: 0.019599
+D_Loss: 2.000000
+Val_PSNR: 32.4447
+Val_SSIM: 0.894801
+
+Epoch 275:
+G_Loss: 0.019597
+D_Loss: 2.000000
+Val_PSNR: 32.4751
+Val_SSIM: 0.894792
+
+Epoch 276:
+G_Loss: 0.019596
+D_Loss: 2.000000
+Val_PSNR: 32.4544
+Val_SSIM: 0.895061
+
+Epoch 277:
+G_Loss: 0.019596
+D_Loss: 2.000000
+Val_PSNR: 32.4651
+Val_SSIM: 0.893058
+
+Epoch 278:
+G_Loss: 0.019592
+D_Loss: 2.000000
+Val_PSNR: 32.4590
+Val_SSIM: 0.892267
+
+Epoch 279:
+G_Loss: 0.019587
+D_Loss: 2.000000
+Val_PSNR: 32.4516
+Val_SSIM: 0.894771
+
+Epoch 280:
+G_Loss: 0.019586
+D_Loss: 2.000000
+Val_PSNR: 32.4634
+Val_SSIM: 0.895653
+
+Epoch 281:
+G_Loss: 0.019583
+D_Loss: 2.000000
+Val_PSNR: 32.4725
+Val_SSIM: 0.893221
+
+Epoch 282:
+G_Loss: 0.019589
+D_Loss: 2.000000
+Val_PSNR: 32.4604
+Val_SSIM: 0.895534
+
+Epoch 283:
+G_Loss: 0.019587
+D_Loss: 2.000000
+Val_PSNR: 32.4646
+Val_SSIM: 0.894232
+
+Epoch 284:
+G_Loss: 0.019583
+D_Loss: 2.000000
+Val_PSNR: 32.4698
+Val_SSIM: 0.893938
+
+Epoch 285:
+G_Loss: 0.019584
+D_Loss: 2.000000
+Val_PSNR: 32.4728
+Val_SSIM: 0.892743
+
+Epoch 286:
+G_Loss: 0.019583
+D_Loss: 2.000000
+Val_PSNR: 32.4709
+Val_SSIM: 0.895585
+
+Epoch 287:
+G_Loss: 0.019584
+D_Loss: 2.000000
+Val_PSNR: 32.4792
+Val_SSIM: 0.894772
+
+Epoch 288:
+G_Loss: 0.019567
+D_Loss: 2.000000
+Val_PSNR: 32.4877
+Val_SSIM: 0.893602
+
+Epoch 289:
+G_Loss: 0.019566
+D_Loss: 2.000000
+Val_PSNR: 32.4798
+Val_SSIM: 0.893206
+
+Epoch 290:
+G_Loss: 0.019566
+D_Loss: 2.000000
+Val_PSNR: 32.4771
+Val_SSIM: 0.892968
+
+Epoch 291:
+G_Loss: 0.019566
+D_Loss: 2.000000
+Val_PSNR: 32.4881
+Val_SSIM: 0.892763
+
+Epoch 292:
+G_Loss: 0.019571
+D_Loss: 2.000000
+Val_PSNR: 32.4811
+Val_SSIM: 0.894481
+
+Epoch 293:
+G_Loss: 0.019565
+D_Loss: 2.000000
+Val_PSNR: 32.4749
+Val_SSIM: 0.892421
+
+Epoch 294:
+G_Loss: 0.019562
+D_Loss: 2.000000
+Val_PSNR: 32.4808
+Val_SSIM: 0.891995
+
+Epoch 295:
+G_Loss: 0.019565
+D_Loss: 2.000000
+Val_PSNR: 32.4875
+Val_SSIM: 0.894424
+
+Epoch 296:
+G_Loss: 0.019565
+D_Loss: 2.000000
+Val_PSNR: 32.4835
+Val_SSIM: 0.893262
+
+Epoch 297:
+G_Loss: 0.019561
+D_Loss: 2.000000
+Val_PSNR: 32.4912
+Val_SSIM: 0.892813
+
+Epoch 298:
+G_Loss: 0.019560
+D_Loss: 2.000000
+Val_PSNR: 32.4880
+Val_SSIM: 0.892650
+
+Epoch 299:
+G_Loss: 0.019559
+D_Loss: 2.000000
+Val_PSNR: 32.4845
+Val_SSIM: 0.894751
+
+Epoch 300:
+G_Loss: 0.019559
+D_Loss: 2.000000
+Val_PSNR: 32.4909
+Val_SSIM: 0.895947
+
+Epoch 301:
+G_Loss: 0.019560
+D_Loss: 2.000000
+Val_PSNR: 32.4679
+Val_SSIM: 0.894748
+
+Epoch 302:
+G_Loss: 0.019555
+D_Loss: 2.000000
+Val_PSNR: 32.4875
+Val_SSIM: 0.893852
+
+Epoch 303:
+G_Loss: 0.019557
+D_Loss: 2.000000
+Val_PSNR: 32.4882
+Val_SSIM: 0.893784
+
+Epoch 304:
+G_Loss: 0.019555
+D_Loss: 2.000000
+Val_PSNR: 32.4881
+Val_SSIM: 0.894805
+
+Epoch 305:
+G_Loss: 0.019556
+D_Loss: 2.000000
+Val_PSNR: 32.4802
+Val_SSIM: 0.894824
+
+Epoch 306:
+G_Loss: 0.019556
+D_Loss: 2.000000
+Val_PSNR: 32.4810
+Val_SSIM: 0.892822
+
+Epoch 307:
+G_Loss: 0.019552
+D_Loss: 2.000000
+Val_PSNR: 32.4957
+Val_SSIM: 0.893290
+
+Epoch 308:
+G_Loss: 0.019550
+D_Loss: 2.000000
+Val_PSNR: 32.4847
+Val_SSIM: 0.894997
+
+Epoch 309:
+G_Loss: 0.019549
+D_Loss: 2.000000
+Val_PSNR: 32.4912
+Val_SSIM: 0.893331
+
+Epoch 310:
+G_Loss: 0.019544
+D_Loss: 2.000000
+Val_PSNR: 32.4767
+Val_SSIM: 0.893731
+
+Epoch 311:
+G_Loss: 0.019547
+D_Loss: 2.000000
+Val_PSNR: 32.4891
+Val_SSIM: 0.893226
+
+Epoch 312:
+G_Loss: 0.019546
+D_Loss: 2.000000
+Val_PSNR: 32.4989
+Val_SSIM: 0.893540
+
+Epoch 313:
+G_Loss: 0.019546
+D_Loss: 2.000000
+Val_PSNR: 32.5002
+Val_SSIM: 0.893809
+
+Epoch 314:
+G_Loss: 0.019546
+D_Loss: 2.000000
+Val_PSNR: 32.4891
+Val_SSIM: 0.893123
+
+Epoch 315:
+G_Loss: 0.019546
+D_Loss: 2.000000
+Val_PSNR: 32.4936
+Val_SSIM: 0.893249
+
+Epoch 316:
+G_Loss: 0.019543
+D_Loss: 2.000000
+Val_PSNR: 32.4933
+Val_SSIM: 0.895235
+
+Epoch 317:
+G_Loss: 0.019544
+D_Loss: 2.000000
+Val_PSNR: 32.4987
+Val_SSIM: 0.894073
+
+Epoch 318:
+G_Loss: 0.019543
+D_Loss: 2.000000
+Val_PSNR: 32.4939
+Val_SSIM: 0.893277
+
+Epoch 319:
+G_Loss: 0.019543
+D_Loss: 2.000000
+Val_PSNR: 32.4969
+Val_SSIM: 0.894376
+
+Epoch 320:
+G_Loss: 0.019543
+D_Loss: 2.000000
+Val_PSNR: 32.4954
+Val_SSIM: 0.893137
+
+Epoch 321:
+G_Loss: 0.019543
+D_Loss: 2.000000
+Val_PSNR: 32.4923
+Val_SSIM: 0.893284
+
+Epoch 322:
+G_Loss: 0.019538
+D_Loss: 2.000000
+Val_PSNR: 32.4840
+Val_SSIM: 0.894192
+
+Epoch 323:
+G_Loss: 0.019543
+D_Loss: 2.000000
+Val_PSNR: 32.5010
+Val_SSIM: 0.894889
+
+Epoch 324:
+G_Loss: 0.019541
+D_Loss: 2.000000
+Val_PSNR: 32.4859
+Val_SSIM: 0.893101
+
+Epoch 325:
+G_Loss: 0.019540
+D_Loss: 2.000000
+Val_PSNR: 32.5049
+Val_SSIM: 0.894256
+
+Epoch 326:
+G_Loss: 0.019538
+D_Loss: 2.000000
+Val_PSNR: 32.4922
+Val_SSIM: 0.893739
+
+Epoch 327:
+G_Loss: 0.019539
+D_Loss: 2.000000
+Val_PSNR: 32.4998
+Val_SSIM: 0.893298
+
+Epoch 328:
+G_Loss: 0.019540
+D_Loss: 2.000000
+Val_PSNR: 32.5027
+Val_SSIM: 0.896017
+
+Epoch 329:
+G_Loss: 0.019541
+D_Loss: 2.000000
+Val_PSNR: 32.4961
+Val_SSIM: 0.892935
+
+Epoch 330:
+G_Loss: 0.019538
+D_Loss: 2.000000
+Val_PSNR: 32.5026
+Val_SSIM: 0.894403
+
+Epoch 331:
+G_Loss: 0.019539
+D_Loss: 2.000000
+Val_PSNR: 32.4939
+Val_SSIM: 0.894839
+
+Epoch 332:
+G_Loss: 0.019537
+D_Loss: 2.000000
+Val_PSNR: 32.4920
+Val_SSIM: 0.892330
+
+Epoch 333:
+G_Loss: 0.019535
+D_Loss: 2.000000
+Val_PSNR: 32.4896
+Val_SSIM: 0.895351
+
+Epoch 334:
+G_Loss: 0.019536
+D_Loss: 2.000000
+Val_PSNR: 32.5001
+Val_SSIM: 0.893119
+
+Epoch 335:
+G_Loss: 0.019534
+D_Loss: 2.000000
+Val_PSNR: 32.4935
+Val_SSIM: 0.893960
+
+Epoch 336:
+G_Loss: 0.019535
+D_Loss: 2.000000
+Val_PSNR: 32.4931
+Val_SSIM: 0.895710
+
+Epoch 337:
+G_Loss: 0.019539
+D_Loss: 2.000000
+Val_PSNR: 32.4965
+Val_SSIM: 0.893637
+
+Epoch 338:
+G_Loss: 0.019535
+D_Loss: 2.000000
+Val_PSNR: 32.5014
+Val_SSIM: 0.893261
+
+Epoch 339:
+G_Loss: 0.019537
+D_Loss: 2.000000
+Val_PSNR: 32.5001
+Val_SSIM: 0.894413
+
+Epoch 340:
+G_Loss: 0.019533
+D_Loss: 2.000000
+Val_PSNR: 32.5002
+Val_SSIM: 0.894064
+
+Epoch 341:
+G_Loss: 0.019534
+D_Loss: 2.000000
+Val_PSNR: 32.4979
+Val_SSIM: 0.894874
+
+Epoch 342:
+G_Loss: 0.019532
+D_Loss: 2.000000
+Val_PSNR: 32.4898
+Val_SSIM: 0.895335
+
+Epoch 343:
+G_Loss: 0.019532
+D_Loss: 2.000000
+Val_PSNR: 32.4950
+Val_SSIM: 0.893084
+
+Epoch 344:
+G_Loss: 0.019530
+D_Loss: 2.000000
+Val_PSNR: 32.4978
+Val_SSIM: 0.894002
+
+Epoch 345:
+G_Loss: 0.019531
+D_Loss: 2.000000
+Val_PSNR: 32.4998
+Val_SSIM: 0.893712
+
+Epoch 346:
+G_Loss: 0.019534
+D_Loss: 2.000000
+Val_PSNR: 32.4943
+Val_SSIM: 0.893536
+
+Epoch 347:
+G_Loss: 0.019532
+D_Loss: 2.000000
+Val_PSNR: 32.5046
+Val_SSIM: 0.895458
+
+Epoch 348:
+G_Loss: 0.019531
+D_Loss: 2.000000
+Val_PSNR: 32.5011
+Val_SSIM: 0.892945
+
+Epoch 349:
+G_Loss: 0.019532
+D_Loss: 2.000000
+Val_PSNR: 32.5068
+Val_SSIM: 0.896050
+
+Epoch 350:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.5001
+Val_SSIM: 0.895197
+
+Epoch 351:
+G_Loss: 0.019532
+D_Loss: 2.000000
+Val_PSNR: 32.4945
+Val_SSIM: 0.894706
+
+Epoch 352:
+G_Loss: 0.019531
+D_Loss: 2.000000
+Val_PSNR: 32.4975
+Val_SSIM: 0.892902
+
+Epoch 353:
+G_Loss: 0.019533
+D_Loss: 2.000000
+Val_PSNR: 32.5040
+Val_SSIM: 0.896082
+
+Epoch 354:
+G_Loss: 0.019530
+D_Loss: 2.000000
+Val_PSNR: 32.4975
+Val_SSIM: 0.892865
+
+Epoch 355:
+G_Loss: 0.019531
+D_Loss: 2.000000
+Val_PSNR: 32.4915
+Val_SSIM: 0.893556
+
+Epoch 356:
+G_Loss: 0.019530
+D_Loss: 2.000000
+Val_PSNR: 32.4971
+Val_SSIM: 0.894052
+
+Epoch 357:
+G_Loss: 0.019531
+D_Loss: 2.000000
+Val_PSNR: 32.5053
+Val_SSIM: 0.895196
+
+Epoch 358:
+G_Loss: 0.019528
+D_Loss: 2.000000
+Val_PSNR: 32.4886
+Val_SSIM: 0.894781
+
+Epoch 359:
+G_Loss: 0.019529
+D_Loss: 2.000000
+Val_PSNR: 32.5066
+Val_SSIM: 0.894343
+
+Epoch 360:
+G_Loss: 0.019530
+D_Loss: 2.000000
+Val_PSNR: 32.4843
+Val_SSIM: 0.894288
+
+Epoch 361:
+G_Loss: 0.019526
+D_Loss: 2.000000
+Val_PSNR: 32.5045
+Val_SSIM: 0.893753
+
+Epoch 362:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.4996
+Val_SSIM: 0.892643
+
+Epoch 363:
+G_Loss: 0.019525
+D_Loss: 2.000000
+Val_PSNR: 32.5036
+Val_SSIM: 0.896412
+
+Epoch 364:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.5015
+Val_SSIM: 0.894198
+
+Epoch 365:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.5072
+Val_SSIM: 0.894633
+
+Epoch 366:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.5081
+Val_SSIM: 0.893789
+
+Epoch 367:
+G_Loss: 0.019529
+D_Loss: 2.000000
+Val_PSNR: 32.4951
+Val_SSIM: 0.893353
+
+Epoch 368:
+G_Loss: 0.019529
+D_Loss: 2.000000
+Val_PSNR: 32.5036
+Val_SSIM: 0.893994
+
+Epoch 369:
+G_Loss: 0.019526
+D_Loss: 2.000000
+Val_PSNR: 32.4899
+Val_SSIM: 0.893757
+
+Epoch 370:
+G_Loss: 0.019524
+D_Loss: 2.000000
+Val_PSNR: 32.5019
+Val_SSIM: 0.895086
+
+Epoch 371:
+G_Loss: 0.019526
+D_Loss: 2.000000
+Val_PSNR: 32.5023
+Val_SSIM: 0.894243
+
+Epoch 372:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.5075
+Val_SSIM: 0.893363
+
+Epoch 373:
+G_Loss: 0.019526
+D_Loss: 2.000000
+Val_PSNR: 32.4838
+Val_SSIM: 0.894193
+
+Epoch 374:
+G_Loss: 0.019524
+D_Loss: 2.000000
+Val_PSNR: 32.5060
+Val_SSIM: 0.895056
+
+Epoch 375:
+G_Loss: 0.019526
+D_Loss: 2.000000
+Val_PSNR: 32.5076
+Val_SSIM: 0.895247
+
+Epoch 376:
+G_Loss: 0.019527
+D_Loss: 2.000000
+Val_PSNR: 32.5015
+Val_SSIM: 0.894282
+
+Epoch 377:
+G_Loss: 0.019524
+D_Loss: 2.000000
+Val_PSNR: 32.5027
+Val_SSIM: 0.895108
+
+Epoch 378:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.5063
+Val_SSIM: 0.893357
+
+Epoch 379:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.4963
+Val_SSIM: 0.895127
+
+Epoch 380:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.5026
+Val_SSIM: 0.896028
+
+Epoch 381:
+G_Loss: 0.019523
+D_Loss: 2.000000
+Val_PSNR: 32.4965
+Val_SSIM: 0.894829
+
+Epoch 382:
+G_Loss: 0.019523
+D_Loss: 2.000000
+Val_PSNR: 32.5059
+Val_SSIM: 0.895197
+
+Epoch 383:
+G_Loss: 0.019525
+D_Loss: 2.000000
+Val_PSNR: 32.4876
+Val_SSIM: 0.893434
+
+Epoch 384:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.5072
+Val_SSIM: 0.892973
+
+Epoch 385:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.5090
+Val_SSIM: 0.895179
+
+Epoch 386:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.5048
+Val_SSIM: 0.892840
+
+Epoch 387:
+G_Loss: 0.019525
+D_Loss: 2.000000
+Val_PSNR: 32.5122
+Val_SSIM: 0.894456
+
+Epoch 388:
+G_Loss: 0.019523
+D_Loss: 2.000000
+Val_PSNR: 32.5029
+Val_SSIM: 0.893634
+
+Epoch 389:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.4970
+Val_SSIM: 0.893236
+
+Epoch 390:
+G_Loss: 0.019518
+D_Loss: 2.000000
+Val_PSNR: 32.4865
+Val_SSIM: 0.893301
+
+Epoch 391:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.5084
+Val_SSIM: 0.893236
+
+Epoch 392:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.4912
+Val_SSIM: 0.892298
+
+Epoch 393:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.4959
+Val_SSIM: 0.893430
+
+Epoch 394:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.5017
+Val_SSIM: 0.893595
+
+Epoch 395:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.4977
+Val_SSIM: 0.893854
+
+Epoch 396:
+G_Loss: 0.019518
+D_Loss: 2.000000
+Val_PSNR: 32.5102
+Val_SSIM: 0.894025
+
+Epoch 397:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.5026
+Val_SSIM: 0.894909
+
+Epoch 398:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.4871
+Val_SSIM: 0.895030
+
+Epoch 399:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.5023
+Val_SSIM: 0.894511
+
+Epoch 400:
+G_Loss: 0.019519
+D_Loss: 2.000000
+Val_PSNR: 32.5076
+Val_SSIM: 0.894285
+
+Epoch 401:
+G_Loss: 0.019522
+D_Loss: 2.000000
+Val_PSNR: 32.5024
+Val_SSIM: 0.893949
+
+Epoch 402:
+G_Loss: 0.019518
+D_Loss: 2.000000
+Val_PSNR: 32.4999
+Val_SSIM: 0.895315
+
+Epoch 403:
+G_Loss: 0.019517
+D_Loss: 2.000000
+Val_PSNR: 32.5062
+Val_SSIM: 0.894727
+
+Epoch 404:
+G_Loss: 0.019515
+D_Loss: 2.000000
+Val_PSNR: 32.4948
+Val_SSIM: 0.894594
+
+Epoch 405:
+G_Loss: 0.019517
+D_Loss: 2.000000
+Val_PSNR: 32.5019
+Val_SSIM: 0.893745
+
+Epoch 406:
+G_Loss: 0.019520
+D_Loss: 2.000000
+Val_PSNR: 32.5007
+Val_SSIM: 0.894681
+
+Epoch 407:
+G_Loss: 0.019518
+D_Loss: 2.000000
+Val_PSNR: 32.4946
+Val_SSIM: 0.892971
+
+Epoch 408:
+G_Loss: 0.019519
+D_Loss: 2.000000
+Val_PSNR: 32.5039
+Val_SSIM: 0.893934
+
+Epoch 409:
+G_Loss: 0.019517
+D_Loss: 2.000000
+Val_PSNR: 32.5083
+Val_SSIM: 0.892461
+
+Epoch 410:
+G_Loss: 0.019517
+D_Loss: 2.000000
+Val_PSNR: 32.5085
+Val_SSIM: 0.893551
+
+Epoch 411:
+G_Loss: 0.019515
+D_Loss: 2.000000
+Val_PSNR: 32.5036
+Val_SSIM: 0.894847
+
+Epoch 412:
+G_Loss: 0.019517
+D_Loss: 2.000000
+Val_PSNR: 32.5085
+Val_SSIM: 0.894046
+
+Epoch 413:
+G_Loss: 0.019514
+D_Loss: 2.000000
+Val_PSNR: 32.4976
+Val_SSIM: 0.893803
+
+Epoch 414:
+G_Loss: 0.019515
+D_Loss: 2.000000
+Val_PSNR: 32.5140
+Val_SSIM: 0.893729
+
+Epoch 415:
+G_Loss: 0.019511
+D_Loss: 2.000000
+Val_PSNR: 32.5091
+Val_SSIM: 0.893326
+
+Epoch 416:
+G_Loss: 0.019515
+D_Loss: 2.000000
+Val_PSNR: 32.5115
+Val_SSIM: 0.893749
+
+Epoch 417:
+G_Loss: 0.019514
+D_Loss: 2.000000
+Val_PSNR: 32.5075
+Val_SSIM: 0.892622
+
+Epoch 418:
+G_Loss: 0.019516
+D_Loss: 2.000000
+Val_PSNR: 32.4980
+Val_SSIM: 0.894397
+
+Epoch 419:
+G_Loss: 0.019514
+D_Loss: 2.000000
+Val_PSNR: 32.5047
+Val_SSIM: 0.893691
+
+Epoch 420:
+G_Loss: 0.019513
+D_Loss: 2.000000
+Val_PSNR: 32.5027
+Val_SSIM: 0.894410
+
+Epoch 421:
+G_Loss: 0.019510
+D_Loss: 2.000000
+Val_PSNR: 32.5146
+Val_SSIM: 0.893929
+
+Epoch 422:
+G_Loss: 0.019514
+D_Loss: 2.000000
+Val_PSNR: 32.5003
+Val_SSIM: 0.893801
+
+Epoch 423:
+G_Loss: 0.019512
+D_Loss: 2.000000
+Val_PSNR: 32.4992
+Val_SSIM: 0.894802
+
+Epoch 424:
+G_Loss: 0.019513
+D_Loss: 2.000000
+Val_PSNR: 32.5072
+Val_SSIM: 0.893632
+
+Epoch 425:
+G_Loss: 0.019514
+D_Loss: 2.000000
+Val_PSNR: 32.5034
+Val_SSIM: 0.893937
+
+Epoch 426:
+G_Loss: 0.019509
+D_Loss: 2.000000
+Val_PSNR: 32.5120
+Val_SSIM: 0.895439
+
+Epoch 427:
+G_Loss: 0.019511
+D_Loss: 2.000000
+Val_PSNR: 32.5070
+Val_SSIM: 0.894630
+
+Epoch 428:
+G_Loss: 0.019511
+D_Loss: 2.000000
+Val_PSNR: 32.5118
+Val_SSIM: 0.894028
+
+Epoch 429:
+G_Loss: 0.019512
+D_Loss: 2.000000
+Val_PSNR: 32.5030
+Val_SSIM: 0.895485
+
+Epoch 430:
+G_Loss: 0.019509
+D_Loss: 2.000000
+Val_PSNR: 32.5096
+Val_SSIM: 0.893133
+
+Epoch 431:
+G_Loss: 0.019511
+D_Loss: 2.000000
+Val_PSNR: 32.5104
+Val_SSIM: 0.895163
+
+Epoch 432:
+G_Loss: 0.019513
+D_Loss: 2.000000
+Val_PSNR: 32.5080
+Val_SSIM: 0.894415
+
+Epoch 433:
+G_Loss: 0.019510
+D_Loss: 2.000000
+Val_PSNR: 32.5111
+Val_SSIM: 0.894235
+
+Epoch 434:
+G_Loss: 0.019509
+D_Loss: 2.000000
+Val_PSNR: 32.5092
+Val_SSIM: 0.895585
+
+Epoch 435:
+G_Loss: 0.019509
+D_Loss: 2.000000
+Val_PSNR: 32.5114
+Val_SSIM: 0.894146
+
+Epoch 436:
+G_Loss: 0.019510
+D_Loss: 2.000000
+Val_PSNR: 32.4921
+Val_SSIM: 0.895704
+
+Epoch 437:
+G_Loss: 0.019507
+D_Loss: 2.000000
+Val_PSNR: 32.4952
+Val_SSIM: 0.892821
+
+Epoch 438:
+G_Loss: 0.019508
+D_Loss: 2.000000
+Val_PSNR: 32.5067
+Val_SSIM: 0.894427
+
+Epoch 439:
+G_Loss: 0.019508
+D_Loss: 2.000000
+Val_PSNR: 32.5071
+Val_SSIM: 0.894365
+
+Epoch 440:
+G_Loss: 0.019510
+D_Loss: 2.000000
+Val_PSNR: 32.4876
+Val_SSIM: 0.895698
+
+Epoch 441:
+G_Loss: 0.019506
+D_Loss: 2.000000
+Val_PSNR: 32.5126
+Val_SSIM: 0.893286
+
+Epoch 442:
+G_Loss: 0.019509
+D_Loss: 2.000000
+Val_PSNR: 32.5103
+Val_SSIM: 0.893843
+
+Epoch 443:
+G_Loss: 0.019506
+D_Loss: 2.000000
+Val_PSNR: 32.4773
+Val_SSIM: 0.894167
+
+Epoch 444:
+G_Loss: 0.019508
+D_Loss: 2.000000
+Val_PSNR: 32.5079
+Val_SSIM: 0.894392
+
+Epoch 445:
+G_Loss: 0.019507
+D_Loss: 2.000000
+Val_PSNR: 32.5060
+Val_SSIM: 0.893823
+
+Epoch 446:
+G_Loss: 0.019504
+D_Loss: 2.000000
+Val_PSNR: 32.5007
+Val_SSIM: 0.894447
+
+Epoch 447:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5169
+Val_SSIM: 0.894096
+
+Epoch 448:
+G_Loss: 0.019504
+D_Loss: 2.000000
+Val_PSNR: 32.4967
+Val_SSIM: 0.895067
+
+Epoch 449:
+G_Loss: 0.019505
+D_Loss: 2.000000
+Val_PSNR: 32.5046
+Val_SSIM: 0.894025
+
+Epoch 450:
+G_Loss: 0.019505
+D_Loss: 2.000000
+Val_PSNR: 32.5050
+Val_SSIM: 0.892021
+
+Epoch 451:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5126
+Val_SSIM: 0.895764
+
+Epoch 452:
+G_Loss: 0.019507
+D_Loss: 2.000000
+Val_PSNR: 32.5107
+Val_SSIM: 0.894710
+
+Epoch 453:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5066
+Val_SSIM: 0.894745
+
+Epoch 454:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5100
+Val_SSIM: 0.894978
+
+Epoch 455:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5124
+Val_SSIM: 0.893548
+
+Epoch 456:
+G_Loss: 0.019505
+D_Loss: 2.000000
+Val_PSNR: 32.5104
+Val_SSIM: 0.894472
+
+Epoch 457:
+G_Loss: 0.019504
+D_Loss: 2.000000
+Val_PSNR: 32.5067
+Val_SSIM: 0.892841
+
+Epoch 458:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5096
+Val_SSIM: 0.894130
+
+Epoch 459:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5078
+Val_SSIM: 0.894284
+
+Epoch 460:
+G_Loss: 0.019501
+D_Loss: 2.000000
+Val_PSNR: 32.5019
+Val_SSIM: 0.893474
+
+Epoch 461:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5072
+Val_SSIM: 0.895835
+
+Epoch 462:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5160
+Val_SSIM: 0.894964
+
+Epoch 463:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5107
+Val_SSIM: 0.894224
+
+Epoch 464:
+G_Loss: 0.019505
+D_Loss: 2.000000
+Val_PSNR: 32.4972
+Val_SSIM: 0.894776
+
+Epoch 465:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5125
+Val_SSIM: 0.894451
+
+Epoch 466:
+G_Loss: 0.019499
+D_Loss: 2.000000
+Val_PSNR: 32.5122
+Val_SSIM: 0.894107
+
+Epoch 467:
+G_Loss: 0.019501
+D_Loss: 2.000000
+Val_PSNR: 32.5073
+Val_SSIM: 0.893199
+
+Epoch 468:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5080
+Val_SSIM: 0.893474
+
+Epoch 469:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5099
+Val_SSIM: 0.894557
+
+Epoch 470:
+G_Loss: 0.019503
+D_Loss: 2.000000
+Val_PSNR: 32.5072
+Val_SSIM: 0.893167
+
+Epoch 471:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5086
+Val_SSIM: 0.893025
+
+Epoch 472:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5089
+Val_SSIM: 0.894692
+
+Epoch 473:
+G_Loss: 0.019499
+D_Loss: 2.000000
+Val_PSNR: 32.5052
+Val_SSIM: 0.894280
+
+Epoch 474:
+G_Loss: 0.019501
+D_Loss: 2.000000
+Val_PSNR: 32.5214
+Val_SSIM: 0.896252
+
+Epoch 475:
+G_Loss: 0.019501
+D_Loss: 2.000000
+Val_PSNR: 32.5066
+Val_SSIM: 0.893949
+
+Epoch 476:
+G_Loss: 0.019497
+D_Loss: 2.000000
+Val_PSNR: 32.5026
+Val_SSIM: 0.892263
+
+Epoch 477:
+G_Loss: 0.019502
+D_Loss: 2.000000
+Val_PSNR: 32.5162
+Val_SSIM: 0.894519
+
+Epoch 478:
+G_Loss: 0.019499
+D_Loss: 2.000000
+Val_PSNR: 32.4871
+Val_SSIM: 0.894462
+
+Epoch 479:
+G_Loss: 0.019498
+D_Loss: 2.000000
+Val_PSNR: 32.5161
+Val_SSIM: 0.894168
+
+Epoch 480:
+G_Loss: 0.019501
+D_Loss: 2.000000
+Val_PSNR: 32.5135
+Val_SSIM: 0.895888
+
+Epoch 481:
+G_Loss: 0.019500
+D_Loss: 2.000000
+Val_PSNR: 32.5155
+Val_SSIM: 0.895818
+
+Epoch 482:
+G_Loss: 0.019496
+D_Loss: 2.000000
+Val_PSNR: 32.5118
+Val_SSIM: 0.894101
+
+Epoch 483:
+G_Loss: 0.019498
+D_Loss: 2.000000
+Val_PSNR: 32.5027
+Val_SSIM: 0.894182
+
+Epoch 484:
+G_Loss: 0.019496
+D_Loss: 2.000000
+Val_PSNR: 32.5099
+Val_SSIM: 0.894304
+
+Epoch 485:
+G_Loss: 0.019500
+D_Loss: 2.000000
+Val_PSNR: 32.4921
+Val_SSIM: 0.894675
+
+Epoch 486:
+G_Loss: 0.019494
+D_Loss: 2.000000
+Val_PSNR: 32.5082
+Val_SSIM: 0.894307
+
+Epoch 487:
+G_Loss: 0.019497
+D_Loss: 2.000000
+Val_PSNR: 32.5178
+Val_SSIM: 0.894441
+
+Epoch 488:
+G_Loss: 0.019497
+D_Loss: 2.000000
+Val_PSNR: 32.5134
+Val_SSIM: 0.893925
+
+Epoch 489:
+G_Loss: 0.019496
+D_Loss: 2.000000
+Val_PSNR: 32.5078
+Val_SSIM: 0.893827
+
+Epoch 490:
+G_Loss: 0.019493
+D_Loss: 2.000000
+Val_PSNR: 32.4885
+Val_SSIM: 0.894217
+
+Epoch 491:
+G_Loss: 0.019494
+D_Loss: 2.000000
+Val_PSNR: 32.4946
+Val_SSIM: 0.893154
+
+Epoch 492:
+G_Loss: 0.019494
+D_Loss: 2.000000
+Val_PSNR: 32.4987
+Val_SSIM: 0.895768
+
+Epoch 493:
+G_Loss: 0.019493
+D_Loss: 2.000000
+Val_PSNR: 32.4879
+Val_SSIM: 0.892909
+
+Epoch 494:
+G_Loss: 0.019493
+D_Loss: 2.000000
+Val_PSNR: 32.5181
+Val_SSIM: 0.894526
+
+Epoch 495:
+G_Loss: 0.019495
+D_Loss: 2.000000
+Val_PSNR: 32.5075
+Val_SSIM: 0.894547
+
+Epoch 496:
+G_Loss: 0.019496
+D_Loss: 2.000000
+Val_PSNR: 32.4982
+Val_SSIM: 0.894883
+
+Epoch 497:
+G_Loss: 0.019494
+D_Loss: 2.000000
+Val_PSNR: 32.5042
+Val_SSIM: 0.894830
+
+Epoch 498:
+G_Loss: 0.019494
+D_Loss: 2.000000
+Val_PSNR: 32.5034
+Val_SSIM: 0.893846
+
+Epoch 499:
+G_Loss: 0.019492
+D_Loss: 2.000000
+Val_PSNR: 32.5210
+Val_SSIM: 0.895906
+
+Epoch 500:
+G_Loss: 0.019495
+D_Loss: 2.000000
+Val_PSNR: 32.5101
+Val_SSIM: 0.893420
+
+Epoch 501:
+G_Loss: 0.020100
+D_Loss: 2.000000
+Val_PSNR: 32.5083
+Val_SSIM: 0.893803
+
+Epoch 502:
+G_Loss: 0.020097
+D_Loss: 2.000000
+Val_PSNR: 32.5105
+Val_SSIM: 0.894012
+
+Epoch 503:
+G_Loss: 0.020094
+D_Loss: 2.000000
+Val_PSNR: 32.5143
+Val_SSIM: 0.895558
+
+Epoch 504:
+G_Loss: 0.020095
+D_Loss: 2.000000
+Val_PSNR: 32.5148
+Val_SSIM: 0.894760
+
+Epoch 505:
+G_Loss: 0.020095
+D_Loss: 2.000000
+Val_PSNR: 32.5138
+Val_SSIM: 0.894556
+
+Epoch 506:
+G_Loss: 0.020093
+D_Loss: 2.000000
+Val_PSNR: 32.4993
+Val_SSIM: 0.894399
+
+Epoch 507:
+G_Loss: 0.020092
+D_Loss: 2.000000
+Val_PSNR: 32.5190
+Val_SSIM: 0.894768
+
+Epoch 508:
+G_Loss: 0.020088
+D_Loss: 2.000000
+Val_PSNR: 32.5164
+Val_SSIM: 0.894062
+
+Epoch 509:
+G_Loss: 0.020093
+D_Loss: 2.000000
+Val_PSNR: 32.5156
+Val_SSIM: 0.894403
+
+Epoch 510:
+G_Loss: 0.020092
+D_Loss: 2.000000
+Val_PSNR: 32.5081
+Val_SSIM: 0.895030
+
+Epoch 511:
+G_Loss: 0.020089
+D_Loss: 2.000000
+Val_PSNR: 32.5112
+Val_SSIM: 0.893379
+
+Epoch 512:
+G_Loss: 0.020089
+D_Loss: 2.000000
+Val_PSNR: 32.5176
+Val_SSIM: 0.894923
+
+Epoch 513:
+G_Loss: 0.020090
+D_Loss: 2.000000
+Val_PSNR: 32.5142
+Val_SSIM: 0.894546
+
+Epoch 514:
+G_Loss: 0.020087
+D_Loss: 2.000000
+Val_PSNR: 32.5130
+Val_SSIM: 0.893009
+
+Epoch 515:
+G_Loss: 0.020088
+D_Loss: 2.000000
+Val_PSNR: 32.5133
+Val_SSIM: 0.894484
+
+Epoch 516:
+G_Loss: 0.020088
+D_Loss: 2.000000
+Val_PSNR: 32.5088
+Val_SSIM: 0.894141
+
+Epoch 517:
+G_Loss: 0.020088
+D_Loss: 2.000000
+Val_PSNR: 32.5136
+Val_SSIM: 0.895750
+
+Epoch 518:
+G_Loss: 0.020088
+D_Loss: 2.000000
+Val_PSNR: 32.5043
+Val_SSIM: 0.893955
+
+Epoch 519:
+G_Loss: 0.020084
+D_Loss: 2.000000
+Val_PSNR: 32.5129
+Val_SSIM: 0.895500
+
+Epoch 520:
+G_Loss: 0.020088
+D_Loss: 2.000000
+Val_PSNR: 32.5078
+Val_SSIM: 0.894737
+
+Epoch 521:
+G_Loss: 0.020081
+D_Loss: 2.000000
+Val_PSNR: 32.4864
+Val_SSIM: 0.896644
+
+Epoch 522:
+G_Loss: 0.020084
+D_Loss: 2.000000
+Val_PSNR: 32.5093
+Val_SSIM: 0.895177
+
+Epoch 523:
+G_Loss: 0.020081
+D_Loss: 2.000000
+Val_PSNR: 32.5165
+Val_SSIM: 0.895183
+
+Epoch 524:
+G_Loss: 0.020084
+D_Loss: 2.000000
+Val_PSNR: 32.5182
+Val_SSIM: 0.896314
+
+Epoch 525:
+G_Loss: 0.020082
+D_Loss: 2.000000
+Val_PSNR: 32.5116
+Val_SSIM: 0.896698
+
+Epoch 526:
+G_Loss: 0.020082
+D_Loss: 2.000000
+Val_PSNR: 32.5165
+Val_SSIM: 0.895324
+
+Epoch 527:
+G_Loss: 0.020081
+D_Loss: 2.000000
+Val_PSNR: 32.5125
+Val_SSIM: 0.894234
+
+Epoch 528:
+G_Loss: 0.020079
+D_Loss: 2.000000
+Val_PSNR: 32.5054
+Val_SSIM: 0.895049
+
+Epoch 529:
+G_Loss: 0.020082
+D_Loss: 2.000000
+Val_PSNR: 32.5056
+Val_SSIM: 0.894484
+
+Epoch 530:
+G_Loss: 0.020081
+D_Loss: 2.000000
+Val_PSNR: 32.5149
+Val_SSIM: 0.894870
+
+Epoch 531:
+G_Loss: 0.020080
+D_Loss: 2.000000
+Val_PSNR: 32.5106
+Val_SSIM: 0.894921
+
+Epoch 532:
+G_Loss: 0.020082
+D_Loss: 2.000000
+Val_PSNR: 32.5174
+Val_SSIM: 0.894705
+
+Epoch 533:
+G_Loss: 0.020078
+D_Loss: 2.000000
+Val_PSNR: 32.5211
+Val_SSIM: 0.894006
+
+Epoch 534:
+G_Loss: 0.020081
+D_Loss: 2.000000
+Val_PSNR: 32.5107
+Val_SSIM: 0.894699
+
+Epoch 535:
+G_Loss: 0.020077
+D_Loss: 2.000000
+Val_PSNR: 32.5217
+Val_SSIM: 0.894065
+
+Epoch 536:
+G_Loss: 0.020075
+D_Loss: 2.000000
+Val_PSNR: 32.5125
+Val_SSIM: 0.894696
+
+Epoch 537:
+G_Loss: 0.020078
+D_Loss: 2.000000
+Val_PSNR: 32.5192
+Val_SSIM: 0.896057
+
+Epoch 538:
+G_Loss: 0.020076
+D_Loss: 2.000000
+Val_PSNR: 32.5164
+Val_SSIM: 0.893866
+
+Epoch 539:
+G_Loss: 0.020076
+D_Loss: 2.000000
+Val_PSNR: 32.5145
+Val_SSIM: 0.893847
+
+Epoch 540:
+G_Loss: 0.020077
+D_Loss: 2.000000
+Val_PSNR: 32.4918
+Val_SSIM: 0.893656
+
+Epoch 541:
+G_Loss: 0.020076
+D_Loss: 2.000000
+Val_PSNR: 32.5041
+Val_SSIM: 0.895889
+
+Epoch 542:
+G_Loss: 0.020078
+D_Loss: 2.000000
+Val_PSNR: 32.5150
+Val_SSIM: 0.893629
+
+Epoch 543:
+G_Loss: 0.020073
+D_Loss: 2.000000
+Val_PSNR: 32.5227
+Val_SSIM: 0.893806
+
+Epoch 544:
+G_Loss: 0.020073
+D_Loss: 2.000000
+Val_PSNR: 32.5195
+Val_SSIM: 0.895066
+
+Epoch 545:
+G_Loss: 0.020075
+D_Loss: 2.000000
+Val_PSNR: 32.5130
+Val_SSIM: 0.895533
+
+Epoch 546:
+G_Loss: 0.020073
+D_Loss: 2.000000
+Val_PSNR: 32.5175
+Val_SSIM: 0.895250
+
+Epoch 547:
+G_Loss: 0.020076
+D_Loss: 2.000000
+Val_PSNR: 32.5150
+Val_SSIM: 0.893168
+
+Epoch 548:
+G_Loss: 0.020076
+D_Loss: 2.000000
+Val_PSNR: 32.5073
+Val_SSIM: 0.894857
+
+Epoch 549:
+G_Loss: 0.020072
+D_Loss: 2.000000
+Val_PSNR: 32.5142
+Val_SSIM: 0.896589
+
+Epoch 550:
+G_Loss: 0.020070
+D_Loss: 2.000000
+Val_PSNR: 32.4828
+Val_SSIM: 0.894427
+
+Epoch 551:
+G_Loss: 0.020074
+D_Loss: 2.000000
+Val_PSNR: 32.5093
+Val_SSIM: 0.893637
+
+Epoch 552:
+G_Loss: 0.020072
+D_Loss: 2.000000
+Val_PSNR: 32.5174
+Val_SSIM: 0.894158
+
+Epoch 553:
+G_Loss: 0.020074
+D_Loss: 2.000000
+Val_PSNR: 32.5153
+Val_SSIM: 0.895060
+
+Epoch 554:
+G_Loss: 0.020075
+D_Loss: 2.000000
+Val_PSNR: 32.5121
+Val_SSIM: 0.894333
+
+Epoch 555:
+G_Loss: 0.020073
+D_Loss: 2.000000
+Val_PSNR: 32.5147
+Val_SSIM: 0.893846
+
+Epoch 556:
+G_Loss: 0.020069
+D_Loss: 2.000000
+Val_PSNR: 32.5090
+Val_SSIM: 0.893899
+
+Epoch 557:
+G_Loss: 0.020071
+D_Loss: 2.000000
+Val_PSNR: 32.5175
+Val_SSIM: 0.896625
+
+Epoch 558:
+G_Loss: 0.020070
+D_Loss: 2.000000
+Val_PSNR: 32.5081
+Val_SSIM: 0.894188
+
+Epoch 559:
+G_Loss: 0.020073
+D_Loss: 2.000000
+Val_PSNR: 32.5107
+Val_SSIM: 0.895332
+
+Epoch 560:
+G_Loss: 0.020070
+D_Loss: 2.000000
+Val_PSNR: 32.5221
+Val_SSIM: 0.895390
+
+Epoch 561:
+G_Loss: 0.020072
+D_Loss: 2.000000
+Val_PSNR: 32.5107
+Val_SSIM: 0.893781
+
+Epoch 562:
+G_Loss: 0.020066
+D_Loss: 2.000000
+Val_PSNR: 32.5199
+Val_SSIM: 0.895443
+
+Epoch 563:
+G_Loss: 0.020066
+D_Loss: 2.000000
+Val_PSNR: 32.5081
+Val_SSIM: 0.895876
+
+Epoch 564:
+G_Loss: 0.020068
+D_Loss: 2.000000
+Val_PSNR: 32.5166
+Val_SSIM: 0.894726
+
+Epoch 565:
+G_Loss: 0.020069
+D_Loss: 2.000000
+Val_PSNR: 32.5049
+Val_SSIM: 0.894459
+
+Epoch 566:
+G_Loss: 0.020065
+D_Loss: 2.000000
+Val_PSNR: 32.5193
+Val_SSIM: 0.894630
+
+Epoch 567:
+G_Loss: 0.020069
+D_Loss: 2.000000
+Val_PSNR: 32.5196
+Val_SSIM: 0.895481
+
+Epoch 568:
+G_Loss: 0.020069
+D_Loss: 2.000000
+Val_PSNR: 32.5136
+Val_SSIM: 0.895665
+
+Epoch 569:
+G_Loss: 0.020064
+D_Loss: 2.000000
+Val_PSNR: 32.5189
+Val_SSIM: 0.895125
+
+Epoch 570:
+G_Loss: 0.020067
+D_Loss: 2.000000
+Val_PSNR: 32.5232
+Val_SSIM: 0.896076
+
+Epoch 571:
+G_Loss: 0.020067
+D_Loss: 2.000000
+Val_PSNR: 32.5169
+Val_SSIM: 0.893794
+
+Epoch 572:
+G_Loss: 0.020065
+D_Loss: 2.000000
+Val_PSNR: 32.5121
+Val_SSIM: 0.895315
+
+Epoch 573:
+G_Loss: 0.020061
+D_Loss: 2.000000
+Val_PSNR: 32.5077
+Val_SSIM: 0.894612
+
+Epoch 574:
+G_Loss: 0.020065
+D_Loss: 2.000000
+Val_PSNR: 32.5170
+Val_SSIM: 0.895244
+
+Epoch 575:
+G_Loss: 0.020064
+D_Loss: 2.000000
+Val_PSNR: 32.5126
+Val_SSIM: 0.895390
+
+Epoch 576:
+G_Loss: 0.020064
+D_Loss: 2.000000
+Val_PSNR: 32.5164
+Val_SSIM: 0.894502
+
+Epoch 577:
+G_Loss: 0.020062
+D_Loss: 2.000000
+Val_PSNR: 32.5002
+Val_SSIM: 0.893406
+
+Epoch 578:
+G_Loss: 0.020066
+D_Loss: 2.000000
+Val_PSNR: 32.5062
+Val_SSIM: 0.893996
+
+Epoch 579:
+G_Loss: 0.020062
+D_Loss: 2.000000
+Val_PSNR: 32.5262
+Val_SSIM: 0.894702
+
+Epoch 580:
+G_Loss: 0.020067
+D_Loss: 2.000000
+Val_PSNR: 32.5186
+Val_SSIM: 0.894132
+
+Epoch 581:
+G_Loss: 0.020066
+D_Loss: 2.000000
+Val_PSNR: 32.5058
+Val_SSIM: 0.894734
+
+Epoch 582:
+G_Loss: 0.020062
+D_Loss: 2.000000
+Val_PSNR: 32.5178
+Val_SSIM: 0.893799
+
+Epoch 583:
+G_Loss: 0.020061
+D_Loss: 2.000000
+Val_PSNR: 32.5162
+Val_SSIM: 0.894464
+
+Epoch 584:
+G_Loss: 0.020063
+D_Loss: 2.000000
+Val_PSNR: 32.5160
+Val_SSIM: 0.893035
+
+Epoch 585:
+G_Loss: 0.020059
+D_Loss: 2.000000
+Val_PSNR: 32.5097
+Val_SSIM: 0.894704
+
+Epoch 586:
+G_Loss: 0.020061
+D_Loss: 2.000000
+Val_PSNR: 32.5189
+Val_SSIM: 0.895279
+
+Epoch 587:
+G_Loss: 0.020063
+D_Loss: 2.000000
+Val_PSNR: 32.5193
+Val_SSIM: 0.894184
+
+Epoch 588:
+G_Loss: 0.020062
+D_Loss: 2.000000
+Val_PSNR: 32.5145
+Val_SSIM: 0.896161
+
+Epoch 589:
+G_Loss: 0.020059
+D_Loss: 2.000000
+Val_PSNR: 32.5228
+Val_SSIM: 0.894325
+
+Epoch 590:
+G_Loss: 0.020059
+D_Loss: 2.000000
+Val_PSNR: 32.5241
+Val_SSIM: 0.896163
+
+Epoch 591:
+G_Loss: 0.020060
+D_Loss: 2.000000
+Val_PSNR: 32.5191
+Val_SSIM: 0.894825
+
+Epoch 592:
+G_Loss: 0.020061
+D_Loss: 2.000000
+Val_PSNR: 32.5274
+Val_SSIM: 0.895482
+
+Epoch 593:
+G_Loss: 0.020057
+D_Loss: 2.000000
+Val_PSNR: 32.5130
+Val_SSIM: 0.894437
+
+Epoch 594:
+G_Loss: 0.020060
+D_Loss: 2.000000
+Val_PSNR: 32.5169
+Val_SSIM: 0.896354
+
+Epoch 595:
+G_Loss: 0.020058
+D_Loss: 2.000000
+Val_PSNR: 32.4907
+Val_SSIM: 0.895697
+
+Epoch 596:
+G_Loss: 0.020057
+D_Loss: 2.000000
+Val_PSNR: 32.5190
+Val_SSIM: 0.895328
+
+Epoch 597:
+G_Loss: 0.020054
+D_Loss: 2.000000
+Val_PSNR: 32.5213
+Val_SSIM: 0.895717
+
+Epoch 598:
+G_Loss: 0.020058
+D_Loss: 2.000000
+Val_PSNR: 32.5144
+Val_SSIM: 0.895448
+
+Epoch 599:
+G_Loss: 0.020056
+D_Loss: 2.000000
+Val_PSNR: 32.5243
+Val_SSIM: 0.896669
+
+Epoch 600:
+G_Loss: 0.020056
+D_Loss: 2.000000
+Val_PSNR: 32.5121
+Val_SSIM: 0.893596
+
+Epoch 601:
+G_Loss: 0.020060
+D_Loss: 2.000000
+Val_PSNR: 32.5184
+Val_SSIM: 0.893923
+
+Epoch 602:
+G_Loss: 0.020056
+D_Loss: 2.000000
+Val_PSNR: 32.4995
+Val_SSIM: 0.894614
+
+Epoch 603:
+G_Loss: 0.020057
+D_Loss: 2.000000
+Val_PSNR: 32.5198
+Val_SSIM: 0.895936
+
+Epoch 604:
+G_Loss: 0.020057
+D_Loss: 2.000000
+Val_PSNR: 32.5151
+Val_SSIM: 0.896190
+
+Epoch 605:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5139
+Val_SSIM: 0.894516
+
+Epoch 606:
+G_Loss: 0.020057
+D_Loss: 2.000000
+Val_PSNR: 32.5250
+Val_SSIM: 0.895829
+
+Epoch 607:
+G_Loss: 0.020056
+D_Loss: 2.000000
+Val_PSNR: 32.5139
+Val_SSIM: 0.893841
+
+Epoch 608:
+G_Loss: 0.020055
+D_Loss: 2.000000
+Val_PSNR: 32.5176
+Val_SSIM: 0.894885
+
+Epoch 609:
+G_Loss: 0.020054
+D_Loss: 2.000000
+Val_PSNR: 32.5161
+Val_SSIM: 0.895071
+
+Epoch 610:
+G_Loss: 0.020051
+D_Loss: 2.000000
+Val_PSNR: 32.5231
+Val_SSIM: 0.894172
+
+Epoch 611:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5202
+Val_SSIM: 0.894657
+
+Epoch 612:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5262
+Val_SSIM: 0.894146
+
+Epoch 613:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5143
+Val_SSIM: 0.895157
+
+Epoch 614:
+G_Loss: 0.020054
+D_Loss: 2.000000
+Val_PSNR: 32.5092
+Val_SSIM: 0.894834
+
+Epoch 615:
+G_Loss: 0.020055
+D_Loss: 2.000000
+Val_PSNR: 32.5223
+Val_SSIM: 0.895742
+
+Epoch 616:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5178
+Val_SSIM: 0.895216
+
+Epoch 617:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5168
+Val_SSIM: 0.894392
+
+Epoch 618:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5188
+Val_SSIM: 0.896023
+
+Epoch 619:
+G_Loss: 0.020054
+D_Loss: 2.000000
+Val_PSNR: 32.5144
+Val_SSIM: 0.895693
+
+Epoch 620:
+G_Loss: 0.020048
+D_Loss: 2.000000
+Val_PSNR: 32.5074
+Val_SSIM: 0.894668
+
+Epoch 621:
+G_Loss: 0.020047
+D_Loss: 2.000000
+Val_PSNR: 32.5206
+Val_SSIM: 0.895249
+
+Epoch 622:
+G_Loss: 0.020051
+D_Loss: 2.000000
+Val_PSNR: 32.5130
+Val_SSIM: 0.894904
+
+Epoch 623:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5284
+Val_SSIM: 0.894185
+
+Epoch 624:
+G_Loss: 0.020049
+D_Loss: 2.000000
+Val_PSNR: 32.5085
+Val_SSIM: 0.894886
+
+Epoch 625:
+G_Loss: 0.020051
+D_Loss: 2.000000
+Val_PSNR: 32.5056
+Val_SSIM: 0.894916
+
+Epoch 626:
+G_Loss: 0.020052
+D_Loss: 2.000000
+Val_PSNR: 32.5229
+Val_SSIM: 0.894112
+
+Epoch 627:
+G_Loss: 0.020050
+D_Loss: 2.000000
+Val_PSNR: 32.5274
+Val_SSIM: 0.894490
+
+Epoch 628:
+G_Loss: 0.020049
+D_Loss: 2.000000
+Val_PSNR: 32.5231
+Val_SSIM: 0.893476
+
+Epoch 629:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5217
+Val_SSIM: 0.894535
+
+Epoch 630:
+G_Loss: 0.020047
+D_Loss: 2.000000
+Val_PSNR: 32.5334
+Val_SSIM: 0.895637
+
+Epoch 631:
+G_Loss: 0.020049
+D_Loss: 2.000000
+Val_PSNR: 32.5247
+Val_SSIM: 0.894393
+
+Epoch 632:
+G_Loss: 0.020047
+D_Loss: 2.000000
+Val_PSNR: 32.5146
+Val_SSIM: 0.894548
+
+Epoch 633:
+G_Loss: 0.020047
+D_Loss: 2.000000
+Val_PSNR: 32.5227
+Val_SSIM: 0.894902
+
+Epoch 634:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5240
+Val_SSIM: 0.896434
+
+Epoch 635:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5291
+Val_SSIM: 0.894148
+
+Epoch 636:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5200
+Val_SSIM: 0.895813
+
+Epoch 637:
+G_Loss: 0.020045
+D_Loss: 2.000000
+Val_PSNR: 32.5296
+Val_SSIM: 0.895087
+
+Epoch 638:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5215
+Val_SSIM: 0.894223
+
+Epoch 639:
+G_Loss: 0.020042
+D_Loss: 2.000000
+Val_PSNR: 32.5160
+Val_SSIM: 0.895629
+
+Epoch 640:
+G_Loss: 0.020044
+D_Loss: 2.000000
+Val_PSNR: 32.5144
+Val_SSIM: 0.895729
+
+Epoch 641:
+G_Loss: 0.020043
+D_Loss: 2.000000
+Val_PSNR: 32.5214
+Val_SSIM: 0.895133
+
+Epoch 642:
+G_Loss: 0.020044
+D_Loss: 2.000000
+Val_PSNR: 32.5189
+Val_SSIM: 0.895206
+
+Epoch 643:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5251
+Val_SSIM: 0.895461
+
+Epoch 644:
+G_Loss: 0.020042
+D_Loss: 2.000000
+Val_PSNR: 32.5000
+Val_SSIM: 0.894605
+
+Epoch 645:
+G_Loss: 0.020042
+D_Loss: 2.000000
+Val_PSNR: 32.5249
+Val_SSIM: 0.894410
+
+Epoch 646:
+G_Loss: 0.020043
+D_Loss: 2.000000
+Val_PSNR: 32.5281
+Val_SSIM: 0.894959
+
+Epoch 647:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5180
+Val_SSIM: 0.895603
+
+Epoch 648:
+G_Loss: 0.020043
+D_Loss: 2.000000
+Val_PSNR: 32.5266
+Val_SSIM: 0.895357
+
+Epoch 649:
+G_Loss: 0.020042
+D_Loss: 2.000000
+Val_PSNR: 32.5262
+Val_SSIM: 0.896080
+
+Epoch 650:
+G_Loss: 0.020038
+D_Loss: 2.000000
+Val_PSNR: 32.5251
+Val_SSIM: 0.895127
+
+Epoch 651:
+G_Loss: 0.020046
+D_Loss: 2.000000
+Val_PSNR: 32.5175
+Val_SSIM: 0.894104
+
+Epoch 652:
+G_Loss: 0.020040
+D_Loss: 2.000000
+Val_PSNR: 32.5142
+Val_SSIM: 0.894714
+
+Epoch 653:
+G_Loss: 0.020039
+D_Loss: 2.000000
+Val_PSNR: 32.5069
+Val_SSIM: 0.895911
+
+Epoch 654:
+G_Loss: 0.020035
+D_Loss: 2.000000
+Val_PSNR: 32.5162
+Val_SSIM: 0.896171
+
+Epoch 655:
+G_Loss: 0.020040
+D_Loss: 2.000000
+Val_PSNR: 32.5215
+Val_SSIM: 0.895082
+
+Epoch 656:
+G_Loss: 0.020038
+D_Loss: 2.000000
+Val_PSNR: 32.5256
+Val_SSIM: 0.894639
+
+Epoch 657:
+G_Loss: 0.020036
+D_Loss: 2.000000
+Val_PSNR: 32.5214
+Val_SSIM: 0.894671
+
+Epoch 658:
+G_Loss: 0.020038
+D_Loss: 2.000000
+Val_PSNR: 32.5171
+Val_SSIM: 0.893541
+
+Epoch 659:
+G_Loss: 0.020041
+D_Loss: 2.000000
+Val_PSNR: 32.5250
+Val_SSIM: 0.894110
+
+Epoch 660:
+G_Loss: 0.020040
+D_Loss: 2.000000
+Val_PSNR: 32.5033
+Val_SSIM: 0.895938
+
+Epoch 661:
+G_Loss: 0.020036
+D_Loss: 2.000000
+Val_PSNR: 32.5182
+Val_SSIM: 0.893930
+
+Epoch 662:
+G_Loss: 0.020037
+D_Loss: 2.000000
+Val_PSNR: 32.5378
+Val_SSIM: 0.894452
+
+Epoch 663:
+G_Loss: 0.020039
+D_Loss: 2.000000
+Val_PSNR: 32.5309
+Val_SSIM: 0.894645
+
+Epoch 664:
+G_Loss: 0.020040
+D_Loss: 2.000000
+Val_PSNR: 32.5198
+Val_SSIM: 0.893910
+
+Epoch 665:
+G_Loss: 0.020037
+D_Loss: 2.000000
+Val_PSNR: 32.5320
+Val_SSIM: 0.895003
+
+Epoch 666:
+G_Loss: 0.020039
+D_Loss: 2.000000
+Val_PSNR: 32.5210
+Val_SSIM: 0.895928
+
+Epoch 667:
+G_Loss: 0.020036
+D_Loss: 2.000000
+Val_PSNR: 32.5089
+Val_SSIM: 0.893764
+
+Epoch 668:
+G_Loss: 0.020041
+D_Loss: 2.000000
+Val_PSNR: 32.5173
+Val_SSIM: 0.894186
+
+Epoch 669:
+G_Loss: 0.020033
+D_Loss: 2.000000
+Val_PSNR: 32.5287
+Val_SSIM: 0.895406
+
+Epoch 670:
+G_Loss: 0.020036
+D_Loss: 2.000000
+Val_PSNR: 32.5295
+Val_SSIM: 0.894230
+
+Epoch 671:
+G_Loss: 0.020034
+D_Loss: 2.000000
+Val_PSNR: 32.5163
+Val_SSIM: 0.894447
+
+Epoch 672:
+G_Loss: 0.020034
+D_Loss: 2.000000
+Val_PSNR: 32.5032
+Val_SSIM: 0.895738
+
+Epoch 673:
+G_Loss: 0.020035
+D_Loss: 2.000000
+Val_PSNR: 32.5265
+Val_SSIM: 0.895368
+
+Epoch 674:
+G_Loss: 0.020036
+D_Loss: 2.000000
+Val_PSNR: 32.5278
+Val_SSIM: 0.897013
+
+Epoch 675:
+G_Loss: 0.020035
+D_Loss: 2.000000
+Val_PSNR: 32.5273
+Val_SSIM: 0.895890
+
+Epoch 676:
+G_Loss: 0.020035
+D_Loss: 2.000000
+Val_PSNR: 32.5262
+Val_SSIM: 0.894018
+
+Epoch 677:
+G_Loss: 0.020033
+D_Loss: 2.000000
+Val_PSNR: 32.5310
+Val_SSIM: 0.893986
+
+Epoch 678:
+G_Loss: 0.020032
+D_Loss: 2.000000
+Val_PSNR: 32.5123
+Val_SSIM: 0.894041
+
+Epoch 679:
+G_Loss: 0.020035
+D_Loss: 2.000000
+Val_PSNR: 32.5205
+Val_SSIM: 0.892836
+
+Epoch 680:
+G_Loss: 0.020035
+D_Loss: 2.000000
+Val_PSNR: 32.5171
+Val_SSIM: 0.894179
+
+Epoch 681:
+G_Loss: 0.020030
+D_Loss: 2.000000
+Val_PSNR: 32.5150
+Val_SSIM: 0.895757
+
+Epoch 682:
+G_Loss: 0.020032
+D_Loss: 2.000000
+Val_PSNR: 32.5189
+Val_SSIM: 0.893861
+
+Epoch 683:
+G_Loss: 0.020033
+D_Loss: 2.000000
+Val_PSNR: 32.5336
+Val_SSIM: 0.895183
+
+Epoch 684:
+G_Loss: 0.020031
+D_Loss: 2.000000
+Val_PSNR: 32.5252
+Val_SSIM: 0.895025
+
+Epoch 685:
+G_Loss: 0.020037
+D_Loss: 2.000000
+Val_PSNR: 32.5063
+Val_SSIM: 0.894804
+
+Epoch 686:
+G_Loss: 0.020032
+D_Loss: 2.000000
+Val_PSNR: 32.5193
+Val_SSIM: 0.895796
+
+Epoch 687:
+G_Loss: 0.020034
+D_Loss: 2.000000
+Val_PSNR: 32.5214
+Val_SSIM: 0.894419
+
+Epoch 688:
+G_Loss: 0.020031
+D_Loss: 2.000000
+Val_PSNR: 32.5353
+Val_SSIM: 0.894152
+
+Epoch 689:
+G_Loss: 0.020034
+D_Loss: 2.000000
+Val_PSNR: 32.5302
+Val_SSIM: 0.894389
+
+Epoch 690:
+G_Loss: 0.020031
+D_Loss: 2.000000
+Val_PSNR: 32.5281
+Val_SSIM: 0.895285
+
+Epoch 691:
+G_Loss: 0.020032
+D_Loss: 2.000000
+Val_PSNR: 32.5185
+Val_SSIM: 0.893849
+
+Epoch 692:
+G_Loss: 0.020030
+D_Loss: 2.000000
+Val_PSNR: 32.5213
+Val_SSIM: 0.894197
+
+Epoch 693:
+G_Loss: 0.020028
+D_Loss: 2.000000
+Val_PSNR: 32.5250
+Val_SSIM: 0.894757
+
+Epoch 694:
+G_Loss: 0.020031
+D_Loss: 2.000000
+Val_PSNR: 32.5274
+Val_SSIM: 0.896335
+
+Epoch 695:
+G_Loss: 0.020031
+D_Loss: 2.000000
+Val_PSNR: 32.5267
+Val_SSIM: 0.894788
+
+Epoch 696:
+G_Loss: 0.020026
+D_Loss: 2.000000
+Val_PSNR: 32.5322
+Val_SSIM: 0.896549
+
+Epoch 697:
+G_Loss: 0.020030
+D_Loss: 2.000000
+Val_PSNR: 32.5187
+Val_SSIM: 0.894222
+
+Epoch 698:
+G_Loss: 0.020030
+D_Loss: 2.000000
+Val_PSNR: 32.5197
+Val_SSIM: 0.893647
+
+Epoch 699:
+G_Loss: 0.020029
+D_Loss: 2.000000
+Val_PSNR: 32.5307
+Val_SSIM: 0.895295
+
+Epoch 700:
+G_Loss: 0.020026
+D_Loss: 2.000000
+Val_PSNR: 32.5190
+Val_SSIM: 0.894106
+
+Epoch 701:
+G_Loss: 0.020028
+D_Loss: 2.000000
+Val_PSNR: 32.5214
+Val_SSIM: 0.893970
+
+Epoch 702:
+G_Loss: 0.020030
+D_Loss: 2.000000
+Val_PSNR: 32.5342
+Val_SSIM: 0.895730
+
+Epoch 703:
+G_Loss: 0.020026
+D_Loss: 2.000000
+Val_PSNR: 32.5255
+Val_SSIM: 0.894147
+
+Epoch 704:
+G_Loss: 0.020026
+D_Loss: 2.000000
+Val_PSNR: 32.5220
+Val_SSIM: 0.894912
+
+Epoch 705:
+G_Loss: 0.020027
+D_Loss: 2.000000
+Val_PSNR: 32.5303
+Val_SSIM: 0.895205
+
+Epoch 706:
+G_Loss: 0.020027
+D_Loss: 2.000000
+Val_PSNR: 32.5332
+Val_SSIM: 0.895839
+
+Epoch 707:
+G_Loss: 0.020027
+D_Loss: 2.000000
+Val_PSNR: 32.5269
+Val_SSIM: 0.894195
+
+Epoch 708:
+G_Loss: 0.020028
+D_Loss: 2.000000
+Val_PSNR: 32.5268
+Val_SSIM: 0.894965
+
+Epoch 709:
+G_Loss: 0.020025
+D_Loss: 2.000000
+Val_PSNR: 32.5340
+Val_SSIM: 0.894732
+
+Epoch 710:
+G_Loss: 0.020027
+D_Loss: 2.000000
+Val_PSNR: 32.5344
+Val_SSIM: 0.894415
+
+Epoch 711:
+G_Loss: 0.020023
+D_Loss: 2.000000
+Val_PSNR: 32.5249
+Val_SSIM: 0.896197
+
+Epoch 712:
+G_Loss: 0.020025
+D_Loss: 2.000000
+Val_PSNR: 32.5365
+Val_SSIM: 0.896068
+
+Epoch 713:
+G_Loss: 0.020026
+D_Loss: 2.000000
+Val_PSNR: 32.5170
+Val_SSIM: 0.895482
+
+Epoch 714:
+G_Loss: 0.020027
+D_Loss: 2.000000
+Val_PSNR: 32.5296
+Val_SSIM: 0.895175
+
+Epoch 715:
+G_Loss: 0.020022
+D_Loss: 2.000000
+Val_PSNR: 32.5227
+Val_SSIM: 0.894366
+
+Epoch 716:
+G_Loss: 0.020021
+D_Loss: 2.000000
+Val_PSNR: 32.5358
+Val_SSIM: 0.895865
+
+Epoch 717:
+G_Loss: 0.020025
+D_Loss: 2.000000
+Val_PSNR: 32.5197
+Val_SSIM: 0.895596
+
+Epoch 718:
+G_Loss: 0.020019
+D_Loss: 2.000000
+Val_PSNR: 32.5333
+Val_SSIM: 0.894689
+
+Epoch 719:
+G_Loss: 0.020021
+D_Loss: 2.000000
+Val_PSNR: 32.5250
+Val_SSIM: 0.894762
+
+Epoch 720:
+G_Loss: 0.020024
+D_Loss: 2.000000
+Val_PSNR: 32.5271
+Val_SSIM: 0.896402
+
+Epoch 721:
+G_Loss: 0.020023
+D_Loss: 2.000000
+Val_PSNR: 32.5255
+Val_SSIM: 0.895386
+
+Epoch 722:
+G_Loss: 0.020020
+D_Loss: 2.000000
+Val_PSNR: 32.5245
+Val_SSIM: 0.895673
+
+Epoch 723:
+G_Loss: 0.020022
+D_Loss: 2.000000
+Val_PSNR: 32.5276
+Val_SSIM: 0.896533
+
+Epoch 724:
+G_Loss: 0.020022
+D_Loss: 2.000000
+Val_PSNR: 32.5288
+Val_SSIM: 0.895553
+
+Epoch 725:
+G_Loss: 0.020019
+D_Loss: 2.000000
+Val_PSNR: 32.5190
+Val_SSIM: 0.896118
+
+Epoch 726:
+G_Loss: 0.020023
+D_Loss: 2.000000
+Val_PSNR: 32.5308
+Val_SSIM: 0.893770
+
+Epoch 727:
+G_Loss: 0.020022
+D_Loss: 2.000000
+Val_PSNR: 32.5331
+Val_SSIM: 0.895523
+
+Epoch 728:
+G_Loss: 0.020017
+D_Loss: 2.000000
+Val_PSNR: 32.5185
+Val_SSIM: 0.894633
+
+Epoch 729:
+G_Loss: 0.020018
+D_Loss: 2.000000
+Val_PSNR: 32.5309
+Val_SSIM: 0.895617
+
+Epoch 730:
+G_Loss: 0.020020
+D_Loss: 2.000000
+Val_PSNR: 32.5361
+Val_SSIM: 0.895127
+
+Epoch 731:
+G_Loss: 0.020017
+D_Loss: 2.000000
+Val_PSNR: 32.5321
+Val_SSIM: 0.893707
+
+Epoch 732:
+G_Loss: 0.020013
+D_Loss: 2.000000
+Val_PSNR: 32.5308
+Val_SSIM: 0.894055
+
+Epoch 733:
+G_Loss: 0.020017
+D_Loss: 2.000000
+Val_PSNR: 32.5233
+Val_SSIM: 0.894632
+
+Epoch 734:
+G_Loss: 0.020018
+D_Loss: 2.000000
+Val_PSNR: 32.5349
+Val_SSIM: 0.894156
+
+Epoch 735:
+G_Loss: 0.020018
+D_Loss: 2.000000
+Val_PSNR: 32.5137
+Val_SSIM: 0.895737
+
+Epoch 736:
+G_Loss: 0.020015
+D_Loss: 2.000000
+Val_PSNR: 32.5188
+Val_SSIM: 0.894878
+
+Epoch 737:
+G_Loss: 0.020018
+D_Loss: 2.000000
+Val_PSNR: 32.5306
+Val_SSIM: 0.895191
+
+Epoch 738:
+G_Loss: 0.020016
+D_Loss: 2.000000
+Val_PSNR: 32.5326
+Val_SSIM: 0.895878
+
+Epoch 739:
+G_Loss: 0.020016
+D_Loss: 2.000000
+Val_PSNR: 32.5232
+Val_SSIM: 0.894704
+
+Epoch 740:
+G_Loss: 0.020017
+D_Loss: 2.000000
+Val_PSNR: 32.5402
+Val_SSIM: 0.894972
+
+Epoch 741:
+G_Loss: 0.020016
+D_Loss: 2.000000
+Val_PSNR: 32.5397
+Val_SSIM: 0.897981
+
+Epoch 742:
+G_Loss: 0.020015
+D_Loss: 2.000000
+Val_PSNR: 32.5332
+Val_SSIM: 0.895230
+
+Epoch 743:
+G_Loss: 0.020016
+D_Loss: 2.000000
+Val_PSNR: 32.5170
+Val_SSIM: 0.895001
+
+Epoch 744:
+G_Loss: 0.020015
+D_Loss: 2.000000
+Val_PSNR: 32.5282
+Val_SSIM: 0.894555
+
+Epoch 745:
+G_Loss: 0.020017
+D_Loss: 2.000000
+Val_PSNR: 32.5324
+Val_SSIM: 0.894439
+
+Epoch 746:
+G_Loss: 0.020018
+D_Loss: 2.000000
+Val_PSNR: 32.5401
+Val_SSIM: 0.896364
+
+Epoch 747:
+G_Loss: 0.020017
+D_Loss: 2.000000
+Val_PSNR: 32.5330
+Val_SSIM: 0.894842
+
+Epoch 748:
+G_Loss: 0.020015
+D_Loss: 2.000000
+Val_PSNR: 32.5294
+Val_SSIM: 0.893865
+
+Epoch 749:
+G_Loss: 0.020009
+D_Loss: 2.000000
+Val_PSNR: 32.5313
+Val_SSIM: 0.896171
+
+Epoch 750:
+G_Loss: 0.020014
+D_Loss: 2.000000
+Val_PSNR: 32.5362
+Val_SSIM: 0.895148
+
+Epoch 751:
+G_Loss: 0.020015
+D_Loss: 2.000000
+Val_PSNR: 32.5320
+Val_SSIM: 0.895531
+
+Epoch 752:
+G_Loss: 0.020009
+D_Loss: 2.000000
+Val_PSNR: 32.5352
+Val_SSIM: 0.895013
+
+Epoch 753:
+G_Loss: 0.020013
+D_Loss: 2.000000
+Val_PSNR: 32.5332
+Val_SSIM: 0.896166
+
+Epoch 754:
+G_Loss: 0.020012
+D_Loss: 2.000000
+Val_PSNR: 32.5298
+Val_SSIM: 0.893752
+
+Epoch 755:
+G_Loss: 0.020013
+D_Loss: 2.000000
+Val_PSNR: 32.5383
+Val_SSIM: 0.895402
+
+Epoch 756:
+G_Loss: 0.020012
+D_Loss: 2.000000
+Val_PSNR: 32.5314
+Val_SSIM: 0.894016
+
+Epoch 757:
+G_Loss: 0.020011
+D_Loss: 2.000000
+Val_PSNR: 32.5335
+Val_SSIM: 0.895000
+
+Epoch 758:
+G_Loss: 0.020011
+D_Loss: 2.000000
+Val_PSNR: 32.5414
+Val_SSIM: 0.894963
+
+Epoch 759:
+G_Loss: 0.020012
+D_Loss: 2.000000
+Val_PSNR: 32.5263
+Val_SSIM: 0.894131
+
+Epoch 760:
+G_Loss: 0.020011
+D_Loss: 2.000000
+Val_PSNR: 32.5288
+Val_SSIM: 0.895091
+
+Epoch 761:
+G_Loss: 0.020012
+D_Loss: 2.000000
+Val_PSNR: 32.5278
+Val_SSIM: 0.895730
+
+Epoch 762:
+G_Loss: 0.020008
+D_Loss: 2.000000
+Val_PSNR: 32.5355
+Val_SSIM: 0.895075
+
+Epoch 763:
+G_Loss: 0.020007
+D_Loss: 2.000000
+Val_PSNR: 32.5354
+Val_SSIM: 0.895226
+
+Epoch 764:
+G_Loss: 0.020009
+D_Loss: 2.000000
+Val_PSNR: 32.5406
+Val_SSIM: 0.894483
+
+Epoch 765:
+G_Loss: 0.020009
+D_Loss: 2.000000
+Val_PSNR: 32.5359
+Val_SSIM: 0.896341
+
+Epoch 766:
+G_Loss: 0.020008
+D_Loss: 2.000000
+Val_PSNR: 32.5326
+Val_SSIM: 0.896173
+
+Epoch 767:
+G_Loss: 0.020010
+D_Loss: 2.000000
+Val_PSNR: 32.5350
+Val_SSIM: 0.896191
+
+Epoch 768:
+G_Loss: 0.020012
+D_Loss: 2.000000
+Val_PSNR: 32.5208
+Val_SSIM: 0.894102
+
+Epoch 769:
+G_Loss: 0.020010
+D_Loss: 2.000000
+Val_PSNR: 32.5441
+Val_SSIM: 0.896335
+
+Epoch 770:
+G_Loss: 0.020010
+D_Loss: 2.000000
+Val_PSNR: 32.5344
+Val_SSIM: 0.893539
+
+Epoch 771:
+G_Loss: 0.020011
+D_Loss: 2.000000
+Val_PSNR: 32.5394
+Val_SSIM: 0.894430
+
+Epoch 772:
+G_Loss: 0.020007
+D_Loss: 2.000000
+Val_PSNR: 32.5396
+Val_SSIM: 0.896637
+
+Epoch 773:
+G_Loss: 0.020009
+D_Loss: 2.000000
+Val_PSNR: 32.5315
+Val_SSIM: 0.898118
+
+Epoch 774:
+G_Loss: 0.020006
+D_Loss: 2.000000
+Val_PSNR: 32.5234
+Val_SSIM: 0.894104
+
+Epoch 775:
+G_Loss: 0.020008
+D_Loss: 2.000000
+Val_PSNR: 32.5318
+Val_SSIM: 0.895885
+
+Epoch 776:
+G_Loss: 0.020008
+D_Loss: 2.000000
+Val_PSNR: 32.5377
+Val_SSIM: 0.896044
+
+Epoch 777:
+G_Loss: 0.020004
+D_Loss: 2.000000
+Val_PSNR: 32.5239
+Val_SSIM: 0.894041
+
+Epoch 778:
+G_Loss: 0.020009
+D_Loss: 2.000000
+Val_PSNR: 32.5385
+Val_SSIM: 0.894936
+
+Epoch 779:
+G_Loss: 0.020008
+D_Loss: 2.000000
+Val_PSNR: 32.5286
+Val_SSIM: 0.895867
+
+Epoch 780:
+G_Loss: 0.020006
+D_Loss: 2.000000
+Val_PSNR: 32.5326
+Val_SSIM: 0.896603
+
+Epoch 781:
+G_Loss: 0.020006
+D_Loss: 2.000000
+Val_PSNR: 32.5215
+Val_SSIM: 0.894986
+
+Epoch 782:
+G_Loss: 0.020003
+D_Loss: 2.000000
+Val_PSNR: 32.5352
+Val_SSIM: 0.895470
+
+Epoch 783:
+G_Loss: 0.020006
+D_Loss: 2.000000
+Val_PSNR: 32.5320
+Val_SSIM: 0.894096
+
+Epoch 784:
+G_Loss: 0.020006
+D_Loss: 2.000000
+Val_PSNR: 32.5331
+Val_SSIM: 0.895493
+
+Epoch 785:
+G_Loss: 0.020002
+D_Loss: 2.000000
+Val_PSNR: 32.5410
+Val_SSIM: 0.895174
+
+Epoch 786:
+G_Loss: 0.020004
+D_Loss: 2.000000
+Val_PSNR: 32.5290
+Val_SSIM: 0.894709
+
+Epoch 787:
+G_Loss: 0.020006
+D_Loss: 2.000000
+Val_PSNR: 32.5449
+Val_SSIM: 0.895085
+
+Epoch 788:
+G_Loss: 0.020004
+D_Loss: 2.000000
+Val_PSNR: 32.5400
+Val_SSIM: 0.894826
+
+Epoch 789:
+G_Loss: 0.020005
+D_Loss: 2.000000
+Val_PSNR: 32.5192
+Val_SSIM: 0.893902
+
+Epoch 790:
+G_Loss: 0.020004
+D_Loss: 2.000000
+Val_PSNR: 32.5323
+Val_SSIM: 0.897022
+
+Epoch 791:
+G_Loss: 0.020004
+D_Loss: 2.000000
+Val_PSNR: 32.5426
+Val_SSIM: 0.894506
+
+Epoch 792:
+G_Loss: 0.020002
+D_Loss: 2.000000
+Val_PSNR: 32.5432
+Val_SSIM: 0.894788
+
+Epoch 793:
+G_Loss: 0.020001
+D_Loss: 2.000000
+Val_PSNR: 32.5217
+Val_SSIM: 0.895028
+
+Epoch 794:
+G_Loss: 0.020002
+D_Loss: 2.000000
+Val_PSNR: 32.5460
+Val_SSIM: 0.895379
+
+Epoch 795:
+G_Loss: 0.020002
+D_Loss: 2.000000
+Val_PSNR: 32.5356
+Val_SSIM: 0.895503
+
+Epoch 796:
+G_Loss: 0.020002
+D_Loss: 2.000000
+Val_PSNR: 32.5395
+Val_SSIM: 0.895226
+
+Epoch 797:
+G_Loss: 0.019998
+D_Loss: 2.000000
+Val_PSNR: 32.5256
+Val_SSIM: 0.895104
+
+Epoch 798:
+G_Loss: 0.020001
+D_Loss: 2.000000
+Val_PSNR: 32.5289
+Val_SSIM: 0.894634
+
+Epoch 799:
+G_Loss: 0.020002
+D_Loss: 2.000000
+Val_PSNR: 32.5360
+Val_SSIM: 0.894256
+
+Epoch 800:
+G_Loss: 0.019996
+D_Loss: 2.000000
+Val_PSNR: 32.5309
+Val_SSIM: 0.895577
+
+Epoch 801:
+G_Loss: 0.018255
+D_Loss: 2.000000
+Val_PSNR: 32.5293
+Val_SSIM: 0.895789
+
+Epoch 802:
+G_Loss: 0.018252
+D_Loss: 2.000000
+Val_PSNR: 32.5321
+Val_SSIM: 0.895840
+
+Epoch 803:
+G_Loss: 0.018259
+D_Loss: 2.000000
+Val_PSNR: 32.5227
+Val_SSIM: 0.893234
+
+Epoch 804:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5282
+Val_SSIM: 0.895268
+
+Epoch 805:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5294
+Val_SSIM: 0.895676
+
+Epoch 806:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5297
+Val_SSIM: 0.895200
+
+Epoch 807:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5400
+Val_SSIM: 0.895168
+
+Epoch 808:
+G_Loss: 0.018254
+D_Loss: 2.000000
+Val_PSNR: 32.5167
+Val_SSIM: 0.894424
+
+Epoch 809:
+G_Loss: 0.018255
+D_Loss: 2.000000
+Val_PSNR: 32.5150
+Val_SSIM: 0.893259
+
+Epoch 810:
+G_Loss: 0.018252
+D_Loss: 2.000000
+Val_PSNR: 32.5336
+Val_SSIM: 0.896258
+
+Epoch 811:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5137
+Val_SSIM: 0.893728
+
+Epoch 812:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5330
+Val_SSIM: 0.892696
+
+Epoch 813:
+G_Loss: 0.018256
+D_Loss: 2.000000
+Val_PSNR: 32.5370
+Val_SSIM: 0.896083
+
+Epoch 814:
+G_Loss: 0.018251
+D_Loss: 2.000000
+Val_PSNR: 32.5306
+Val_SSIM: 0.894681
+
+Epoch 815:
+G_Loss: 0.018253
+D_Loss: 2.000000
+Val_PSNR: 32.5198
+Val_SSIM: 0.894281
+
+Epoch 816:
+G_Loss: 0.018254
+D_Loss: 2.000000
+Val_PSNR: 32.5436
+Val_SSIM: 0.896127
+
+Epoch 817:
+G_Loss: 0.018252
+D_Loss: 2.000000
+Val_PSNR: 32.5378
+Val_SSIM: 0.895472
+
+Epoch 818:
+G_Loss: 0.018251
+D_Loss: 2.000000
+Val_PSNR: 32.5382
+Val_SSIM: 0.894157
+
+Epoch 819:
+G_Loss: 0.018254
+D_Loss: 2.000000
+Val_PSNR: 32.5240
+Val_SSIM: 0.895824
+
+Epoch 820:
+G_Loss: 0.018250
+D_Loss: 2.000000
+Val_PSNR: 32.5305
+Val_SSIM: 0.895674
+
+Epoch 821:
+G_Loss: 0.018251
+D_Loss: 2.000000
+Val_PSNR: 32.5431
+Val_SSIM: 0.894389
+
+Epoch 822:
+G_Loss: 0.018247
+D_Loss: 2.000000
+Val_PSNR: 32.5465
+Val_SSIM: 0.893923
+
+Epoch 823:
+G_Loss: 0.018248
+D_Loss: 2.000000
+Val_PSNR: 32.5275
+Val_SSIM: 0.893888
+
+Epoch 824:
+G_Loss: 0.018249
+D_Loss: 2.000000
+Val_PSNR: 32.5274
+Val_SSIM: 0.895954
+
+Epoch 825:
+G_Loss: 0.018251
+D_Loss: 2.000000
+Val_PSNR: 32.5348
+Val_SSIM: 0.895230
+
+Epoch 826:
+G_Loss: 0.018249
+D_Loss: 2.000000
+Val_PSNR: 32.5242
+Val_SSIM: 0.895332
+
+Epoch 827:
+G_Loss: 0.018249
+D_Loss: 2.000000
+Val_PSNR: 32.5404
+Val_SSIM: 0.893763
+
+Epoch 828:
+G_Loss: 0.018247
+D_Loss: 2.000000
+Val_PSNR: 32.5283
+Val_SSIM: 0.896226
+
+Epoch 829:
+G_Loss: 0.018250
+D_Loss: 2.000000
+Val_PSNR: 32.5459
+Val_SSIM: 0.893947
+
+Epoch 830:
+G_Loss: 0.018248
+D_Loss: 2.000000
+Val_PSNR: 32.5423
+Val_SSIM: 0.897978
+
+Epoch 831:
+G_Loss: 0.018250
+D_Loss: 2.000000
+Val_PSNR: 32.5441
+Val_SSIM: 0.896060
+
+Epoch 832:
+G_Loss: 0.018250
+D_Loss: 2.000000
+Val_PSNR: 32.5333
+Val_SSIM: 0.895056
+
+Epoch 833:
+G_Loss: 0.018251
+D_Loss: 2.000000
+Val_PSNR: 32.5394
+Val_SSIM: 0.896230
+
+Epoch 834:
+G_Loss: 0.018248
+D_Loss: 2.000000
+Val_PSNR: 32.5325
+Val_SSIM: 0.894847
+
+Epoch 835:
+G_Loss: 0.018249
+D_Loss: 2.000000
+Val_PSNR: 32.5299
+Val_SSIM: 0.895873
+
+Epoch 836:
+G_Loss: 0.018250
+D_Loss: 2.000000
+Val_PSNR: 32.5431
+Val_SSIM: 0.895452
+
+Epoch 837:
+G_Loss: 0.018248
+D_Loss: 2.000000
+Val_PSNR: 32.5334
+Val_SSIM: 0.894455
+
+Epoch 838:
+G_Loss: 0.018246
+D_Loss: 2.000000
+Val_PSNR: 32.5355
+Val_SSIM: 0.894948
+
+Epoch 839:
+G_Loss: 0.018245
+D_Loss: 2.000000
+Val_PSNR: 32.5451
+Val_SSIM: 0.896928
+
+Epoch 840:
+G_Loss: 0.018248
+D_Loss: 2.000000
+Val_PSNR: 32.5377
+Val_SSIM: 0.894847
+
+Epoch 841:
+G_Loss: 0.018245
+D_Loss: 2.000000
+Val_PSNR: 32.5418
+Val_SSIM: 0.895597
+
+Epoch 842:
+G_Loss: 0.018246
+D_Loss: 2.000000
+Val_PSNR: 32.5428
+Val_SSIM: 0.895218
+
+Epoch 843:
+G_Loss: 0.018245
+D_Loss: 2.000000
+Val_PSNR: 32.5486
+Val_SSIM: 0.896567
+
+Epoch 844:
+G_Loss: 0.018245
+D_Loss: 2.000000
+Val_PSNR: 32.5451
+Val_SSIM: 0.895515
+
+Epoch 845:
+G_Loss: 0.018242
+D_Loss: 2.000000
+Val_PSNR: 32.5337
+Val_SSIM: 0.895800
+
+Epoch 846:
+G_Loss: 0.018243
+D_Loss: 2.000000
+Val_PSNR: 32.5473
+Val_SSIM: 0.896238
+
+Epoch 847:
+G_Loss: 0.018244
+D_Loss: 2.000000
+Val_PSNR: 32.5362
+Val_SSIM: 0.895453
+
+Epoch 848:
+G_Loss: 0.018245
+D_Loss: 2.000000
+Val_PSNR: 32.5403
+Val_SSIM: 0.895678
+
+Epoch 849:
+G_Loss: 0.018243
+D_Loss: 2.000000
+Val_PSNR: 32.5418
+Val_SSIM: 0.896710
+
+Epoch 850:
+G_Loss: 0.018243
+D_Loss: 2.000000
+Val_PSNR: 32.5486
+Val_SSIM: 0.896652
+
+Epoch 851:
+G_Loss: 0.018243
+D_Loss: 2.000000
+Val_PSNR: 32.5366
+Val_SSIM: 0.894789
+
+Epoch 852:
+G_Loss: 0.018244
+D_Loss: 2.000000
+Val_PSNR: 32.5310
+Val_SSIM: 0.895218
+
+Epoch 853:
+G_Loss: 0.018242
+D_Loss: 2.000000
+Val_PSNR: 32.5400
+Val_SSIM: 0.894803
+
+Epoch 854:
+G_Loss: 0.018242
+D_Loss: 2.000000
+Val_PSNR: 32.5281
+Val_SSIM: 0.895555
+
+Epoch 855:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5430
+Val_SSIM: 0.894330
+
+Epoch 856:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5479
+Val_SSIM: 0.896002
+
+Epoch 857:
+G_Loss: 0.018240
+D_Loss: 2.000000
+Val_PSNR: 32.5276
+Val_SSIM: 0.895999
+
+Epoch 858:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5446
+Val_SSIM: 0.895200
+
+Epoch 859:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5208
+Val_SSIM: 0.895522
+
+Epoch 860:
+G_Loss: 0.018240
+D_Loss: 2.000000
+Val_PSNR: 32.5361
+Val_SSIM: 0.894418
+
+Epoch 861:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5340
+Val_SSIM: 0.894118
+
+Epoch 862:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5365
+Val_SSIM: 0.895588
+
+Epoch 863:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5414
+Val_SSIM: 0.895156
+
+Epoch 864:
+G_Loss: 0.018242
+D_Loss: 2.000000
+Val_PSNR: 32.5428
+Val_SSIM: 0.896022
+
+Epoch 865:
+G_Loss: 0.018240
+D_Loss: 2.000000
+Val_PSNR: 32.5455
+Val_SSIM: 0.896312
+
+Epoch 866:
+G_Loss: 0.018241
+D_Loss: 2.000000
+Val_PSNR: 32.5397
+Val_SSIM: 0.896549
+
+Epoch 867:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5322
+Val_SSIM: 0.895875
+
+Epoch 868:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5485
+Val_SSIM: 0.895120
+
+Epoch 869:
+G_Loss: 0.018235
+D_Loss: 2.000000
+Val_PSNR: 32.5485
+Val_SSIM: 0.896026
+
+Epoch 870:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5440
+Val_SSIM: 0.894624
+
+Epoch 871:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5382
+Val_SSIM: 0.895041
+
+Epoch 872:
+G_Loss: 0.018236
+D_Loss: 2.000000
+Val_PSNR: 32.5372
+Val_SSIM: 0.896013
+
+Epoch 873:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5140
+Val_SSIM: 0.894798
+
+Epoch 874:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5380
+Val_SSIM: 0.894504
+
+Epoch 875:
+G_Loss: 0.018236
+D_Loss: 2.000000
+Val_PSNR: 32.5300
+Val_SSIM: 0.896201
+
+Epoch 876:
+G_Loss: 0.018240
+D_Loss: 2.000000
+Val_PSNR: 32.5485
+Val_SSIM: 0.894947
+
+Epoch 877:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5367
+Val_SSIM: 0.896867
+
+Epoch 878:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5373
+Val_SSIM: 0.895321
+
+Epoch 879:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5373
+Val_SSIM: 0.895132
+
+Epoch 880:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5498
+Val_SSIM: 0.895460
+
+Epoch 881:
+G_Loss: 0.018234
+D_Loss: 2.000000
+Val_PSNR: 32.5389
+Val_SSIM: 0.896439
+
+Epoch 882:
+G_Loss: 0.018235
+D_Loss: 2.000000
+Val_PSNR: 32.5431
+Val_SSIM: 0.895155
+
+Epoch 883:
+G_Loss: 0.018234
+D_Loss: 2.000000
+Val_PSNR: 32.5413
+Val_SSIM: 0.893661
+
+Epoch 884:
+G_Loss: 0.018235
+D_Loss: 2.000000
+Val_PSNR: 32.5487
+Val_SSIM: 0.895583
+
+Epoch 885:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5173
+Val_SSIM: 0.896131
+
+Epoch 886:
+G_Loss: 0.018235
+D_Loss: 2.000000
+Val_PSNR: 32.5456
+Val_SSIM: 0.895829
+
+Epoch 887:
+G_Loss: 0.018234
+D_Loss: 2.000000
+Val_PSNR: 32.5212
+Val_SSIM: 0.893709
+
+Epoch 888:
+G_Loss: 0.018233
+D_Loss: 2.000000
+Val_PSNR: 32.5478
+Val_SSIM: 0.896599
+
+Epoch 889:
+G_Loss: 0.018233
+D_Loss: 2.000000
+Val_PSNR: 32.5206
+Val_SSIM: 0.892776
+
+Epoch 890:
+G_Loss: 0.018232
+D_Loss: 2.000000
+Val_PSNR: 32.5455
+Val_SSIM: 0.894534
+
+Epoch 891:
+G_Loss: 0.018234
+D_Loss: 2.000000
+Val_PSNR: 32.5468
+Val_SSIM: 0.895557
+
+Epoch 892:
+G_Loss: 0.018237
+D_Loss: 2.000000
+Val_PSNR: 32.5500
+Val_SSIM: 0.896554
+
+Epoch 893:
+G_Loss: 0.018238
+D_Loss: 2.000000
+Val_PSNR: 32.5360
+Val_SSIM: 0.895693
+
+Epoch 894:
+G_Loss: 0.018233
+D_Loss: 2.000000
+Val_PSNR: 32.5521
+Val_SSIM: 0.895845
+
+Epoch 895:
+G_Loss: 0.018232
+D_Loss: 2.000000
+Val_PSNR: 32.5432
+Val_SSIM: 0.896503
+
+Epoch 896:
+G_Loss: 0.018230
+D_Loss: 2.000000
+Val_PSNR: 32.5331
+Val_SSIM: 0.895066
+
+Epoch 897:
+G_Loss: 0.018231
+D_Loss: 2.000000
+Val_PSNR: 32.5466
+Val_SSIM: 0.896510
+
+Epoch 898:
+G_Loss: 0.018229
+D_Loss: 2.000000
+Val_PSNR: 32.5420
+Val_SSIM: 0.895130
+
+Epoch 899:
+G_Loss: 0.018232
+D_Loss: 2.000000
+Val_PSNR: 32.5429
+Val_SSIM: 0.896237
+
+Epoch 900:
+G_Loss: 0.018229
+D_Loss: 2.000000
+Val_PSNR: 32.5438
+Val_SSIM: 0.894551
+
+Epoch 901:
+G_Loss: 0.018230
+D_Loss: 2.000000
+Val_PSNR: 32.5492
+Val_SSIM: 0.895107
+
+Epoch 902:
+G_Loss: 0.018228
+D_Loss: 2.000000
+Val_PSNR: 32.5417
+Val_SSIM: 0.894300
+
+Epoch 903:
+G_Loss: 0.018230
+D_Loss: 2.000000
+Val_PSNR: 32.5415
+Val_SSIM: 0.894790
+
+Epoch 904:
+G_Loss: 0.018230
+D_Loss: 2.000000
+Val_PSNR: 32.5463
+Val_SSIM: 0.896234
+
+Epoch 905:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5414
+Val_SSIM: 0.895364
+
+Epoch 906:
+G_Loss: 0.018233
+D_Loss: 2.000000
+Val_PSNR: 32.5375
+Val_SSIM: 0.895884
+
+Epoch 907:
+G_Loss: 0.018226
+D_Loss: 2.000000
+Val_PSNR: 32.5333
+Val_SSIM: 0.896674
+
+Epoch 908:
+G_Loss: 0.018230
+D_Loss: 2.000000
+Val_PSNR: 32.5436
+Val_SSIM: 0.895543
+
+Epoch 909:
+G_Loss: 0.018231
+D_Loss: 2.000000
+Val_PSNR: 32.5462
+Val_SSIM: 0.896224
+
+Epoch 910:
+G_Loss: 0.018228
+D_Loss: 2.000000
+Val_PSNR: 32.5512
+Val_SSIM: 0.896110
+
+Epoch 911:
+G_Loss: 0.018228
+D_Loss: 2.000000
+Val_PSNR: 32.5531
+Val_SSIM: 0.895611
+
+Epoch 912:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5468
+Val_SSIM: 0.895770
+
+Epoch 913:
+G_Loss: 0.018228
+D_Loss: 2.000000
+Val_PSNR: 32.5488
+Val_SSIM: 0.895328
+
+Epoch 914:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5422
+Val_SSIM: 0.894785
+
+Epoch 915:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5477
+Val_SSIM: 0.896022
+
+Epoch 916:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5513
+Val_SSIM: 0.894902
+
+Epoch 917:
+G_Loss: 0.018228
+D_Loss: 2.000000
+Val_PSNR: 32.5487
+Val_SSIM: 0.895060
+
+Epoch 918:
+G_Loss: 0.018225
+D_Loss: 2.000000
+Val_PSNR: 32.5497
+Val_SSIM: 0.895814
+
+Epoch 919:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5400
+Val_SSIM: 0.895644
+
+Epoch 920:
+G_Loss: 0.018222
+D_Loss: 2.000000
+Val_PSNR: 32.5502
+Val_SSIM: 0.894984
+
+Epoch 921:
+G_Loss: 0.018226
+D_Loss: 2.000000
+Val_PSNR: 32.5474
+Val_SSIM: 0.895570
+
+Epoch 922:
+G_Loss: 0.018224
+D_Loss: 2.000000
+Val_PSNR: 32.5548
+Val_SSIM: 0.894833
+
+Epoch 923:
+G_Loss: 0.018225
+D_Loss: 2.000000
+Val_PSNR: 32.5317
+Val_SSIM: 0.894376
+
+Epoch 924:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5582
+Val_SSIM: 0.894200
+
+Epoch 925:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5373
+Val_SSIM: 0.895933
+
+Epoch 926:
+G_Loss: 0.018224
+D_Loss: 2.000000
+Val_PSNR: 32.5470
+Val_SSIM: 0.896366
+
+Epoch 927:
+G_Loss: 0.018227
+D_Loss: 2.000000
+Val_PSNR: 32.5505
+Val_SSIM: 0.895320
+
+Epoch 928:
+G_Loss: 0.018222
+D_Loss: 2.000000
+Val_PSNR: 32.5433
+Val_SSIM: 0.894792
+
+Epoch 929:
+G_Loss: 0.018228
+D_Loss: 2.000000
+Val_PSNR: 32.5384
+Val_SSIM: 0.893879
+
+Epoch 930:
+G_Loss: 0.018225
+D_Loss: 2.000000
+Val_PSNR: 32.5424
+Val_SSIM: 0.896165
+
+Epoch 931:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5508
+Val_SSIM: 0.897608
+
+Epoch 932:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5452
+Val_SSIM: 0.897674
+
+Epoch 933:
+G_Loss: 0.018224
+D_Loss: 2.000000
+Val_PSNR: 32.5375
+Val_SSIM: 0.895002
+
+Epoch 934:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5385
+Val_SSIM: 0.894785
+
+Epoch 935:
+G_Loss: 0.018224
+D_Loss: 2.000000
+Val_PSNR: 32.5478
+Val_SSIM: 0.895486
+
+Epoch 936:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5425
+Val_SSIM: 0.896440
+
+Epoch 937:
+G_Loss: 0.018221
+D_Loss: 2.000000
+Val_PSNR: 32.5547
+Val_SSIM: 0.894726
+
+Epoch 938:
+G_Loss: 0.018222
+D_Loss: 2.000000
+Val_PSNR: 32.5533
+Val_SSIM: 0.896902
+
+Epoch 939:
+G_Loss: 0.018219
+D_Loss: 2.000000
+Val_PSNR: 32.5301
+Val_SSIM: 0.895546
+
+Epoch 940:
+G_Loss: 0.018219
+D_Loss: 2.000000
+Val_PSNR: 32.5427
+Val_SSIM: 0.895251
+
+Epoch 941:
+G_Loss: 0.018221
+D_Loss: 2.000000
+Val_PSNR: 32.5489
+Val_SSIM: 0.894992
+
+Epoch 942:
+G_Loss: 0.018223
+D_Loss: 2.000000
+Val_PSNR: 32.5466
+Val_SSIM: 0.894324
+
+Epoch 943:
+G_Loss: 0.018221
+D_Loss: 2.000000
+Val_PSNR: 32.5446
+Val_SSIM: 0.894883
+
+Epoch 944:
+G_Loss: 0.018222
+D_Loss: 2.000000
+Val_PSNR: 32.5444
+Val_SSIM: 0.894175
+
+Epoch 945:
+G_Loss: 0.018222
+D_Loss: 2.000000
+Val_PSNR: 32.5500
+Val_SSIM: 0.894894
+
+Epoch 946:
+G_Loss: 0.018220
+D_Loss: 2.000000
+Val_PSNR: 32.5461
+Val_SSIM: 0.895360
+
+Epoch 947:
+G_Loss: 0.018218
+D_Loss: 2.000000
+Val_PSNR: 32.5398
+Val_SSIM: 0.897022
+
+Epoch 948:
+G_Loss: 0.018222
+D_Loss: 2.000000
+Val_PSNR: 32.5513
+Val_SSIM: 0.895358
+
+Epoch 949:
+G_Loss: 0.018217
+D_Loss: 2.000000
+Val_PSNR: 32.5371
+Val_SSIM: 0.896919
+
+Epoch 950:
+G_Loss: 0.018219
+D_Loss: 2.000000
+Val_PSNR: 32.5461
+Val_SSIM: 0.895489
+
+Epoch 951:
+G_Loss: 0.018219
+D_Loss: 2.000000
+Val_PSNR: 32.5563
+Val_SSIM: 0.894273
+
+Epoch 952:
+G_Loss: 0.018220
+D_Loss: 2.000000
+Val_PSNR: 32.5492
+Val_SSIM: 0.895688
+
+Epoch 953:
+G_Loss: 0.018216
+D_Loss: 2.000000
+Val_PSNR: 32.5490
+Val_SSIM: 0.896212
+
+Epoch 954:
+G_Loss: 0.018220
+D_Loss: 2.000000
+Val_PSNR: 32.5529
+Val_SSIM: 0.896160
+
+Epoch 955:
+G_Loss: 0.018216
+D_Loss: 2.000000
+Val_PSNR: 32.5497
+Val_SSIM: 0.896832
+
+Epoch 956:
+G_Loss: 0.018217
+D_Loss: 2.000000
+Val_PSNR: 32.5541
+Val_SSIM: 0.896696
+
+Epoch 957:
+G_Loss: 0.018218
+D_Loss: 2.000000
+Val_PSNR: 32.5498
+Val_SSIM: 0.895934
+
+Epoch 958:
+G_Loss: 0.018216
+D_Loss: 2.000000
+Val_PSNR: 32.5424
+Val_SSIM: 0.897614
+
+Epoch 959:
+G_Loss: 0.018217
+D_Loss: 2.000000
+Val_PSNR: 32.5523
+Val_SSIM: 0.896048
+
+Epoch 960:
+G_Loss: 0.018216
+D_Loss: 2.000000
+Val_PSNR: 32.5533
+Val_SSIM: 0.895734
+
+Epoch 961:
+G_Loss: 0.018219
+D_Loss: 2.000000
+Val_PSNR: 32.5502
+Val_SSIM: 0.896982
+
+Epoch 962:
+G_Loss: 0.018214
+D_Loss: 2.000000
+Val_PSNR: 32.5337
+Val_SSIM: 0.895969
+
+Epoch 963:
+G_Loss: 0.018218
+D_Loss: 2.000000
+Val_PSNR: 32.5383
+Val_SSIM: 0.896696
+
+Epoch 964:
+G_Loss: 0.018215
+D_Loss: 2.000000
+Val_PSNR: 32.5470
+Val_SSIM: 0.896451
+
+Epoch 965:
+G_Loss: 0.018215
+D_Loss: 2.000000
+Val_PSNR: 32.5437
+Val_SSIM: 0.895752
+
+Epoch 966:
+G_Loss: 0.018214
+D_Loss: 2.000000
+Val_PSNR: 32.5514
+Val_SSIM: 0.893943
+
+Epoch 967:
+G_Loss: 0.018215
+D_Loss: 2.000000
+Val_PSNR: 32.5390
+Val_SSIM: 0.895201
+
+Epoch 968:
+G_Loss: 0.018217
+D_Loss: 2.000000
+Val_PSNR: 32.5459
+Val_SSIM: 0.895999
+
+Epoch 969:
+G_Loss: 0.018214
+D_Loss: 2.000000
+Val_PSNR: 32.5463
+Val_SSIM: 0.894289
+
+Epoch 970:
+G_Loss: 0.018214
+D_Loss: 2.000000
+Val_PSNR: 32.5467
+Val_SSIM: 0.896174
+
+Epoch 971:
+G_Loss: 0.018211
+D_Loss: 2.000000
+Val_PSNR: 32.5390
+Val_SSIM: 0.895510
+
+Epoch 972:
+G_Loss: 0.018215
+D_Loss: 2.000000
+Val_PSNR: 32.5467
+Val_SSIM: 0.895435
+
+Epoch 973:
+G_Loss: 0.018215
+D_Loss: 2.000000
+Val_PSNR: 32.5542
+Val_SSIM: 0.895099
+
+Epoch 974:
+G_Loss: 0.018213
+D_Loss: 2.000000
+Val_PSNR: 32.5275
+Val_SSIM: 0.896590
+
+Epoch 975:
+G_Loss: 0.018211
+D_Loss: 2.000000
+Val_PSNR: 32.5449
+Val_SSIM: 0.895906
+
+Epoch 976:
+G_Loss: 0.018210
+D_Loss: 2.000000
+Val_PSNR: 32.5485
+Val_SSIM: 0.895195
+
+Epoch 977:
+G_Loss: 0.018214
+D_Loss: 2.000000
+Val_PSNR: 32.5306
+Val_SSIM: 0.895742
+
+Epoch 978:
+G_Loss: 0.018210
+D_Loss: 2.000000
+Val_PSNR: 32.5527
+Val_SSIM: 0.893899
+
+Epoch 979:
+G_Loss: 0.018210
+D_Loss: 2.000000
+Val_PSNR: 32.5569
+Val_SSIM: 0.895534
+
+Epoch 980:
+G_Loss: 0.018217
+D_Loss: 2.000000
+Val_PSNR: 32.5547
+Val_SSIM: 0.898107
+
+Epoch 981:
+G_Loss: 0.018210
+D_Loss: 2.000000
+Val_PSNR: 32.5539
+Val_SSIM: 0.893479
+
+Epoch 982:
+G_Loss: 0.018213
+D_Loss: 2.000000
+Val_PSNR: 32.5396
+Val_SSIM: 0.895263
+
+Epoch 983:
+G_Loss: 0.018212
+D_Loss: 2.000000
+Val_PSNR: 32.5480
+Val_SSIM: 0.897952
+
+Epoch 984:
+G_Loss: 0.018213
+D_Loss: 2.000000
+Val_PSNR: 32.5355
+Val_SSIM: 0.894673
+
+Epoch 985:
+G_Loss: 0.018213
+D_Loss: 2.000000
+Val_PSNR: 32.5391
+Val_SSIM: 0.896015
+
+Epoch 986:
+G_Loss: 0.018210
+D_Loss: 2.000000
+Val_PSNR: 32.5465
+Val_SSIM: 0.895360
+
+Epoch 987:
+G_Loss: 0.018213
+D_Loss: 2.000000
+Val_PSNR: 32.5564
+Val_SSIM: 0.895201
+
+Epoch 988:
+G_Loss: 0.018211
+D_Loss: 2.000000
+Val_PSNR: 32.5552
+Val_SSIM: 0.895268
+
+Epoch 989:
+G_Loss: 0.018209
+D_Loss: 2.000000
+Val_PSNR: 32.5541
+Val_SSIM: 0.895650
+
+Epoch 990:
+G_Loss: 0.018210
+D_Loss: 2.000000
+Val_PSNR: 32.5462
+Val_SSIM: 0.894217
+
+Epoch 991:
+G_Loss: 0.018209
+D_Loss: 2.000000
+Val_PSNR: 32.5312
+Val_SSIM: 0.894482
+
+Epoch 992:
+G_Loss: 0.018209
+D_Loss: 2.000000
+Val_PSNR: 32.5353
+Val_SSIM: 0.896248
+
+Epoch 993:
+G_Loss: 0.018206
+D_Loss: 2.000000
+Val_PSNR: 32.5459
+Val_SSIM: 0.894081
+
+Epoch 994:
+G_Loss: 0.018211
+D_Loss: 2.000000
+Val_PSNR: 32.5441
+Val_SSIM: 0.895325
+
+Epoch 995:
+G_Loss: 0.018209
+D_Loss: 2.000000
+Val_PSNR: 32.5463
+Val_SSIM: 0.895315
+
+Epoch 996:
+G_Loss: 0.018209
+D_Loss: 2.000000
+Val_PSNR: 32.5537
+Val_SSIM: 0.894932
+
+Epoch 997:
+G_Loss: 0.018207
+D_Loss: 2.000000
+Val_PSNR: 32.5547
+Val_SSIM: 0.895587
+
+Epoch 998:
+G_Loss: 0.018208
+D_Loss: 2.000000
+Val_PSNR: 32.5539
+Val_SSIM: 0.895894
+
+Epoch 999:
+G_Loss: 0.018208
+D_Loss: 2.000000
+Val_PSNR: 32.5538
+Val_SSIM: 0.893673
+
+Epoch 1000:
+G_Loss: 0.018207
+D_Loss: 2.000000
+Val_PSNR: 32.5547
+Val_SSIM: 0.895673
+
+
+Final Metrics
+=============
+
+Set5:
+PSNR: 29.7297
+SSIM: 0.879395
+
+Set14:
+PSNR: 26.6895
+SSIM: 0.803198
+

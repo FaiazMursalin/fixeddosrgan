@@ -1,0 +1,5522 @@
+Training Results - 2024-11-28 13:39:30
+==================================================
+
+Training History
+---------------
+
+Epoch 1:
+Loss: 0.051999
+
+Metrics:
+Validation PSNR: 27.7688 dB
+Validation SSIM: 0.754653
+Set5 PSNR: 27.0416 dB
+Set5 SSIM: 0.768678
+Set14 PSNR: 24.1905 dB
+Set14 SSIM: 0.592466
+
+Epoch 2:
+Loss: 0.031066
+
+Metrics:
+Validation PSNR: 28.1918 dB
+Validation SSIM: 0.774454
+Set5 PSNR: 27.4784 dB
+Set5 SSIM: 0.790616
+Set14 PSNR: 24.4649 dB
+Set14 SSIM: 0.635495
+
+Epoch 3:
+Loss: 0.030307
+
+Metrics:
+Validation PSNR: 28.3675 dB
+Validation SSIM: 0.781260
+Set5 PSNR: 27.6573 dB
+Set5 SSIM: 0.792653
+Set14 PSNR: 24.5846 dB
+Set14 SSIM: 0.621538
+
+Epoch 4:
+Loss: 0.029697
+
+Metrics:
+Validation PSNR: 28.6224 dB
+Validation SSIM: 0.775658
+Set5 PSNR: 27.9703 dB
+Set5 SSIM: 0.800872
+Set14 PSNR: 24.7942 dB
+Set14 SSIM: 0.628902
+
+Epoch 5:
+Loss: 0.028947
+
+Metrics:
+Validation PSNR: 28.8857 dB
+Validation SSIM: 0.783742
+Set5 PSNR: 28.2538 dB
+Set5 SSIM: 0.812555
+Set14 PSNR: 24.9855 dB
+Set14 SSIM: 0.627846
+
+Epoch 6:
+Loss: 0.028351
+
+Metrics:
+Validation PSNR: 29.0571 dB
+Validation SSIM: 0.791494
+Set5 PSNR: 28.4227 dB
+Set5 SSIM: 0.817400
+Set14 PSNR: 25.1242 dB
+Set14 SSIM: 0.654533
+
+Epoch 7:
+Loss: 0.027971
+
+Metrics:
+Validation PSNR: 29.1424 dB
+Validation SSIM: 0.808845
+Set5 PSNR: 28.5470 dB
+Set5 SSIM: 0.819830
+Set14 PSNR: 25.1909 dB
+Set14 SSIM: 0.676481
+
+Epoch 8:
+Loss: 0.027690
+
+Metrics:
+Validation PSNR: 29.2464 dB
+Validation SSIM: 0.806633
+Set5 PSNR: 28.6206 dB
+Set5 SSIM: 0.823343
+Set14 PSNR: 25.2597 dB
+Set14 SSIM: 0.659980
+
+Epoch 9:
+Loss: 0.027472
+
+Metrics:
+Validation PSNR: 29.3133 dB
+Validation SSIM: 0.788447
+Set5 PSNR: 28.6979 dB
+Set5 SSIM: 0.821523
+Set14 PSNR: 25.2853 dB
+Set14 SSIM: 0.644939
+
+Epoch 10:
+Loss: 0.027275
+
+Metrics:
+Validation PSNR: 29.3733 dB
+Validation SSIM: 0.786014
+Set5 PSNR: 28.7726 dB
+Set5 SSIM: 0.830913
+Set14 PSNR: 25.3411 dB
+Set14 SSIM: 0.600392
+
+Epoch 11:
+Loss: 0.027103
+
+Metrics:
+Validation PSNR: 29.4171 dB
+Validation SSIM: 0.786999
+Set5 PSNR: 28.7929 dB
+Set5 SSIM: 0.830531
+Set14 PSNR: 25.3295 dB
+Set14 SSIM: 0.597114
+
+Epoch 12:
+Loss: 0.026941
+
+Metrics:
+Validation PSNR: 29.4955 dB
+Validation SSIM: 0.797132
+Set5 PSNR: 28.8697 dB
+Set5 SSIM: 0.825820
+Set14 PSNR: 25.3879 dB
+Set14 SSIM: 0.638870
+
+Epoch 13:
+Loss: 0.026792
+
+Metrics:
+Validation PSNR: 29.5277 dB
+Validation SSIM: 0.808218
+Set5 PSNR: 28.8959 dB
+Set5 SSIM: 0.828377
+Set14 PSNR: 25.4033 dB
+Set14 SSIM: 0.681645
+
+Epoch 14:
+Loss: 0.026655
+
+Metrics:
+Validation PSNR: 29.5876 dB
+Validation SSIM: 0.794558
+Set5 PSNR: 28.9561 dB
+Set5 SSIM: 0.829979
+Set14 PSNR: 25.4419 dB
+Set14 SSIM: 0.656181
+
+Epoch 15:
+Loss: 0.026519
+
+Metrics:
+Validation PSNR: 29.6385 dB
+Validation SSIM: 0.807465
+Set5 PSNR: 28.9765 dB
+Set5 SSIM: 0.832471
+Set14 PSNR: 25.4547 dB
+Set14 SSIM: 0.680333
+
+Epoch 16:
+Loss: 0.026412
+
+Metrics:
+Validation PSNR: 29.6819 dB
+Validation SSIM: 0.801823
+Set5 PSNR: 28.9900 dB
+Set5 SSIM: 0.835922
+Set14 PSNR: 25.4650 dB
+Set14 SSIM: 0.634316
+
+Epoch 17:
+Loss: 0.026292
+
+Metrics:
+Validation PSNR: 29.6973 dB
+Validation SSIM: 0.809310
+Set5 PSNR: 29.0205 dB
+Set5 SSIM: 0.832307
+Set14 PSNR: 25.4603 dB
+Set14 SSIM: 0.663300
+
+Epoch 18:
+Loss: 0.026188
+
+Metrics:
+Validation PSNR: 29.7473 dB
+Validation SSIM: 0.802822
+Set5 PSNR: 29.0604 dB
+Set5 SSIM: 0.828134
+Set14 PSNR: 25.5279 dB
+Set14 SSIM: 0.632851
+
+Epoch 19:
+Loss: 0.026101
+
+Metrics:
+Validation PSNR: 29.7774 dB
+Validation SSIM: 0.815510
+Set5 PSNR: 29.0469 dB
+Set5 SSIM: 0.837056
+Set14 PSNR: 25.4628 dB
+Set14 SSIM: 0.686963
+
+Epoch 20:
+Loss: 0.026005
+
+Metrics:
+Validation PSNR: 29.7995 dB
+Validation SSIM: 0.804661
+Set5 PSNR: 29.0713 dB
+Set5 SSIM: 0.832426
+Set14 PSNR: 25.5120 dB
+Set14 SSIM: 0.628195
+
+Epoch 21:
+Loss: 0.025910
+
+Metrics:
+Validation PSNR: 29.8434 dB
+Validation SSIM: 0.804885
+Set5 PSNR: 29.0743 dB
+Set5 SSIM: 0.835693
+Set14 PSNR: 25.5181 dB
+Set14 SSIM: 0.621635
+
+Epoch 22:
+Loss: 0.025824
+
+Metrics:
+Validation PSNR: 29.8546 dB
+Validation SSIM: 0.824105
+Set5 PSNR: 29.0886 dB
+Set5 SSIM: 0.831007
+Set14 PSNR: 25.5469 dB
+Set14 SSIM: 0.682717
+
+Epoch 23:
+Loss: 0.025746
+
+Metrics:
+Validation PSNR: 29.8793 dB
+Validation SSIM: 0.803206
+Set5 PSNR: 29.1286 dB
+Set5 SSIM: 0.834095
+Set14 PSNR: 25.5192 dB
+Set14 SSIM: 0.672933
+
+Epoch 24:
+Loss: 0.025685
+
+Metrics:
+Validation PSNR: 29.9043 dB
+Validation SSIM: 0.802309
+Set5 PSNR: 29.1173 dB
+Set5 SSIM: 0.841568
+Set14 PSNR: 25.5156 dB
+Set14 SSIM: 0.641512
+
+Epoch 25:
+Loss: 0.025614
+
+Metrics:
+Validation PSNR: 29.8584 dB
+Validation SSIM: 0.802091
+Set5 PSNR: 29.0396 dB
+Set5 SSIM: 0.837287
+Set14 PSNR: 25.5036 dB
+Set14 SSIM: 0.616025
+
+Epoch 26:
+Loss: 0.025553
+
+Metrics:
+Validation PSNR: 29.9282 dB
+Validation SSIM: 0.805295
+Set5 PSNR: 29.1396 dB
+Set5 SSIM: 0.838123
+Set14 PSNR: 25.5122 dB
+Set14 SSIM: 0.628734
+
+Epoch 27:
+Loss: 0.025475
+
+Metrics:
+Validation PSNR: 29.9410 dB
+Validation SSIM: 0.799661
+Set5 PSNR: 29.1284 dB
+Set5 SSIM: 0.834561
+Set14 PSNR: 25.5510 dB
+Set14 SSIM: 0.616671
+
+Epoch 28:
+Loss: 0.025417
+
+Metrics:
+Validation PSNR: 29.9773 dB
+Validation SSIM: 0.814182
+Set5 PSNR: 29.1629 dB
+Set5 SSIM: 0.835842
+Set14 PSNR: 25.5627 dB
+Set14 SSIM: 0.668440
+
+Epoch 29:
+Loss: 0.025356
+
+Metrics:
+Validation PSNR: 29.9860 dB
+Validation SSIM: 0.817699
+Set5 PSNR: 29.1157 dB
+Set5 SSIM: 0.836264
+Set14 PSNR: 25.5478 dB
+Set14 SSIM: 0.692564
+
+Epoch 30:
+Loss: 0.025302
+
+Metrics:
+Validation PSNR: 29.9862 dB
+Validation SSIM: 0.809483
+Set5 PSNR: 29.1183 dB
+Set5 SSIM: 0.833003
+Set14 PSNR: 25.5241 dB
+Set14 SSIM: 0.667241
+
+Epoch 31:
+Loss: 0.025238
+
+Metrics:
+Validation PSNR: 30.0170 dB
+Validation SSIM: 0.822741
+Set5 PSNR: 29.1665 dB
+Set5 SSIM: 0.841368
+Set14 PSNR: 25.4933 dB
+Set14 SSIM: 0.699722
+
+Epoch 32:
+Loss: 0.025192
+
+Metrics:
+Validation PSNR: 30.0304 dB
+Validation SSIM: 0.808051
+Set5 PSNR: 29.1545 dB
+Set5 SSIM: 0.837076
+Set14 PSNR: 25.5382 dB
+Set14 SSIM: 0.673615
+
+Epoch 33:
+Loss: 0.025134
+
+Metrics:
+Validation PSNR: 30.0274 dB
+Validation SSIM: 0.802679
+Set5 PSNR: 29.1576 dB
+Set5 SSIM: 0.837697
+Set14 PSNR: 25.5520 dB
+Set14 SSIM: 0.645077
+
+Epoch 34:
+Loss: 0.025072
+
+Metrics:
+Validation PSNR: 30.0502 dB
+Validation SSIM: 0.812034
+Set5 PSNR: 29.1590 dB
+Set5 SSIM: 0.835331
+Set14 PSNR: 25.5033 dB
+Set14 SSIM: 0.690400
+
+Epoch 35:
+Loss: 0.025032
+
+Metrics:
+Validation PSNR: 30.0585 dB
+Validation SSIM: 0.814936
+Set5 PSNR: 29.1067 dB
+Set5 SSIM: 0.839908
+Set14 PSNR: 25.4885 dB
+Set14 SSIM: 0.613647
+
+Epoch 36:
+Loss: 0.024980
+
+Metrics:
+Validation PSNR: 30.0720 dB
+Validation SSIM: 0.812374
+Set5 PSNR: 29.1725 dB
+Set5 SSIM: 0.836809
+Set14 PSNR: 25.5676 dB
+Set14 SSIM: 0.679570
+
+Epoch 37:
+Loss: 0.024937
+
+Metrics:
+Validation PSNR: 30.0923 dB
+Validation SSIM: 0.822074
+Set5 PSNR: 29.1524 dB
+Set5 SSIM: 0.829318
+Set14 PSNR: 25.5412 dB
+Set14 SSIM: 0.709978
+
+Epoch 38:
+Loss: 0.024879
+
+Metrics:
+Validation PSNR: 30.0961 dB
+Validation SSIM: 0.818471
+Set5 PSNR: 29.1662 dB
+Set5 SSIM: 0.840509
+Set14 PSNR: 25.5181 dB
+Set14 SSIM: 0.670093
+
+Epoch 39:
+Loss: 0.024837
+
+Metrics:
+Validation PSNR: 30.0846 dB
+Validation SSIM: 0.834807
+Set5 PSNR: 29.1388 dB
+Set5 SSIM: 0.838938
+Set14 PSNR: 25.4847 dB
+Set14 SSIM: 0.723958
+
+Epoch 40:
+Loss: 0.024801
+
+Metrics:
+Validation PSNR: 30.1298 dB
+Validation SSIM: 0.811429
+Set5 PSNR: 29.1830 dB
+Set5 SSIM: 0.833780
+Set14 PSNR: 25.5283 dB
+Set14 SSIM: 0.650896
+
+Epoch 41:
+Loss: 0.024750
+
+Metrics:
+Validation PSNR: 30.1310 dB
+Validation SSIM: 0.803231
+Set5 PSNR: 29.1635 dB
+Set5 SSIM: 0.834651
+Set14 PSNR: 25.5218 dB
+Set14 SSIM: 0.680306
+
+Epoch 42:
+Loss: 0.024700
+
+Metrics:
+Validation PSNR: 30.1334 dB
+Validation SSIM: 0.817907
+Set5 PSNR: 29.1541 dB
+Set5 SSIM: 0.831836
+Set14 PSNR: 25.5102 dB
+Set14 SSIM: 0.640027
+
+Epoch 43:
+Loss: 0.024664
+
+Metrics:
+Validation PSNR: 30.1399 dB
+Validation SSIM: 0.805711
+Set5 PSNR: 29.1574 dB
+Set5 SSIM: 0.836004
+Set14 PSNR: 25.5258 dB
+Set14 SSIM: 0.679243
+
+Epoch 44:
+Loss: 0.024615
+
+Metrics:
+Validation PSNR: 30.1443 dB
+Validation SSIM: 0.813629
+Set5 PSNR: 29.2066 dB
+Set5 SSIM: 0.842375
+Set14 PSNR: 25.5192 dB
+Set14 SSIM: 0.668443
+
+Epoch 45:
+Loss: 0.024577
+
+Metrics:
+Validation PSNR: 30.1545 dB
+Validation SSIM: 0.809481
+Set5 PSNR: 29.1654 dB
+Set5 SSIM: 0.837481
+Set14 PSNR: 25.5115 dB
+Set14 SSIM: 0.657366
+
+Epoch 46:
+Loss: 0.024533
+
+Metrics:
+Validation PSNR: 30.1717 dB
+Validation SSIM: 0.809042
+Set5 PSNR: 29.1398 dB
+Set5 SSIM: 0.841789
+Set14 PSNR: 25.5166 dB
+Set14 SSIM: 0.667894
+
+Epoch 47:
+Loss: 0.024499
+
+Metrics:
+Validation PSNR: 30.1840 dB
+Validation SSIM: 0.805372
+Set5 PSNR: 29.1510 dB
+Set5 SSIM: 0.840773
+Set14 PSNR: 25.4970 dB
+Set14 SSIM: 0.698573
+
+Epoch 48:
+Loss: 0.024461
+
+Metrics:
+Validation PSNR: 30.1786 dB
+Validation SSIM: 0.825620
+Set5 PSNR: 29.1616 dB
+Set5 SSIM: 0.834752
+Set14 PSNR: 25.4872 dB
+Set14 SSIM: 0.686544
+
+Epoch 49:
+Loss: 0.024421
+
+Metrics:
+Validation PSNR: 30.2013 dB
+Validation SSIM: 0.805344
+Set5 PSNR: 29.1562 dB
+Set5 SSIM: 0.842663
+Set14 PSNR: 25.4981 dB
+Set14 SSIM: 0.616830
+
+Epoch 50:
+Loss: 0.024383
+
+Metrics:
+Validation PSNR: 30.1571 dB
+Validation SSIM: 0.821217
+Set5 PSNR: 29.1623 dB
+Set5 SSIM: 0.833284
+Set14 PSNR: 25.5213 dB
+Set14 SSIM: 0.612554
+
+Epoch 51:
+Loss: 0.024338
+
+Metrics:
+Validation PSNR: 30.2042 dB
+Validation SSIM: 0.797777
+Set5 PSNR: 29.1632 dB
+Set5 SSIM: 0.842668
+Set14 PSNR: 25.4849 dB
+Set14 SSIM: 0.676174
+
+Epoch 52:
+Loss: 0.024310
+
+Metrics:
+Validation PSNR: 30.2230 dB
+Validation SSIM: 0.811912
+Set5 PSNR: 29.1489 dB
+Set5 SSIM: 0.835811
+Set14 PSNR: 25.5461 dB
+Set14 SSIM: 0.688619
+
+Epoch 53:
+Loss: 0.024272
+
+Metrics:
+Validation PSNR: 30.2153 dB
+Validation SSIM: 0.803128
+Set5 PSNR: 29.1050 dB
+Set5 SSIM: 0.842554
+Set14 PSNR: 25.4733 dB
+Set14 SSIM: 0.674143
+
+Epoch 54:
+Loss: 0.024247
+
+Metrics:
+Validation PSNR: 30.2244 dB
+Validation SSIM: 0.823886
+Set5 PSNR: 29.1157 dB
+Set5 SSIM: 0.834147
+Set14 PSNR: 25.4983 dB
+Set14 SSIM: 0.672546
+
+Epoch 55:
+Loss: 0.024209
+
+Metrics:
+Validation PSNR: 30.2396 dB
+Validation SSIM: 0.807788
+Set5 PSNR: 29.1785 dB
+Set5 SSIM: 0.842557
+Set14 PSNR: 25.5253 dB
+Set14 SSIM: 0.645838
+
+Epoch 56:
+Loss: 0.024163
+
+Metrics:
+Validation PSNR: 30.2369 dB
+Validation SSIM: 0.812826
+Set5 PSNR: 29.1519 dB
+Set5 SSIM: 0.843816
+Set14 PSNR: 25.5048 dB
+Set14 SSIM: 0.645104
+
+Epoch 57:
+Loss: 0.024143
+
+Metrics:
+Validation PSNR: 30.2520 dB
+Validation SSIM: 0.803886
+Set5 PSNR: 29.1359 dB
+Set5 SSIM: 0.832857
+Set14 PSNR: 25.4508 dB
+Set14 SSIM: 0.657682
+
+Epoch 58:
+Loss: 0.024106
+
+Metrics:
+Validation PSNR: 30.2392 dB
+Validation SSIM: 0.819357
+Set5 PSNR: 29.0734 dB
+Set5 SSIM: 0.837782
+Set14 PSNR: 25.4826 dB
+Set14 SSIM: 0.636786
+
+Epoch 59:
+Loss: 0.024075
+
+Metrics:
+Validation PSNR: 30.2447 dB
+Validation SSIM: 0.812730
+Set5 PSNR: 29.1550 dB
+Set5 SSIM: 0.834908
+Set14 PSNR: 25.4400 dB
+Set14 SSIM: 0.613505
+
+Epoch 60:
+Loss: 0.024047
+
+Metrics:
+Validation PSNR: 30.2618 dB
+Validation SSIM: 0.820508
+Set5 PSNR: 29.1543 dB
+Set5 SSIM: 0.836273
+Set14 PSNR: 25.4521 dB
+Set14 SSIM: 0.698910
+
+Epoch 61:
+Loss: 0.024023
+
+Metrics:
+Validation PSNR: 30.2788 dB
+Validation SSIM: 0.815613
+Set5 PSNR: 29.1260 dB
+Set5 SSIM: 0.837083
+Set14 PSNR: 25.4859 dB
+Set14 SSIM: 0.687989
+
+Epoch 62:
+Loss: 0.023983
+
+Metrics:
+Validation PSNR: 30.2771 dB
+Validation SSIM: 0.807650
+Set5 PSNR: 29.1446 dB
+Set5 SSIM: 0.838147
+Set14 PSNR: 25.5210 dB
+Set14 SSIM: 0.673594
+
+Epoch 63:
+Loss: 0.023954
+
+Metrics:
+Validation PSNR: 30.2711 dB
+Validation SSIM: 0.826021
+Set5 PSNR: 29.0792 dB
+Set5 SSIM: 0.837794
+Set14 PSNR: 25.4842 dB
+Set14 SSIM: 0.707771
+
+Epoch 64:
+Loss: 0.023933
+
+Metrics:
+Validation PSNR: 30.2901 dB
+Validation SSIM: 0.824212
+Set5 PSNR: 29.1419 dB
+Set5 SSIM: 0.837933
+Set14 PSNR: 25.4951 dB
+Set14 SSIM: 0.705123
+
+Epoch 65:
+Loss: 0.023894
+
+Metrics:
+Validation PSNR: 30.2864 dB
+Validation SSIM: 0.822419
+Set5 PSNR: 29.1059 dB
+Set5 SSIM: 0.839394
+Set14 PSNR: 25.4841 dB
+Set14 SSIM: 0.590483
+
+Epoch 66:
+Loss: 0.023754
+
+Metrics:
+Validation PSNR: 30.3227 dB
+Validation SSIM: 0.807459
+Set5 PSNR: 29.0955 dB
+Set5 SSIM: 0.837118
+Set14 PSNR: 25.4854 dB
+Set14 SSIM: 0.661810
+
+Epoch 67:
+Loss: 0.023721
+
+Metrics:
+Validation PSNR: 30.3253 dB
+Validation SSIM: 0.809990
+Set5 PSNR: 29.1327 dB
+Set5 SSIM: 0.835022
+Set14 PSNR: 25.5104 dB
+Set14 SSIM: 0.642321
+
+Epoch 68:
+Loss: 0.023710
+
+Metrics:
+Validation PSNR: 30.3295 dB
+Validation SSIM: 0.808181
+Set5 PSNR: 29.0886 dB
+Set5 SSIM: 0.836218
+Set14 PSNR: 25.4932 dB
+Set14 SSIM: 0.662334
+
+Epoch 69:
+Loss: 0.023690
+
+Metrics:
+Validation PSNR: 30.3200 dB
+Validation SSIM: 0.812649
+Set5 PSNR: 29.0943 dB
+Set5 SSIM: 0.842088
+Set14 PSNR: 25.4628 dB
+Set14 SSIM: 0.634438
+
+Epoch 70:
+Loss: 0.023673
+
+Metrics:
+Validation PSNR: 30.3387 dB
+Validation SSIM: 0.812325
+Set5 PSNR: 29.0781 dB
+Set5 SSIM: 0.834907
+Set14 PSNR: 25.4891 dB
+Set14 SSIM: 0.671274
+
+Epoch 71:
+Loss: 0.023664
+
+Metrics:
+Validation PSNR: 30.3365 dB
+Validation SSIM: 0.816526
+Set5 PSNR: 29.1248 dB
+Set5 SSIM: 0.837484
+Set14 PSNR: 25.4999 dB
+Set14 SSIM: 0.675879
+
+Epoch 72:
+Loss: 0.023651
+
+Metrics:
+Validation PSNR: 30.3448 dB
+Validation SSIM: 0.811484
+Set5 PSNR: 29.1059 dB
+Set5 SSIM: 0.842580
+Set14 PSNR: 25.4543 dB
+Set14 SSIM: 0.663864
+
+Epoch 73:
+Loss: 0.023625
+
+Metrics:
+Validation PSNR: 30.3382 dB
+Validation SSIM: 0.812098
+Set5 PSNR: 29.0934 dB
+Set5 SSIM: 0.835615
+Set14 PSNR: 25.4700 dB
+Set14 SSIM: 0.683137
+
+Epoch 74:
+Loss: 0.023615
+
+Metrics:
+Validation PSNR: 30.3463 dB
+Validation SSIM: 0.809920
+Set5 PSNR: 29.1012 dB
+Set5 SSIM: 0.826735
+Set14 PSNR: 25.4754 dB
+Set14 SSIM: 0.675521
+
+Epoch 75:
+Loss: 0.023591
+
+Metrics:
+Validation PSNR: 30.3488 dB
+Validation SSIM: 0.819912
+Set5 PSNR: 29.0741 dB
+Set5 SSIM: 0.839598
+Set14 PSNR: 25.4794 dB
+Set14 SSIM: 0.624303
+
+Epoch 76:
+Loss: 0.023582
+
+Metrics:
+Validation PSNR: 30.3426 dB
+Validation SSIM: 0.820201
+Set5 PSNR: 29.0654 dB
+Set5 SSIM: 0.837362
+Set14 PSNR: 25.4466 dB
+Set14 SSIM: 0.689327
+
+Epoch 77:
+Loss: 0.023565
+
+Metrics:
+Validation PSNR: 30.3460 dB
+Validation SSIM: 0.826017
+Set5 PSNR: 29.0565 dB
+Set5 SSIM: 0.832442
+Set14 PSNR: 25.4381 dB
+Set14 SSIM: 0.604493
+
+Epoch 78:
+Loss: 0.023560
+
+Metrics:
+Validation PSNR: 30.3474 dB
+Validation SSIM: 0.827032
+Set5 PSNR: 29.0467 dB
+Set5 SSIM: 0.836399
+Set14 PSNR: 25.4281 dB
+Set14 SSIM: 0.616706
+
+Epoch 79:
+Loss: 0.023531
+
+Metrics:
+Validation PSNR: 30.3609 dB
+Validation SSIM: 0.821619
+Set5 PSNR: 29.0940 dB
+Set5 SSIM: 0.842926
+Set14 PSNR: 25.4629 dB
+Set14 SSIM: 0.660691
+
+Epoch 80:
+Loss: 0.023527
+
+Metrics:
+Validation PSNR: 30.3542 dB
+Validation SSIM: 0.817125
+Set5 PSNR: 29.0975 dB
+Set5 SSIM: 0.834152
+Set14 PSNR: 25.4772 dB
+Set14 SSIM: 0.643043
+
+Epoch 81:
+Loss: 0.023511
+
+Metrics:
+Validation PSNR: 30.3526 dB
+Validation SSIM: 0.814104
+Set5 PSNR: 29.0861 dB
+Set5 SSIM: 0.841924
+Set14 PSNR: 25.4176 dB
+Set14 SSIM: 0.612877
+
+Epoch 82:
+Loss: 0.023493
+
+Metrics:
+Validation PSNR: 30.3666 dB
+Validation SSIM: 0.818020
+Set5 PSNR: 29.0727 dB
+Set5 SSIM: 0.838907
+Set14 PSNR: 25.4707 dB
+Set14 SSIM: 0.671895
+
+Epoch 83:
+Loss: 0.023473
+
+Metrics:
+Validation PSNR: 30.3636 dB
+Validation SSIM: 0.819416
+Set5 PSNR: 29.0630 dB
+Set5 SSIM: 0.842880
+Set14 PSNR: 25.4689 dB
+Set14 SSIM: 0.694348
+
+Epoch 84:
+Loss: 0.023465
+
+Metrics:
+Validation PSNR: 30.3663 dB
+Validation SSIM: 0.812711
+Set5 PSNR: 29.0858 dB
+Set5 SSIM: 0.830411
+Set14 PSNR: 25.4346 dB
+Set14 SSIM: 0.656243
+
+Epoch 85:
+Loss: 0.023456
+
+Metrics:
+Validation PSNR: 30.3751 dB
+Validation SSIM: 0.818013
+Set5 PSNR: 29.0899 dB
+Set5 SSIM: 0.839999
+Set14 PSNR: 25.4626 dB
+Set14 SSIM: 0.687611
+
+Epoch 86:
+Loss: 0.023440
+
+Metrics:
+Validation PSNR: 30.3713 dB
+Validation SSIM: 0.818074
+Set5 PSNR: 29.0759 dB
+Set5 SSIM: 0.840781
+Set14 PSNR: 25.4785 dB
+Set14 SSIM: 0.627188
+
+Epoch 87:
+Loss: 0.023367
+
+Metrics:
+Validation PSNR: 30.3852 dB
+Validation SSIM: 0.814242
+Set5 PSNR: 29.0798 dB
+Set5 SSIM: 0.845023
+Set14 PSNR: 25.4437 dB
+Set14 SSIM: 0.649625
+
+Epoch 88:
+Loss: 0.023352
+
+Metrics:
+Validation PSNR: 30.3846 dB
+Validation SSIM: 0.808004
+Set5 PSNR: 29.0631 dB
+Set5 SSIM: 0.839443
+Set14 PSNR: 25.4431 dB
+Set14 SSIM: 0.684447
+
+Epoch 89:
+Loss: 0.023343
+
+Metrics:
+Validation PSNR: 30.3800 dB
+Validation SSIM: 0.814118
+Set5 PSNR: 29.0338 dB
+Set5 SSIM: 0.840033
+Set14 PSNR: 25.4288 dB
+Set14 SSIM: 0.640519
+
+Epoch 90:
+Loss: 0.023334
+
+Metrics:
+Validation PSNR: 30.3881 dB
+Validation SSIM: 0.811736
+Set5 PSNR: 29.0785 dB
+Set5 SSIM: 0.835699
+Set14 PSNR: 25.4464 dB
+Set14 SSIM: 0.648126
+
+Epoch 91:
+Loss: 0.023325
+
+Metrics:
+Validation PSNR: 30.3866 dB
+Validation SSIM: 0.806300
+Set5 PSNR: 29.0622 dB
+Set5 SSIM: 0.834242
+Set14 PSNR: 25.4372 dB
+Set14 SSIM: 0.671708
+
+Epoch 92:
+Loss: 0.023320
+
+Metrics:
+Validation PSNR: 30.3919 dB
+Validation SSIM: 0.815417
+Set5 PSNR: 29.0755 dB
+Set5 SSIM: 0.835907
+Set14 PSNR: 25.4587 dB
+Set14 SSIM: 0.626892
+
+Epoch 93:
+Loss: 0.023312
+
+Metrics:
+Validation PSNR: 30.3838 dB
+Validation SSIM: 0.819325
+Set5 PSNR: 29.0444 dB
+Set5 SSIM: 0.833073
+Set14 PSNR: 25.3991 dB
+Set14 SSIM: 0.649977
+
+Epoch 94:
+Loss: 0.023309
+
+Metrics:
+Validation PSNR: 30.3916 dB
+Validation SSIM: 0.817327
+Set5 PSNR: 29.0456 dB
+Set5 SSIM: 0.847052
+Set14 PSNR: 25.4222 dB
+Set14 SSIM: 0.689618
+
+Epoch 95:
+Loss: 0.023299
+
+Metrics:
+Validation PSNR: 30.3918 dB
+Validation SSIM: 0.816672
+Set5 PSNR: 29.0484 dB
+Set5 SSIM: 0.836838
+Set14 PSNR: 25.4314 dB
+Set14 SSIM: 0.661323
+
+Epoch 96:
+Loss: 0.023291
+
+Metrics:
+Validation PSNR: 30.3890 dB
+Validation SSIM: 0.812964
+Set5 PSNR: 29.0292 dB
+Set5 SSIM: 0.841323
+Set14 PSNR: 25.4370 dB
+Set14 SSIM: 0.647211
+
+Epoch 97:
+Loss: 0.023289
+
+Metrics:
+Validation PSNR: 30.3887 dB
+Validation SSIM: 0.808656
+Set5 PSNR: 29.0496 dB
+Set5 SSIM: 0.837610
+Set14 PSNR: 25.4487 dB
+Set14 SSIM: 0.663510
+
+Epoch 98:
+Loss: 0.023273
+
+Metrics:
+Validation PSNR: 30.3947 dB
+Validation SSIM: 0.812480
+Set5 PSNR: 29.0522 dB
+Set5 SSIM: 0.832564
+Set14 PSNR: 25.4401 dB
+Set14 SSIM: 0.660649
+
+Epoch 99:
+Loss: 0.023266
+
+Metrics:
+Validation PSNR: 30.3969 dB
+Validation SSIM: 0.812734
+Set5 PSNR: 29.0706 dB
+Set5 SSIM: 0.832866
+Set14 PSNR: 25.4524 dB
+Set14 SSIM: 0.692992
+
+Epoch 100:
+Loss: 0.023260
+
+Metrics:
+Validation PSNR: 30.3941 dB
+Validation SSIM: 0.815894
+Set5 PSNR: 29.0529 dB
+Set5 SSIM: 0.838641
+Set14 PSNR: 25.4313 dB
+Set14 SSIM: 0.662062
+
+Epoch 101:
+Loss: 0.023256
+
+Metrics:
+Validation PSNR: 30.3993 dB
+Validation SSIM: 0.809741
+Set5 PSNR: 29.0315 dB
+Set5 SSIM: 0.836331
+Set14 PSNR: 25.4164 dB
+Set14 SSIM: 0.655258
+
+Epoch 102:
+Loss: 0.023243
+
+Metrics:
+Validation PSNR: 30.3960 dB
+Validation SSIM: 0.815903
+Set5 PSNR: 29.0605 dB
+Set5 SSIM: 0.843445
+Set14 PSNR: 25.4404 dB
+Set14 SSIM: 0.692832
+
+Epoch 103:
+Loss: 0.023244
+
+Metrics:
+Validation PSNR: 30.3977 dB
+Validation SSIM: 0.813273
+Set5 PSNR: 29.0136 dB
+Set5 SSIM: 0.832579
+Set14 PSNR: 25.4107 dB
+Set14 SSIM: 0.647809
+
+Epoch 104:
+Loss: 0.023236
+
+Metrics:
+Validation PSNR: 30.3965 dB
+Validation SSIM: 0.804053
+Set5 PSNR: 29.0269 dB
+Set5 SSIM: 0.836145
+Set14 PSNR: 25.4257 dB
+Set14 SSIM: 0.658787
+
+Epoch 105:
+Loss: 0.023223
+
+Metrics:
+Validation PSNR: 30.4040 dB
+Validation SSIM: 0.812932
+Set5 PSNR: 29.0516 dB
+Set5 SSIM: 0.835335
+Set14 PSNR: 25.4456 dB
+Set14 SSIM: 0.647663
+
+Epoch 106:
+Loss: 0.023218
+
+Metrics:
+Validation PSNR: 30.4021 dB
+Validation SSIM: 0.814563
+Set5 PSNR: 29.0408 dB
+Set5 SSIM: 0.842052
+Set14 PSNR: 25.4337 dB
+Set14 SSIM: 0.636039
+
+Epoch 107:
+Loss: 0.023217
+
+Metrics:
+Validation PSNR: 30.4029 dB
+Validation SSIM: 0.817604
+Set5 PSNR: 29.0434 dB
+Set5 SSIM: 0.836805
+Set14 PSNR: 25.4379 dB
+Set14 SSIM: 0.642593
+
+Epoch 108:
+Loss: 0.023170
+
+Metrics:
+Validation PSNR: 30.4096 dB
+Validation SSIM: 0.809836
+Set5 PSNR: 29.0433 dB
+Set5 SSIM: 0.839252
+Set14 PSNR: 25.4202 dB
+Set14 SSIM: 0.656532
+
+Epoch 109:
+Loss: 0.023165
+
+Metrics:
+Validation PSNR: 30.4029 dB
+Validation SSIM: 0.816106
+Set5 PSNR: 29.0396 dB
+Set5 SSIM: 0.831439
+Set14 PSNR: 25.4136 dB
+Set14 SSIM: 0.698269
+
+Epoch 110:
+Loss: 0.023159
+
+Metrics:
+Validation PSNR: 30.4157 dB
+Validation SSIM: 0.803670
+Set5 PSNR: 29.0593 dB
+Set5 SSIM: 0.836358
+Set14 PSNR: 25.4231 dB
+Set14 SSIM: 0.679080
+
+Epoch 111:
+Loss: 0.023158
+
+Metrics:
+Validation PSNR: 30.4103 dB
+Validation SSIM: 0.815529
+Set5 PSNR: 29.0443 dB
+Set5 SSIM: 0.836232
+Set14 PSNR: 25.4457 dB
+Set14 SSIM: 0.676770
+
+Epoch 112:
+Loss: 0.023153
+
+Metrics:
+Validation PSNR: 30.4088 dB
+Validation SSIM: 0.803753
+Set5 PSNR: 29.0186 dB
+Set5 SSIM: 0.832208
+Set14 PSNR: 25.4052 dB
+Set14 SSIM: 0.661313
+
+Epoch 113:
+Loss: 0.023155
+
+Metrics:
+Validation PSNR: 30.4159 dB
+Validation SSIM: 0.813778
+Set5 PSNR: 29.0472 dB
+Set5 SSIM: 0.835459
+Set14 PSNR: 25.4371 dB
+Set14 SSIM: 0.693066
+
+Epoch 114:
+Loss: 0.023153
+
+Metrics:
+Validation PSNR: 30.4136 dB
+Validation SSIM: 0.805734
+Set5 PSNR: 29.0489 dB
+Set5 SSIM: 0.839638
+Set14 PSNR: 25.4204 dB
+Set14 SSIM: 0.663922
+
+Epoch 115:
+Loss: 0.023148
+
+Metrics:
+Validation PSNR: 30.4095 dB
+Validation SSIM: 0.810726
+Set5 PSNR: 29.0220 dB
+Set5 SSIM: 0.839381
+Set14 PSNR: 25.4272 dB
+Set14 SSIM: 0.682424
+
+Epoch 116:
+Loss: 0.023145
+
+Metrics:
+Validation PSNR: 30.4087 dB
+Validation SSIM: 0.816202
+Set5 PSNR: 29.0254 dB
+Set5 SSIM: 0.835778
+Set14 PSNR: 25.4202 dB
+Set14 SSIM: 0.641961
+
+Epoch 117:
+Loss: 0.023146
+
+Metrics:
+Validation PSNR: 30.4152 dB
+Validation SSIM: 0.806346
+Set5 PSNR: 29.0402 dB
+Set5 SSIM: 0.837930
+Set14 PSNR: 25.4318 dB
+Set14 SSIM: 0.666340
+
+Epoch 118:
+Loss: 0.023137
+
+Metrics:
+Validation PSNR: 30.4113 dB
+Validation SSIM: 0.809213
+Set5 PSNR: 29.0156 dB
+Set5 SSIM: 0.842167
+Set14 PSNR: 25.4204 dB
+Set14 SSIM: 0.680790
+
+Epoch 119:
+Loss: 0.023131
+
+Metrics:
+Validation PSNR: 30.4107 dB
+Validation SSIM: 0.809406
+Set5 PSNR: 29.0348 dB
+Set5 SSIM: 0.830610
+Set14 PSNR: 25.4134 dB
+Set14 SSIM: 0.685528
+
+Epoch 120:
+Loss: 0.023128
+
+Metrics:
+Validation PSNR: 30.4131 dB
+Validation SSIM: 0.821852
+Set5 PSNR: 29.0406 dB
+Set5 SSIM: 0.839967
+Set14 PSNR: 25.4200 dB
+Set14 SSIM: 0.633664
+
+Epoch 121:
+Loss: 0.023127
+
+Metrics:
+Validation PSNR: 30.4171 dB
+Validation SSIM: 0.813757
+Set5 PSNR: 29.0447 dB
+Set5 SSIM: 0.838766
+Set14 PSNR: 25.4349 dB
+Set14 SSIM: 0.689527
+
+Epoch 122:
+Loss: 0.023123
+
+Metrics:
+Validation PSNR: 30.4170 dB
+Validation SSIM: 0.813601
+Set5 PSNR: 29.0280 dB
+Set5 SSIM: 0.840769
+Set14 PSNR: 25.4213 dB
+Set14 SSIM: 0.694391
+
+Epoch 123:
+Loss: 0.023121
+
+Metrics:
+Validation PSNR: 30.4139 dB
+Validation SSIM: 0.808040
+Set5 PSNR: 29.0315 dB
+Set5 SSIM: 0.842511
+Set14 PSNR: 25.4077 dB
+Set14 SSIM: 0.669195
+
+Epoch 124:
+Loss: 0.023120
+
+Metrics:
+Validation PSNR: 30.4098 dB
+Validation SSIM: 0.812059
+Set5 PSNR: 29.0140 dB
+Set5 SSIM: 0.844007
+Set14 PSNR: 25.4136 dB
+Set14 SSIM: 0.628677
+
+Epoch 125:
+Loss: 0.023113
+
+Metrics:
+Validation PSNR: 30.4143 dB
+Validation SSIM: 0.804904
+Set5 PSNR: 29.0483 dB
+Set5 SSIM: 0.837789
+Set14 PSNR: 25.4245 dB
+Set14 SSIM: 0.655249
+
+Epoch 126:
+Loss: 0.023104
+
+Metrics:
+Validation PSNR: 30.4168 dB
+Validation SSIM: 0.810883
+Set5 PSNR: 29.0365 dB
+Set5 SSIM: 0.840265
+Set14 PSNR: 25.4295 dB
+Set14 SSIM: 0.662635
+
+Epoch 127:
+Loss: 0.023103
+
+Metrics:
+Validation PSNR: 30.4176 dB
+Validation SSIM: 0.809780
+Set5 PSNR: 29.0211 dB
+Set5 SSIM: 0.834793
+Set14 PSNR: 25.4145 dB
+Set14 SSIM: 0.649475
+
+Epoch 128:
+Loss: 0.023100
+
+Metrics:
+Validation PSNR: 30.4191 dB
+Validation SSIM: 0.807219
+Set5 PSNR: 29.0446 dB
+Set5 SSIM: 0.841532
+Set14 PSNR: 25.4269 dB
+Set14 SSIM: 0.651681
+
+Epoch 129:
+Loss: 0.023086
+
+Metrics:
+Validation PSNR: 30.4235 dB
+Validation SSIM: 0.807873
+Set5 PSNR: 29.0455 dB
+Set5 SSIM: 0.833845
+Set14 PSNR: 25.4253 dB
+Set14 SSIM: 0.669465
+
+Epoch 130:
+Loss: 0.023077
+
+Metrics:
+Validation PSNR: 30.4134 dB
+Validation SSIM: 0.807828
+Set5 PSNR: 29.0384 dB
+Set5 SSIM: 0.837252
+Set14 PSNR: 25.4253 dB
+Set14 SSIM: 0.668775
+
+Epoch 131:
+Loss: 0.023078
+
+Metrics:
+Validation PSNR: 30.4217 dB
+Validation SSIM: 0.816849
+Set5 PSNR: 29.0198 dB
+Set5 SSIM: 0.836285
+Set14 PSNR: 25.4246 dB
+Set14 SSIM: 0.648462
+
+Epoch 132:
+Loss: 0.023072
+
+Metrics:
+Validation PSNR: 30.4171 dB
+Validation SSIM: 0.807662
+Set5 PSNR: 29.0291 dB
+Set5 SSIM: 0.843110
+Set14 PSNR: 25.4216 dB
+Set14 SSIM: 0.681204
+
+Epoch 133:
+Loss: 0.023072
+
+Metrics:
+Validation PSNR: 30.4237 dB
+Validation SSIM: 0.811351
+Set5 PSNR: 29.0341 dB
+Set5 SSIM: 0.840688
+Set14 PSNR: 25.4195 dB
+Set14 SSIM: 0.686932
+
+Epoch 134:
+Loss: 0.023073
+
+Metrics:
+Validation PSNR: 30.4220 dB
+Validation SSIM: 0.810748
+Set5 PSNR: 29.0369 dB
+Set5 SSIM: 0.840539
+Set14 PSNR: 25.4184 dB
+Set14 SSIM: 0.691942
+
+Epoch 135:
+Loss: 0.023071
+
+Metrics:
+Validation PSNR: 30.4217 dB
+Validation SSIM: 0.813393
+Set5 PSNR: 29.0223 dB
+Set5 SSIM: 0.841441
+Set14 PSNR: 25.4103 dB
+Set14 SSIM: 0.663185
+
+Epoch 136:
+Loss: 0.023066
+
+Metrics:
+Validation PSNR: 30.4233 dB
+Validation SSIM: 0.806267
+Set5 PSNR: 29.0252 dB
+Set5 SSIM: 0.840515
+Set14 PSNR: 25.3980 dB
+Set14 SSIM: 0.635238
+
+Epoch 137:
+Loss: 0.023062
+
+Metrics:
+Validation PSNR: 30.4170 dB
+Validation SSIM: 0.807364
+Set5 PSNR: 29.0192 dB
+Set5 SSIM: 0.844463
+Set14 PSNR: 25.4049 dB
+Set14 SSIM: 0.685897
+
+Epoch 138:
+Loss: 0.023061
+
+Metrics:
+Validation PSNR: 30.4223 dB
+Validation SSIM: 0.806935
+Set5 PSNR: 29.0385 dB
+Set5 SSIM: 0.838241
+Set14 PSNR: 25.4155 dB
+Set14 SSIM: 0.684493
+
+Epoch 139:
+Loss: 0.023063
+
+Metrics:
+Validation PSNR: 30.4216 dB
+Validation SSIM: 0.823921
+Set5 PSNR: 29.0276 dB
+Set5 SSIM: 0.839488
+Set14 PSNR: 25.4112 dB
+Set14 SSIM: 0.614923
+
+Epoch 140:
+Loss: 0.023062
+
+Metrics:
+Validation PSNR: 30.4231 dB
+Validation SSIM: 0.809275
+Set5 PSNR: 29.0310 dB
+Set5 SSIM: 0.835516
+Set14 PSNR: 25.4095 dB
+Set14 SSIM: 0.670509
+
+Epoch 141:
+Loss: 0.023060
+
+Metrics:
+Validation PSNR: 30.4269 dB
+Validation SSIM: 0.807663
+Set5 PSNR: 29.0520 dB
+Set5 SSIM: 0.844246
+Set14 PSNR: 25.4189 dB
+Set14 SSIM: 0.681143
+
+Epoch 142:
+Loss: 0.023052
+
+Metrics:
+Validation PSNR: 30.4254 dB
+Validation SSIM: 0.807221
+Set5 PSNR: 29.0293 dB
+Set5 SSIM: 0.837153
+Set14 PSNR: 25.4161 dB
+Set14 SSIM: 0.678060
+
+Epoch 143:
+Loss: 0.023058
+
+Metrics:
+Validation PSNR: 30.4161 dB
+Validation SSIM: 0.806795
+Set5 PSNR: 29.0147 dB
+Set5 SSIM: 0.838131
+Set14 PSNR: 25.4044 dB
+Set14 SSIM: 0.682376
+
+Epoch 144:
+Loss: 0.023049
+
+Metrics:
+Validation PSNR: 30.4221 dB
+Validation SSIM: 0.812897
+Set5 PSNR: 29.0312 dB
+Set5 SSIM: 0.837474
+Set14 PSNR: 25.4196 dB
+Set14 SSIM: 0.652303
+
+Epoch 145:
+Loss: 0.023052
+
+Metrics:
+Validation PSNR: 30.4180 dB
+Validation SSIM: 0.810344
+Set5 PSNR: 29.0224 dB
+Set5 SSIM: 0.835823
+Set14 PSNR: 25.3957 dB
+Set14 SSIM: 0.680941
+
+Epoch 146:
+Loss: 0.023046
+
+Metrics:
+Validation PSNR: 30.4206 dB
+Validation SSIM: 0.811140
+Set5 PSNR: 29.0148 dB
+Set5 SSIM: 0.841515
+Set14 PSNR: 25.3941 dB
+Set14 SSIM: 0.669868
+
+Epoch 147:
+Loss: 0.023052
+
+Metrics:
+Validation PSNR: 30.4241 dB
+Validation SSIM: 0.810931
+Set5 PSNR: 29.0250 dB
+Set5 SSIM: 0.836223
+Set14 PSNR: 25.4110 dB
+Set14 SSIM: 0.669807
+
+Epoch 148:
+Loss: 0.023051
+
+Metrics:
+Validation PSNR: 30.4189 dB
+Validation SSIM: 0.807438
+Set5 PSNR: 29.0047 dB
+Set5 SSIM: 0.828241
+Set14 PSNR: 25.3988 dB
+Set14 SSIM: 0.689385
+
+Epoch 149:
+Loss: 0.023049
+
+Metrics:
+Validation PSNR: 30.4222 dB
+Validation SSIM: 0.810672
+Set5 PSNR: 29.0167 dB
+Set5 SSIM: 0.840297
+Set14 PSNR: 25.4095 dB
+Set14 SSIM: 0.663821
+
+Epoch 150:
+Loss: 0.023028
+
+Metrics:
+Validation PSNR: 30.4211 dB
+Validation SSIM: 0.813156
+Set5 PSNR: 28.9982 dB
+Set5 SSIM: 0.840620
+Set14 PSNR: 25.4024 dB
+Set14 SSIM: 0.653608
+
+Epoch 151:
+Loss: 0.023028
+
+Metrics:
+Validation PSNR: 30.4205 dB
+Validation SSIM: 0.811022
+Set5 PSNR: 29.0073 dB
+Set5 SSIM: 0.837862
+Set14 PSNR: 25.4004 dB
+Set14 SSIM: 0.663240
+
+Epoch 152:
+Loss: 0.023031
+
+Metrics:
+Validation PSNR: 30.4188 dB
+Validation SSIM: 0.807079
+Set5 PSNR: 29.0135 dB
+Set5 SSIM: 0.838249
+Set14 PSNR: 25.4043 dB
+Set14 SSIM: 0.680506
+
+Epoch 153:
+Loss: 0.023029
+
+Metrics:
+Validation PSNR: 30.4282 dB
+Validation SSIM: 0.805471
+Set5 PSNR: 29.0339 dB
+Set5 SSIM: 0.836272
+Set14 PSNR: 25.4178 dB
+Set14 SSIM: 0.660295
+
+Epoch 154:
+Loss: 0.023029
+
+Metrics:
+Validation PSNR: 30.4243 dB
+Validation SSIM: 0.807434
+Set5 PSNR: 29.0373 dB
+Set5 SSIM: 0.846366
+Set14 PSNR: 25.4074 dB
+Set14 SSIM: 0.643908
+
+Epoch 155:
+Loss: 0.023027
+
+Metrics:
+Validation PSNR: 30.4278 dB
+Validation SSIM: 0.807009
+Set5 PSNR: 29.0230 dB
+Set5 SSIM: 0.835071
+Set14 PSNR: 25.4106 dB
+Set14 SSIM: 0.665075
+
+Epoch 156:
+Loss: 0.023021
+
+Metrics:
+Validation PSNR: 30.4273 dB
+Validation SSIM: 0.814409
+Set5 PSNR: 29.0225 dB
+Set5 SSIM: 0.838839
+Set14 PSNR: 25.4076 dB
+Set14 SSIM: 0.672290
+
+Epoch 157:
+Loss: 0.023025
+
+Metrics:
+Validation PSNR: 30.4252 dB
+Validation SSIM: 0.814303
+Set5 PSNR: 29.0301 dB
+Set5 SSIM: 0.838805
+Set14 PSNR: 25.4146 dB
+Set14 SSIM: 0.682805
+
+Epoch 158:
+Loss: 0.023023
+
+Metrics:
+Validation PSNR: 30.4249 dB
+Validation SSIM: 0.812617
+Set5 PSNR: 29.0156 dB
+Set5 SSIM: 0.835093
+Set14 PSNR: 25.4009 dB
+Set14 SSIM: 0.693888
+
+Epoch 159:
+Loss: 0.023025
+
+Metrics:
+Validation PSNR: 30.4319 dB
+Validation SSIM: 0.809638
+Set5 PSNR: 29.0424 dB
+Set5 SSIM: 0.838824
+Set14 PSNR: 25.4196 dB
+Set14 SSIM: 0.688994
+
+Epoch 160:
+Loss: 0.023026
+
+Metrics:
+Validation PSNR: 30.4217 dB
+Validation SSIM: 0.805541
+Set5 PSNR: 29.0034 dB
+Set5 SSIM: 0.839818
+Set14 PSNR: 25.3920 dB
+Set14 SSIM: 0.658346
+
+Epoch 161:
+Loss: 0.023022
+
+Metrics:
+Validation PSNR: 30.4286 dB
+Validation SSIM: 0.821064
+Set5 PSNR: 29.0175 dB
+Set5 SSIM: 0.837509
+Set14 PSNR: 25.4051 dB
+Set14 SSIM: 0.642679
+
+Epoch 162:
+Loss: 0.023024
+
+Metrics:
+Validation PSNR: 30.4314 dB
+Validation SSIM: 0.808373
+Set5 PSNR: 29.0325 dB
+Set5 SSIM: 0.841578
+Set14 PSNR: 25.4159 dB
+Set14 SSIM: 0.685672
+
+Epoch 163:
+Loss: 0.023021
+
+Metrics:
+Validation PSNR: 30.4270 dB
+Validation SSIM: 0.808225
+Set5 PSNR: 29.0146 dB
+Set5 SSIM: 0.841031
+Set14 PSNR: 25.3975 dB
+Set14 SSIM: 0.673667
+
+Epoch 164:
+Loss: 0.023015
+
+Metrics:
+Validation PSNR: 30.4272 dB
+Validation SSIM: 0.805466
+Set5 PSNR: 29.0182 dB
+Set5 SSIM: 0.839095
+Set14 PSNR: 25.3995 dB
+Set14 SSIM: 0.683713
+
+Epoch 165:
+Loss: 0.023016
+
+Metrics:
+Validation PSNR: 30.4282 dB
+Validation SSIM: 0.813395
+Set5 PSNR: 29.0272 dB
+Set5 SSIM: 0.836538
+Set14 PSNR: 25.4204 dB
+Set14 SSIM: 0.684971
+
+Epoch 166:
+Loss: 0.023019
+
+Metrics:
+Validation PSNR: 30.4303 dB
+Validation SSIM: 0.815219
+Set5 PSNR: 29.0368 dB
+Set5 SSIM: 0.839565
+Set14 PSNR: 25.4191 dB
+Set14 SSIM: 0.647234
+
+Epoch 167:
+Loss: 0.023017
+
+Metrics:
+Validation PSNR: 30.4272 dB
+Validation SSIM: 0.813042
+Set5 PSNR: 29.0115 dB
+Set5 SSIM: 0.838168
+Set14 PSNR: 25.4010 dB
+Set14 SSIM: 0.672895
+
+Epoch 168:
+Loss: 0.023018
+
+Metrics:
+Validation PSNR: 30.4199 dB
+Validation SSIM: 0.825953
+Set5 PSNR: 28.9881 dB
+Set5 SSIM: 0.834986
+Set14 PSNR: 25.3990 dB
+Set14 SSIM: 0.643127
+
+Epoch 169:
+Loss: 0.023019
+
+Metrics:
+Validation PSNR: 30.4289 dB
+Validation SSIM: 0.807834
+Set5 PSNR: 29.0250 dB
+Set5 SSIM: 0.837518
+Set14 PSNR: 25.4222 dB
+Set14 SSIM: 0.690026
+
+Epoch 170:
+Loss: 0.023019
+
+Metrics:
+Validation PSNR: 30.4284 dB
+Validation SSIM: 0.809972
+Set5 PSNR: 29.0202 dB
+Set5 SSIM: 0.838633
+Set14 PSNR: 25.4150 dB
+Set14 SSIM: 0.669178
+
+Epoch 171:
+Loss: 0.023008
+
+Metrics:
+Validation PSNR: 30.4328 dB
+Validation SSIM: 0.805834
+Set5 PSNR: 29.0382 dB
+Set5 SSIM: 0.837606
+Set14 PSNR: 25.4169 dB
+Set14 SSIM: 0.682991
+
+Epoch 172:
+Loss: 0.023008
+
+Metrics:
+Validation PSNR: 30.4256 dB
+Validation SSIM: 0.811140
+Set5 PSNR: 29.0126 dB
+Set5 SSIM: 0.837326
+Set14 PSNR: 25.4019 dB
+Set14 SSIM: 0.655881
+
+Epoch 173:
+Loss: 0.023011
+
+Metrics:
+Validation PSNR: 30.4335 dB
+Validation SSIM: 0.806939
+Set5 PSNR: 29.0447 dB
+Set5 SSIM: 0.841238
+Set14 PSNR: 25.4254 dB
+Set14 SSIM: 0.672930
+
+Epoch 174:
+Loss: 0.023008
+
+Metrics:
+Validation PSNR: 30.4300 dB
+Validation SSIM: 0.811530
+Set5 PSNR: 29.0301 dB
+Set5 SSIM: 0.840743
+Set14 PSNR: 25.4183 dB
+Set14 SSIM: 0.661250
+
+Epoch 175:
+Loss: 0.023012
+
+Metrics:
+Validation PSNR: 30.4297 dB
+Validation SSIM: 0.810929
+Set5 PSNR: 29.0234 dB
+Set5 SSIM: 0.842994
+Set14 PSNR: 25.4108 dB
+Set14 SSIM: 0.666583
+
+Epoch 176:
+Loss: 0.023006
+
+Metrics:
+Validation PSNR: 30.4261 dB
+Validation SSIM: 0.808751
+Set5 PSNR: 29.0243 dB
+Set5 SSIM: 0.847848
+Set14 PSNR: 25.4126 dB
+Set14 SSIM: 0.641328
+
+Epoch 177:
+Loss: 0.023011
+
+Metrics:
+Validation PSNR: 30.4317 dB
+Validation SSIM: 0.806253
+Set5 PSNR: 29.0264 dB
+Set5 SSIM: 0.835607
+Set14 PSNR: 25.4122 dB
+Set14 SSIM: 0.686059
+
+Epoch 178:
+Loss: 0.023010
+
+Metrics:
+Validation PSNR: 30.4291 dB
+Validation SSIM: 0.806226
+Set5 PSNR: 29.0152 dB
+Set5 SSIM: 0.843783
+Set14 PSNR: 25.3973 dB
+Set14 SSIM: 0.676265
+
+Epoch 179:
+Loss: 0.023009
+
+Metrics:
+Validation PSNR: 30.4270 dB
+Validation SSIM: 0.809463
+Set5 PSNR: 29.0085 dB
+Set5 SSIM: 0.840227
+Set14 PSNR: 25.4119 dB
+Set14 SSIM: 0.682573
+
+Epoch 180:
+Loss: 0.023005
+
+Metrics:
+Validation PSNR: 30.4271 dB
+Validation SSIM: 0.808602
+Set5 PSNR: 29.0161 dB
+Set5 SSIM: 0.840427
+Set14 PSNR: 25.4061 dB
+Set14 SSIM: 0.673768
+
+Epoch 181:
+Loss: 0.023004
+
+Metrics:
+Validation PSNR: 30.4297 dB
+Validation SSIM: 0.808019
+Set5 PSNR: 29.0185 dB
+Set5 SSIM: 0.832499
+Set14 PSNR: 25.4096 dB
+Set14 SSIM: 0.689095
+
+Epoch 182:
+Loss: 0.023007
+
+Metrics:
+Validation PSNR: 30.4279 dB
+Validation SSIM: 0.807720
+Set5 PSNR: 29.0187 dB
+Set5 SSIM: 0.838785
+Set14 PSNR: 25.4018 dB
+Set14 SSIM: 0.682636
+
+Epoch 183:
+Loss: 0.023005
+
+Metrics:
+Validation PSNR: 30.4337 dB
+Validation SSIM: 0.813409
+Set5 PSNR: 29.0242 dB
+Set5 SSIM: 0.839955
+Set14 PSNR: 25.4161 dB
+Set14 SSIM: 0.646677
+
+Epoch 184:
+Loss: 0.023007
+
+Metrics:
+Validation PSNR: 30.4300 dB
+Validation SSIM: 0.808545
+Set5 PSNR: 29.0135 dB
+Set5 SSIM: 0.841906
+Set14 PSNR: 25.4041 dB
+Set14 SSIM: 0.665070
+
+Epoch 185:
+Loss: 0.023003
+
+Metrics:
+Validation PSNR: 30.4281 dB
+Validation SSIM: 0.810726
+Set5 PSNR: 29.0034 dB
+Set5 SSIM: 0.836081
+Set14 PSNR: 25.4001 dB
+Set14 SSIM: 0.662125
+
+Epoch 186:
+Loss: 0.023008
+
+Metrics:
+Validation PSNR: 30.4167 dB
+Validation SSIM: 0.809714
+Set5 PSNR: 28.9797 dB
+Set5 SSIM: 0.839649
+Set14 PSNR: 25.3860 dB
+Set14 SSIM: 0.653262
+
+Epoch 187:
+Loss: 0.023007
+
+Metrics:
+Validation PSNR: 30.4306 dB
+Validation SSIM: 0.806405
+Set5 PSNR: 29.0152 dB
+Set5 SSIM: 0.837016
+Set14 PSNR: 25.4008 dB
+Set14 SSIM: 0.660166
+
+Epoch 188:
+Loss: 0.023001
+
+Metrics:
+Validation PSNR: 30.4311 dB
+Validation SSIM: 0.805260
+Set5 PSNR: 29.0206 dB
+Set5 SSIM: 0.839203
+Set14 PSNR: 25.4125 dB
+Set14 SSIM: 0.671857
+
+Epoch 189:
+Loss: 0.022997
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.805671
+Set5 PSNR: 29.0244 dB
+Set5 SSIM: 0.840459
+Set14 PSNR: 25.4128 dB
+Set14 SSIM: 0.682274
+
+Epoch 190:
+Loss: 0.023002
+
+Metrics:
+Validation PSNR: 30.4176 dB
+Validation SSIM: 0.816404
+Set5 PSNR: 28.9818 dB
+Set5 SSIM: 0.840332
+Set14 PSNR: 25.3821 dB
+Set14 SSIM: 0.656857
+
+Epoch 191:
+Loss: 0.023000
+
+Metrics:
+Validation PSNR: 30.4295 dB
+Validation SSIM: 0.805718
+Set5 PSNR: 29.0002 dB
+Set5 SSIM: 0.842314
+Set14 PSNR: 25.3974 dB
+Set14 SSIM: 0.689170
+
+Epoch 192:
+Loss: 0.022999
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.805423
+Set5 PSNR: 29.0361 dB
+Set5 SSIM: 0.840958
+Set14 PSNR: 25.4172 dB
+Set14 SSIM: 0.685877
+
+Epoch 193:
+Loss: 0.022998
+
+Metrics:
+Validation PSNR: 30.4316 dB
+Validation SSIM: 0.814313
+Set5 PSNR: 29.0123 dB
+Set5 SSIM: 0.838107
+Set14 PSNR: 25.4054 dB
+Set14 SSIM: 0.653170
+
+Epoch 194:
+Loss: 0.022997
+
+Metrics:
+Validation PSNR: 30.4305 dB
+Validation SSIM: 0.808826
+Set5 PSNR: 29.0216 dB
+Set5 SSIM: 0.840106
+Set14 PSNR: 25.4071 dB
+Set14 SSIM: 0.677876
+
+Epoch 195:
+Loss: 0.022999
+
+Metrics:
+Validation PSNR: 30.4303 dB
+Validation SSIM: 0.813879
+Set5 PSNR: 29.0136 dB
+Set5 SSIM: 0.839854
+Set14 PSNR: 25.4061 dB
+Set14 SSIM: 0.663300
+
+Epoch 196:
+Loss: 0.022997
+
+Metrics:
+Validation PSNR: 30.4251 dB
+Validation SSIM: 0.811969
+Set5 PSNR: 29.0077 dB
+Set5 SSIM: 0.842128
+Set14 PSNR: 25.3987 dB
+Set14 SSIM: 0.648917
+
+Epoch 197:
+Loss: 0.022998
+
+Metrics:
+Validation PSNR: 30.4282 dB
+Validation SSIM: 0.806349
+Set5 PSNR: 29.0015 dB
+Set5 SSIM: 0.845076
+Set14 PSNR: 25.3953 dB
+Set14 SSIM: 0.682799
+
+Epoch 198:
+Loss: 0.022998
+
+Metrics:
+Validation PSNR: 30.4269 dB
+Validation SSIM: 0.807490
+Set5 PSNR: 29.0055 dB
+Set5 SSIM: 0.839584
+Set14 PSNR: 25.4062 dB
+Set14 SSIM: 0.679954
+
+Epoch 199:
+Loss: 0.022996
+
+Metrics:
+Validation PSNR: 30.4222 dB
+Validation SSIM: 0.809852
+Set5 PSNR: 28.9906 dB
+Set5 SSIM: 0.838549
+Set14 PSNR: 25.3885 dB
+Set14 SSIM: 0.660091
+
+Epoch 200:
+Loss: 0.022999
+
+Metrics:
+Validation PSNR: 30.4208 dB
+Validation SSIM: 0.808099
+Set5 PSNR: 28.9923 dB
+Set5 SSIM: 0.841777
+Set14 PSNR: 25.3963 dB
+Set14 SSIM: 0.680518
+
+Epoch 201:
+Loss: 0.022991
+
+Metrics:
+Validation PSNR: 30.4256 dB
+Validation SSIM: 0.805698
+Set5 PSNR: 29.0049 dB
+Set5 SSIM: 0.840408
+Set14 PSNR: 25.3952 dB
+Set14 SSIM: 0.677351
+
+Epoch 202:
+Loss: 0.022994
+
+Metrics:
+Validation PSNR: 30.4287 dB
+Validation SSIM: 0.807300
+Set5 PSNR: 29.0141 dB
+Set5 SSIM: 0.839771
+Set14 PSNR: 25.3909 dB
+Set14 SSIM: 0.681671
+
+Epoch 203:
+Loss: 0.022997
+
+Metrics:
+Validation PSNR: 30.4299 dB
+Validation SSIM: 0.809059
+Set5 PSNR: 29.0086 dB
+Set5 SSIM: 0.840778
+Set14 PSNR: 25.4018 dB
+Set14 SSIM: 0.677377
+
+Epoch 204:
+Loss: 0.022993
+
+Metrics:
+Validation PSNR: 30.4281 dB
+Validation SSIM: 0.812985
+Set5 PSNR: 29.0207 dB
+Set5 SSIM: 0.835968
+Set14 PSNR: 25.4147 dB
+Set14 SSIM: 0.647265
+
+Epoch 205:
+Loss: 0.022997
+
+Metrics:
+Validation PSNR: 30.4263 dB
+Validation SSIM: 0.811972
+Set5 PSNR: 29.0010 dB
+Set5 SSIM: 0.840236
+Set14 PSNR: 25.3914 dB
+Set14 SSIM: 0.662370
+
+Epoch 206:
+Loss: 0.022995
+
+Metrics:
+Validation PSNR: 30.4260 dB
+Validation SSIM: 0.806843
+Set5 PSNR: 29.0106 dB
+Set5 SSIM: 0.840488
+Set14 PSNR: 25.3949 dB
+Set14 SSIM: 0.679376
+
+Epoch 207:
+Loss: 0.022993
+
+Metrics:
+Validation PSNR: 30.4272 dB
+Validation SSIM: 0.810401
+Set5 PSNR: 29.0039 dB
+Set5 SSIM: 0.836640
+Set14 PSNR: 25.3906 dB
+Set14 SSIM: 0.668874
+
+Epoch 208:
+Loss: 0.022992
+
+Metrics:
+Validation PSNR: 30.4259 dB
+Validation SSIM: 0.808144
+Set5 PSNR: 28.9999 dB
+Set5 SSIM: 0.835125
+Set14 PSNR: 25.3992 dB
+Set14 SSIM: 0.686013
+
+Epoch 209:
+Loss: 0.022985
+
+Metrics:
+Validation PSNR: 30.4272 dB
+Validation SSIM: 0.808605
+Set5 PSNR: 29.0106 dB
+Set5 SSIM: 0.839398
+Set14 PSNR: 25.3987 dB
+Set14 SSIM: 0.679852
+
+Epoch 210:
+Loss: 0.022993
+
+Metrics:
+Validation PSNR: 30.4275 dB
+Validation SSIM: 0.810264
+Set5 PSNR: 29.0104 dB
+Set5 SSIM: 0.839599
+Set14 PSNR: 25.3964 dB
+Set14 SSIM: 0.668463
+
+Epoch 211:
+Loss: 0.022988
+
+Metrics:
+Validation PSNR: 30.4267 dB
+Validation SSIM: 0.807994
+Set5 PSNR: 29.0032 dB
+Set5 SSIM: 0.841412
+Set14 PSNR: 25.3959 dB
+Set14 SSIM: 0.676658
+
+Epoch 212:
+Loss: 0.022990
+
+Metrics:
+Validation PSNR: 30.4262 dB
+Validation SSIM: 0.812771
+Set5 PSNR: 29.0334 dB
+Set5 SSIM: 0.839689
+Set14 PSNR: 25.4166 dB
+Set14 SSIM: 0.688427
+
+Epoch 213:
+Loss: 0.022992
+
+Metrics:
+Validation PSNR: 30.4307 dB
+Validation SSIM: 0.808450
+Set5 PSNR: 29.0243 dB
+Set5 SSIM: 0.841329
+Set14 PSNR: 25.4095 dB
+Set14 SSIM: 0.679952
+
+Epoch 214:
+Loss: 0.022990
+
+Metrics:
+Validation PSNR: 30.4276 dB
+Validation SSIM: 0.807026
+Set5 PSNR: 29.0209 dB
+Set5 SSIM: 0.841026
+Set14 PSNR: 25.3998 dB
+Set14 SSIM: 0.690160
+
+Epoch 215:
+Loss: 0.022992
+
+Metrics:
+Validation PSNR: 30.4337 dB
+Validation SSIM: 0.804429
+Set5 PSNR: 29.0290 dB
+Set5 SSIM: 0.836622
+Set14 PSNR: 25.4175 dB
+Set14 SSIM: 0.677105
+
+Epoch 216:
+Loss: 0.022990
+
+Metrics:
+Validation PSNR: 30.4304 dB
+Validation SSIM: 0.808367
+Set5 PSNR: 29.0145 dB
+Set5 SSIM: 0.842930
+Set14 PSNR: 25.4017 dB
+Set14 SSIM: 0.693885
+
+Epoch 217:
+Loss: 0.022991
+
+Metrics:
+Validation PSNR: 30.4339 dB
+Validation SSIM: 0.814996
+Set5 PSNR: 29.0412 dB
+Set5 SSIM: 0.836907
+Set14 PSNR: 25.4198 dB
+Set14 SSIM: 0.640961
+
+Epoch 218:
+Loss: 0.022993
+
+Metrics:
+Validation PSNR: 30.4289 dB
+Validation SSIM: 0.814443
+Set5 PSNR: 29.0274 dB
+Set5 SSIM: 0.844343
+Set14 PSNR: 25.4056 dB
+Set14 SSIM: 0.677867
+
+Epoch 219:
+Loss: 0.022995
+
+Metrics:
+Validation PSNR: 30.4329 dB
+Validation SSIM: 0.809560
+Set5 PSNR: 29.0183 dB
+Set5 SSIM: 0.835800
+Set14 PSNR: 25.4025 dB
+Set14 SSIM: 0.666199
+
+Epoch 220:
+Loss: 0.022988
+
+Metrics:
+Validation PSNR: 30.4309 dB
+Validation SSIM: 0.811178
+Set5 PSNR: 29.0169 dB
+Set5 SSIM: 0.840360
+Set14 PSNR: 25.4101 dB
+Set14 SSIM: 0.679341
+
+Epoch 221:
+Loss: 0.022990
+
+Metrics:
+Validation PSNR: 30.4291 dB
+Validation SSIM: 0.814943
+Set5 PSNR: 29.0080 dB
+Set5 SSIM: 0.838145
+Set14 PSNR: 25.4021 dB
+Set14 SSIM: 0.655243
+
+Epoch 222:
+Loss: 0.022990
+
+Metrics:
+Validation PSNR: 30.4260 dB
+Validation SSIM: 0.813537
+Set5 PSNR: 29.0012 dB
+Set5 SSIM: 0.845390
+Set14 PSNR: 25.4058 dB
+Set14 SSIM: 0.645695
+
+Epoch 223:
+Loss: 0.022988
+
+Metrics:
+Validation PSNR: 30.4317 dB
+Validation SSIM: 0.809106
+Set5 PSNR: 29.0356 dB
+Set5 SSIM: 0.840311
+Set14 PSNR: 25.4207 dB
+Set14 SSIM: 0.660658
+
+Epoch 224:
+Loss: 0.022991
+
+Metrics:
+Validation PSNR: 30.4266 dB
+Validation SSIM: 0.805592
+Set5 PSNR: 29.0075 dB
+Set5 SSIM: 0.838503
+Set14 PSNR: 25.3962 dB
+Set14 SSIM: 0.677085
+
+Epoch 225:
+Loss: 0.022991
+
+Metrics:
+Validation PSNR: 30.4234 dB
+Validation SSIM: 0.809788
+Set5 PSNR: 29.0008 dB
+Set5 SSIM: 0.839076
+Set14 PSNR: 25.3916 dB
+Set14 SSIM: 0.658027
+
+Epoch 226:
+Loss: 0.022987
+
+Metrics:
+Validation PSNR: 30.4328 dB
+Validation SSIM: 0.809845
+Set5 PSNR: 29.0224 dB
+Set5 SSIM: 0.842284
+Set14 PSNR: 25.4129 dB
+Set14 SSIM: 0.679363
+
+Epoch 227:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4356 dB
+Validation SSIM: 0.813681
+Set5 PSNR: 29.0316 dB
+Set5 SSIM: 0.836743
+Set14 PSNR: 25.4218 dB
+Set14 SSIM: 0.683704
+
+Epoch 228:
+Loss: 0.022986
+
+Metrics:
+Validation PSNR: 30.4253 dB
+Validation SSIM: 0.807359
+Set5 PSNR: 28.9985 dB
+Set5 SSIM: 0.836024
+Set14 PSNR: 25.4061 dB
+Set14 SSIM: 0.689911
+
+Epoch 229:
+Loss: 0.022992
+
+Metrics:
+Validation PSNR: 30.4339 dB
+Validation SSIM: 0.806762
+Set5 PSNR: 29.0185 dB
+Set5 SSIM: 0.840848
+Set14 PSNR: 25.4033 dB
+Set14 SSIM: 0.693157
+
+Epoch 230:
+Loss: 0.022985
+
+Metrics:
+Validation PSNR: 30.4337 dB
+Validation SSIM: 0.809076
+Set5 PSNR: 29.0132 dB
+Set5 SSIM: 0.840940
+Set14 PSNR: 25.4041 dB
+Set14 SSIM: 0.670274
+
+Epoch 231:
+Loss: 0.022981
+
+Metrics:
+Validation PSNR: 30.4307 dB
+Validation SSIM: 0.808501
+Set5 PSNR: 29.0134 dB
+Set5 SSIM: 0.837462
+Set14 PSNR: 25.3949 dB
+Set14 SSIM: 0.654778
+
+Epoch 232:
+Loss: 0.022990
+
+Metrics:
+Validation PSNR: 30.4348 dB
+Validation SSIM: 0.806291
+Set5 PSNR: 29.0239 dB
+Set5 SSIM: 0.840960
+Set14 PSNR: 25.4158 dB
+Set14 SSIM: 0.684529
+
+Epoch 233:
+Loss: 0.022988
+
+Metrics:
+Validation PSNR: 30.4323 dB
+Validation SSIM: 0.812656
+Set5 PSNR: 29.0294 dB
+Set5 SSIM: 0.840267
+Set14 PSNR: 25.4133 dB
+Set14 SSIM: 0.675363
+
+Epoch 234:
+Loss: 0.022984
+
+Metrics:
+Validation PSNR: 30.4309 dB
+Validation SSIM: 0.805625
+Set5 PSNR: 29.0143 dB
+Set5 SSIM: 0.845058
+Set14 PSNR: 25.3976 dB
+Set14 SSIM: 0.681191
+
+Epoch 235:
+Loss: 0.022986
+
+Metrics:
+Validation PSNR: 30.4330 dB
+Validation SSIM: 0.806645
+Set5 PSNR: 29.0167 dB
+Set5 SSIM: 0.842836
+Set14 PSNR: 25.4052 dB
+Set14 SSIM: 0.684436
+
+Epoch 236:
+Loss: 0.022985
+
+Metrics:
+Validation PSNR: 30.4336 dB
+Validation SSIM: 0.811241
+Set5 PSNR: 29.0215 dB
+Set5 SSIM: 0.840088
+Set14 PSNR: 25.4119 dB
+Set14 SSIM: 0.677454
+
+Epoch 237:
+Loss: 0.022987
+
+Metrics:
+Validation PSNR: 30.4320 dB
+Validation SSIM: 0.807092
+Set5 PSNR: 29.0231 dB
+Set5 SSIM: 0.834890
+Set14 PSNR: 25.4087 dB
+Set14 SSIM: 0.664791
+
+Epoch 238:
+Loss: 0.022986
+
+Metrics:
+Validation PSNR: 30.4295 dB
+Validation SSIM: 0.811231
+Set5 PSNR: 29.0217 dB
+Set5 SSIM: 0.841496
+Set14 PSNR: 25.4022 dB
+Set14 SSIM: 0.657489
+
+Epoch 239:
+Loss: 0.022981
+
+Metrics:
+Validation PSNR: 30.4368 dB
+Validation SSIM: 0.806337
+Set5 PSNR: 29.0289 dB
+Set5 SSIM: 0.838029
+Set14 PSNR: 25.4204 dB
+Set14 SSIM: 0.674745
+
+Epoch 240:
+Loss: 0.022986
+
+Metrics:
+Validation PSNR: 30.4305 dB
+Validation SSIM: 0.804691
+Set5 PSNR: 29.0059 dB
+Set5 SSIM: 0.839436
+Set14 PSNR: 25.3905 dB
+Set14 SSIM: 0.677688
+
+Epoch 241:
+Loss: 0.022989
+
+Metrics:
+Validation PSNR: 30.4299 dB
+Validation SSIM: 0.807208
+Set5 PSNR: 29.0126 dB
+Set5 SSIM: 0.834209
+Set14 PSNR: 25.4021 dB
+Set14 SSIM: 0.662947
+
+Epoch 242:
+Loss: 0.022988
+
+Metrics:
+Validation PSNR: 30.4361 dB
+Validation SSIM: 0.808770
+Set5 PSNR: 29.0196 dB
+Set5 SSIM: 0.843509
+Set14 PSNR: 25.4135 dB
+Set14 SSIM: 0.676263
+
+Epoch 243:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4347 dB
+Validation SSIM: 0.807405
+Set5 PSNR: 29.0148 dB
+Set5 SSIM: 0.841441
+Set14 PSNR: 25.4128 dB
+Set14 SSIM: 0.692028
+
+Epoch 244:
+Loss: 0.022978
+
+Metrics:
+Validation PSNR: 30.4324 dB
+Validation SSIM: 0.806000
+Set5 PSNR: 29.0064 dB
+Set5 SSIM: 0.842001
+Set14 PSNR: 25.3976 dB
+Set14 SSIM: 0.687768
+
+Epoch 245:
+Loss: 0.022980
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.811342
+Set5 PSNR: 29.0228 dB
+Set5 SSIM: 0.841490
+Set14 PSNR: 25.4106 dB
+Set14 SSIM: 0.670862
+
+Epoch 246:
+Loss: 0.022984
+
+Metrics:
+Validation PSNR: 30.4350 dB
+Validation SSIM: 0.806554
+Set5 PSNR: 29.0360 dB
+Set5 SSIM: 0.841265
+Set14 PSNR: 25.4213 dB
+Set14 SSIM: 0.687024
+
+Epoch 247:
+Loss: 0.022985
+
+Metrics:
+Validation PSNR: 30.4330 dB
+Validation SSIM: 0.807203
+Set5 PSNR: 29.0194 dB
+Set5 SSIM: 0.838977
+Set14 PSNR: 25.4052 dB
+Set14 SSIM: 0.680532
+
+Epoch 248:
+Loss: 0.022983
+
+Metrics:
+Validation PSNR: 30.4328 dB
+Validation SSIM: 0.807659
+Set5 PSNR: 29.0086 dB
+Set5 SSIM: 0.843207
+Set14 PSNR: 25.4004 dB
+Set14 SSIM: 0.674317
+
+Epoch 249:
+Loss: 0.022978
+
+Metrics:
+Validation PSNR: 30.4290 dB
+Validation SSIM: 0.807769
+Set5 PSNR: 29.0218 dB
+Set5 SSIM: 0.833793
+Set14 PSNR: 25.4070 dB
+Set14 SSIM: 0.675137
+
+Epoch 250:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4310 dB
+Validation SSIM: 0.807366
+Set5 PSNR: 29.0092 dB
+Set5 SSIM: 0.839907
+Set14 PSNR: 25.3950 dB
+Set14 SSIM: 0.679607
+
+Epoch 251:
+Loss: 0.022986
+
+Metrics:
+Validation PSNR: 30.4294 dB
+Validation SSIM: 0.813135
+Set5 PSNR: 29.0006 dB
+Set5 SSIM: 0.841736
+Set14 PSNR: 25.3978 dB
+Set14 SSIM: 0.649532
+
+Epoch 252:
+Loss: 0.022983
+
+Metrics:
+Validation PSNR: 30.4308 dB
+Validation SSIM: 0.812029
+Set5 PSNR: 29.0098 dB
+Set5 SSIM: 0.836946
+Set14 PSNR: 25.4138 dB
+Set14 SSIM: 0.662949
+
+Epoch 253:
+Loss: 0.022985
+
+Metrics:
+Validation PSNR: 30.4331 dB
+Validation SSIM: 0.814901
+Set5 PSNR: 29.0231 dB
+Set5 SSIM: 0.838438
+Set14 PSNR: 25.4071 dB
+Set14 SSIM: 0.657150
+
+Epoch 254:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4310 dB
+Validation SSIM: 0.813622
+Set5 PSNR: 29.0089 dB
+Set5 SSIM: 0.840090
+Set14 PSNR: 25.4098 dB
+Set14 SSIM: 0.651166
+
+Epoch 255:
+Loss: 0.022980
+
+Metrics:
+Validation PSNR: 30.4333 dB
+Validation SSIM: 0.808551
+Set5 PSNR: 29.0204 dB
+Set5 SSIM: 0.841283
+Set14 PSNR: 25.4113 dB
+Set14 SSIM: 0.684038
+
+Epoch 256:
+Loss: 0.022980
+
+Metrics:
+Validation PSNR: 30.4337 dB
+Validation SSIM: 0.804269
+Set5 PSNR: 29.0296 dB
+Set5 SSIM: 0.840648
+Set14 PSNR: 25.4082 dB
+Set14 SSIM: 0.679176
+
+Epoch 257:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4311 dB
+Validation SSIM: 0.809163
+Set5 PSNR: 29.0137 dB
+Set5 SSIM: 0.837201
+Set14 PSNR: 25.4076 dB
+Set14 SSIM: 0.679852
+
+Epoch 258:
+Loss: 0.022981
+
+Metrics:
+Validation PSNR: 30.4297 dB
+Validation SSIM: 0.808050
+Set5 PSNR: 29.0034 dB
+Set5 SSIM: 0.836670
+Set14 PSNR: 25.4104 dB
+Set14 SSIM: 0.674767
+
+Epoch 259:
+Loss: 0.022988
+
+Metrics:
+Validation PSNR: 30.4352 dB
+Validation SSIM: 0.815987
+Set5 PSNR: 29.0332 dB
+Set5 SSIM: 0.843235
+Set14 PSNR: 25.4174 dB
+Set14 SSIM: 0.616119
+
+Epoch 260:
+Loss: 0.022978
+
+Metrics:
+Validation PSNR: 30.4370 dB
+Validation SSIM: 0.811879
+Set5 PSNR: 29.0241 dB
+Set5 SSIM: 0.841146
+Set14 PSNR: 25.4167 dB
+Set14 SSIM: 0.646397
+
+Epoch 261:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4255 dB
+Validation SSIM: 0.806515
+Set5 PSNR: 28.9919 dB
+Set5 SSIM: 0.842573
+Set14 PSNR: 25.3850 dB
+Set14 SSIM: 0.661894
+
+Epoch 262:
+Loss: 0.022980
+
+Metrics:
+Validation PSNR: 30.4348 dB
+Validation SSIM: 0.807196
+Set5 PSNR: 29.0118 dB
+Set5 SSIM: 0.838959
+Set14 PSNR: 25.4098 dB
+Set14 SSIM: 0.688722
+
+Epoch 263:
+Loss: 0.022973
+
+Metrics:
+Validation PSNR: 30.4326 dB
+Validation SSIM: 0.811515
+Set5 PSNR: 29.0160 dB
+Set5 SSIM: 0.833512
+Set14 PSNR: 25.4074 dB
+Set14 SSIM: 0.682106
+
+Epoch 264:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4288 dB
+Validation SSIM: 0.811680
+Set5 PSNR: 28.9942 dB
+Set5 SSIM: 0.839613
+Set14 PSNR: 25.3897 dB
+Set14 SSIM: 0.660933
+
+Epoch 265:
+Loss: 0.022973
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.805098
+Set5 PSNR: 29.0252 dB
+Set5 SSIM: 0.839152
+Set14 PSNR: 25.4111 dB
+Set14 SSIM: 0.652354
+
+Epoch 266:
+Loss: 0.022975
+
+Metrics:
+Validation PSNR: 30.4331 dB
+Validation SSIM: 0.811462
+Set5 PSNR: 29.0045 dB
+Set5 SSIM: 0.844143
+Set14 PSNR: 25.4021 dB
+Set14 SSIM: 0.652201
+
+Epoch 267:
+Loss: 0.022977
+
+Metrics:
+Validation PSNR: 30.4391 dB
+Validation SSIM: 0.807156
+Set5 PSNR: 29.0302 dB
+Set5 SSIM: 0.842782
+Set14 PSNR: 25.4215 dB
+Set14 SSIM: 0.690026
+
+Epoch 268:
+Loss: 0.022982
+
+Metrics:
+Validation PSNR: 30.4298 dB
+Validation SSIM: 0.807609
+Set5 PSNR: 28.9992 dB
+Set5 SSIM: 0.840536
+Set14 PSNR: 25.4009 dB
+Set14 SSIM: 0.689317
+
+Epoch 269:
+Loss: 0.022975
+
+Metrics:
+Validation PSNR: 30.4332 dB
+Validation SSIM: 0.810921
+Set5 PSNR: 29.0018 dB
+Set5 SSIM: 0.841864
+Set14 PSNR: 25.3967 dB
+Set14 SSIM: 0.669390
+
+Epoch 270:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4285 dB
+Validation SSIM: 0.807160
+Set5 PSNR: 28.9929 dB
+Set5 SSIM: 0.839462
+Set14 PSNR: 25.3968 dB
+Set14 SSIM: 0.674201
+
+Epoch 271:
+Loss: 0.022978
+
+Metrics:
+Validation PSNR: 30.4307 dB
+Validation SSIM: 0.811555
+Set5 PSNR: 29.0129 dB
+Set5 SSIM: 0.839276
+Set14 PSNR: 25.4036 dB
+Set14 SSIM: 0.661137
+
+Epoch 272:
+Loss: 0.022976
+
+Metrics:
+Validation PSNR: 30.4351 dB
+Validation SSIM: 0.807245
+Set5 PSNR: 29.0097 dB
+Set5 SSIM: 0.841314
+Set14 PSNR: 25.4074 dB
+Set14 SSIM: 0.676819
+
+Epoch 273:
+Loss: 0.022977
+
+Metrics:
+Validation PSNR: 30.4280 dB
+Validation SSIM: 0.808379
+Set5 PSNR: 29.0066 dB
+Set5 SSIM: 0.840381
+Set14 PSNR: 25.3929 dB
+Set14 SSIM: 0.689309
+
+Epoch 274:
+Loss: 0.022975
+
+Metrics:
+Validation PSNR: 30.4328 dB
+Validation SSIM: 0.807868
+Set5 PSNR: 28.9911 dB
+Set5 SSIM: 0.835068
+Set14 PSNR: 25.4044 dB
+Set14 SSIM: 0.673260
+
+Epoch 275:
+Loss: 0.022979
+
+Metrics:
+Validation PSNR: 30.4329 dB
+Validation SSIM: 0.808803
+Set5 PSNR: 29.0159 dB
+Set5 SSIM: 0.839715
+Set14 PSNR: 25.4063 dB
+Set14 SSIM: 0.684941
+
+Epoch 276:
+Loss: 0.022968
+
+Metrics:
+Validation PSNR: 30.4265 dB
+Validation SSIM: 0.810949
+Set5 PSNR: 29.0064 dB
+Set5 SSIM: 0.835600
+Set14 PSNR: 25.3979 dB
+Set14 SSIM: 0.661201
+
+Epoch 277:
+Loss: 0.022976
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.806911
+Set5 PSNR: 29.0083 dB
+Set5 SSIM: 0.841413
+Set14 PSNR: 25.3979 dB
+Set14 SSIM: 0.673412
+
+Epoch 278:
+Loss: 0.022978
+
+Metrics:
+Validation PSNR: 30.4331 dB
+Validation SSIM: 0.810752
+Set5 PSNR: 29.0150 dB
+Set5 SSIM: 0.841640
+Set14 PSNR: 25.4037 dB
+Set14 SSIM: 0.660830
+
+Epoch 279:
+Loss: 0.022974
+
+Metrics:
+Validation PSNR: 30.4348 dB
+Validation SSIM: 0.810535
+Set5 PSNR: 29.0154 dB
+Set5 SSIM: 0.837135
+Set14 PSNR: 25.4010 dB
+Set14 SSIM: 0.676436
+
+Epoch 280:
+Loss: 0.022980
+
+Metrics:
+Validation PSNR: 30.4305 dB
+Validation SSIM: 0.811471
+Set5 PSNR: 29.0116 dB
+Set5 SSIM: 0.840769
+Set14 PSNR: 25.4019 dB
+Set14 SSIM: 0.651782
+
+Epoch 281:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4246 dB
+Validation SSIM: 0.808377
+Set5 PSNR: 29.0099 dB
+Set5 SSIM: 0.837992
+Set14 PSNR: 25.3926 dB
+Set14 SSIM: 0.678881
+
+Epoch 282:
+Loss: 0.022973
+
+Metrics:
+Validation PSNR: 30.4258 dB
+Validation SSIM: 0.816607
+Set5 PSNR: 28.9970 dB
+Set5 SSIM: 0.839778
+Set14 PSNR: 25.3978 dB
+Set14 SSIM: 0.650034
+
+Epoch 283:
+Loss: 0.022979
+
+Metrics:
+Validation PSNR: 30.4351 dB
+Validation SSIM: 0.807482
+Set5 PSNR: 29.0184 dB
+Set5 SSIM: 0.839486
+Set14 PSNR: 25.4060 dB
+Set14 SSIM: 0.665018
+
+Epoch 284:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4314 dB
+Validation SSIM: 0.812173
+Set5 PSNR: 29.0173 dB
+Set5 SSIM: 0.846541
+Set14 PSNR: 25.4006 dB
+Set14 SSIM: 0.662098
+
+Epoch 285:
+Loss: 0.022970
+
+Metrics:
+Validation PSNR: 30.4351 dB
+Validation SSIM: 0.808806
+Set5 PSNR: 29.0173 dB
+Set5 SSIM: 0.834748
+Set14 PSNR: 25.4072 dB
+Set14 SSIM: 0.685000
+
+Epoch 286:
+Loss: 0.022973
+
+Metrics:
+Validation PSNR: 30.4263 dB
+Validation SSIM: 0.812879
+Set5 PSNR: 29.0048 dB
+Set5 SSIM: 0.841606
+Set14 PSNR: 25.3927 dB
+Set14 SSIM: 0.651395
+
+Epoch 287:
+Loss: 0.022974
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.808408
+Set5 PSNR: 29.0137 dB
+Set5 SSIM: 0.841072
+Set14 PSNR: 25.3981 dB
+Set14 SSIM: 0.675635
+
+Epoch 288:
+Loss: 0.022969
+
+Metrics:
+Validation PSNR: 30.4299 dB
+Validation SSIM: 0.805973
+Set5 PSNR: 29.0010 dB
+Set5 SSIM: 0.835246
+Set14 PSNR: 25.3934 dB
+Set14 SSIM: 0.669618
+
+Epoch 289:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4353 dB
+Validation SSIM: 0.823679
+Set5 PSNR: 29.0168 dB
+Set5 SSIM: 0.841460
+Set14 PSNR: 25.4058 dB
+Set14 SSIM: 0.632515
+
+Epoch 290:
+Loss: 0.022974
+
+Metrics:
+Validation PSNR: 30.4352 dB
+Validation SSIM: 0.807236
+Set5 PSNR: 29.0173 dB
+Set5 SSIM: 0.837473
+Set14 PSNR: 25.4144 dB
+Set14 SSIM: 0.685002
+
+Epoch 291:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4321 dB
+Validation SSIM: 0.808896
+Set5 PSNR: 29.0141 dB
+Set5 SSIM: 0.834793
+Set14 PSNR: 25.4105 dB
+Set14 SSIM: 0.678659
+
+Epoch 292:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4324 dB
+Validation SSIM: 0.805557
+Set5 PSNR: 29.0140 dB
+Set5 SSIM: 0.845848
+Set14 PSNR: 25.4031 dB
+Set14 SSIM: 0.657758
+
+Epoch 293:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4336 dB
+Validation SSIM: 0.811583
+Set5 PSNR: 29.0327 dB
+Set5 SSIM: 0.841858
+Set14 PSNR: 25.4035 dB
+Set14 SSIM: 0.671018
+
+Epoch 294:
+Loss: 0.022968
+
+Metrics:
+Validation PSNR: 30.4296 dB
+Validation SSIM: 0.814205
+Set5 PSNR: 28.9918 dB
+Set5 SSIM: 0.844460
+Set14 PSNR: 25.3866 dB
+Set14 SSIM: 0.676032
+
+Epoch 295:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4345 dB
+Validation SSIM: 0.810014
+Set5 PSNR: 29.0157 dB
+Set5 SSIM: 0.836937
+Set14 PSNR: 25.3988 dB
+Set14 SSIM: 0.666614
+
+Epoch 296:
+Loss: 0.022970
+
+Metrics:
+Validation PSNR: 30.4343 dB
+Validation SSIM: 0.815269
+Set5 PSNR: 29.0215 dB
+Set5 SSIM: 0.837224
+Set14 PSNR: 25.4079 dB
+Set14 SSIM: 0.642267
+
+Epoch 297:
+Loss: 0.022972
+
+Metrics:
+Validation PSNR: 30.4334 dB
+Validation SSIM: 0.806930
+Set5 PSNR: 29.0162 dB
+Set5 SSIM: 0.843022
+Set14 PSNR: 25.4030 dB
+Set14 SSIM: 0.679836
+
+Epoch 298:
+Loss: 0.022969
+
+Metrics:
+Validation PSNR: 30.4333 dB
+Validation SSIM: 0.808541
+Set5 PSNR: 29.0091 dB
+Set5 SSIM: 0.844119
+Set14 PSNR: 25.3991 dB
+Set14 SSIM: 0.670270
+
+Epoch 299:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.806531
+Set5 PSNR: 29.0102 dB
+Set5 SSIM: 0.841440
+Set14 PSNR: 25.3990 dB
+Set14 SSIM: 0.685216
+
+Epoch 300:
+Loss: 0.022967
+
+Metrics:
+Validation PSNR: 30.4370 dB
+Validation SSIM: 0.806665
+Set5 PSNR: 29.0245 dB
+Set5 SSIM: 0.839871
+Set14 PSNR: 25.4051 dB
+Set14 SSIM: 0.663384
+
+Epoch 301:
+Loss: 0.022965
+
+Metrics:
+Validation PSNR: 30.4310 dB
+Validation SSIM: 0.808771
+Set5 PSNR: 29.0043 dB
+Set5 SSIM: 0.840430
+Set14 PSNR: 25.4013 dB
+Set14 SSIM: 0.661567
+
+Epoch 302:
+Loss: 0.022969
+
+Metrics:
+Validation PSNR: 30.4325 dB
+Validation SSIM: 0.808669
+Set5 PSNR: 29.0116 dB
+Set5 SSIM: 0.829173
+Set14 PSNR: 25.4051 dB
+Set14 SSIM: 0.671648
+
+Epoch 303:
+Loss: 0.022974
+
+Metrics:
+Validation PSNR: 30.4394 dB
+Validation SSIM: 0.808464
+Set5 PSNR: 29.0388 dB
+Set5 SSIM: 0.837279
+Set14 PSNR: 25.4245 dB
+Set14 SSIM: 0.666384
+
+Epoch 304:
+Loss: 0.022971
+
+Metrics:
+Validation PSNR: 30.4362 dB
+Validation SSIM: 0.806715
+Set5 PSNR: 29.0195 dB
+Set5 SSIM: 0.845215
+Set14 PSNR: 25.4056 dB
+Set14 SSIM: 0.679598
+
+Epoch 305:
+Loss: 0.022969
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.810631
+Set5 PSNR: 29.0224 dB
+Set5 SSIM: 0.841281
+Set14 PSNR: 25.4004 dB
+Set14 SSIM: 0.668763
+
+Epoch 306:
+Loss: 0.022969
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.813357
+Set5 PSNR: 29.0109 dB
+Set5 SSIM: 0.838249
+Set14 PSNR: 25.4051 dB
+Set14 SSIM: 0.664672
+
+Epoch 307:
+Loss: 0.022972
+
+Metrics:
+Validation PSNR: 30.4327 dB
+Validation SSIM: 0.811854
+Set5 PSNR: 29.0127 dB
+Set5 SSIM: 0.836341
+Set14 PSNR: 25.4034 dB
+Set14 SSIM: 0.693474
+
+Epoch 308:
+Loss: 0.022964
+
+Metrics:
+Validation PSNR: 30.4374 dB
+Validation SSIM: 0.808236
+Set5 PSNR: 29.0228 dB
+Set5 SSIM: 0.836328
+Set14 PSNR: 25.4158 dB
+Set14 SSIM: 0.676966
+
+Epoch 309:
+Loss: 0.022967
+
+Metrics:
+Validation PSNR: 30.4335 dB
+Validation SSIM: 0.813148
+Set5 PSNR: 29.0120 dB
+Set5 SSIM: 0.837648
+Set14 PSNR: 25.4052 dB
+Set14 SSIM: 0.667722
+
+Epoch 310:
+Loss: 0.022967
+
+Metrics:
+Validation PSNR: 30.4335 dB
+Validation SSIM: 0.806702
+Set5 PSNR: 29.0210 dB
+Set5 SSIM: 0.839154
+Set14 PSNR: 25.4074 dB
+Set14 SSIM: 0.679526
+
+Epoch 311:
+Loss: 0.022964
+
+Metrics:
+Validation PSNR: 30.4247 dB
+Validation SSIM: 0.810135
+Set5 PSNR: 28.9875 dB
+Set5 SSIM: 0.837619
+Set14 PSNR: 25.3874 dB
+Set14 SSIM: 0.654811
+
+Epoch 312:
+Loss: 0.022961
+
+Metrics:
+Validation PSNR: 30.4376 dB
+Validation SSIM: 0.808501
+Set5 PSNR: 29.0238 dB
+Set5 SSIM: 0.840728
+Set14 PSNR: 25.4098 dB
+Set14 SSIM: 0.676184
+
+Epoch 313:
+Loss: 0.022970
+
+Metrics:
+Validation PSNR: 30.4315 dB
+Validation SSIM: 0.811987
+Set5 PSNR: 29.0088 dB
+Set5 SSIM: 0.839344
+Set14 PSNR: 25.4000 dB
+Set14 SSIM: 0.644094
+
+Epoch 314:
+Loss: 0.022963
+
+Metrics:
+Validation PSNR: 30.4363 dB
+Validation SSIM: 0.807167
+Set5 PSNR: 29.0125 dB
+Set5 SSIM: 0.834937
+Set14 PSNR: 25.4048 dB
+Set14 SSIM: 0.682471
+
+Epoch 315:
+Loss: 0.022963
+
+Metrics:
+Validation PSNR: 30.4314 dB
+Validation SSIM: 0.806607
+Set5 PSNR: 29.0073 dB
+Set5 SSIM: 0.840780
+Set14 PSNR: 25.3944 dB
+Set14 SSIM: 0.664982
+
+Epoch 316:
+Loss: 0.022968
+
+Metrics:
+Validation PSNR: 30.4396 dB
+Validation SSIM: 0.808932
+Set5 PSNR: 29.0294 dB
+Set5 SSIM: 0.843310
+Set14 PSNR: 25.4192 dB
+Set14 SSIM: 0.670148
+
+Epoch 317:
+Loss: 0.022968
+
+Metrics:
+Validation PSNR: 30.4342 dB
+Validation SSIM: 0.815537
+Set5 PSNR: 29.0103 dB
+Set5 SSIM: 0.841823
+Set14 PSNR: 25.4008 dB
+Set14 SSIM: 0.660146
+
+Epoch 318:
+Loss: 0.022960
+
+Metrics:
+Validation PSNR: 30.4376 dB
+Validation SSIM: 0.811155
+Set5 PSNR: 29.0238 dB
+Set5 SSIM: 0.835141
+Set14 PSNR: 25.4219 dB
+Set14 SSIM: 0.668242
+
+Epoch 319:
+Loss: 0.022969
+
+Metrics:
+Validation PSNR: 30.4353 dB
+Validation SSIM: 0.804456
+Set5 PSNR: 29.0115 dB
+Set5 SSIM: 0.840898
+Set14 PSNR: 25.4100 dB
+Set14 SSIM: 0.666246
+
+Epoch 320:
+Loss: 0.022964
+
+Metrics:
+Validation PSNR: 30.4347 dB
+Validation SSIM: 0.809506
+Set5 PSNR: 29.0234 dB
+Set5 SSIM: 0.837288
+Set14 PSNR: 25.4109 dB
+Set14 SSIM: 0.676957
+
+Epoch 321:
+Loss: 0.022964
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.807043
+Set5 PSNR: 29.0020 dB
+Set5 SSIM: 0.844435
+Set14 PSNR: 25.3954 dB
+Set14 SSIM: 0.676542
+
+Epoch 322:
+Loss: 0.022962
+
+Metrics:
+Validation PSNR: 30.4341 dB
+Validation SSIM: 0.812164
+Set5 PSNR: 29.0129 dB
+Set5 SSIM: 0.832792
+Set14 PSNR: 25.4140 dB
+Set14 SSIM: 0.688535
+
+Epoch 323:
+Loss: 0.022962
+
+Metrics:
+Validation PSNR: 30.4370 dB
+Validation SSIM: 0.811774
+Set5 PSNR: 29.0149 dB
+Set5 SSIM: 0.835125
+Set14 PSNR: 25.4061 dB
+Set14 SSIM: 0.652612
+
+Epoch 324:
+Loss: 0.022965
+
+Metrics:
+Validation PSNR: 30.4289 dB
+Validation SSIM: 0.816639
+Set5 PSNR: 29.0016 dB
+Set5 SSIM: 0.839871
+Set14 PSNR: 25.3856 dB
+Set14 SSIM: 0.638989
+
+Epoch 325:
+Loss: 0.022955
+
+Metrics:
+Validation PSNR: 30.4334 dB
+Validation SSIM: 0.809769
+Set5 PSNR: 29.0056 dB
+Set5 SSIM: 0.842692
+Set14 PSNR: 25.4050 dB
+Set14 SSIM: 0.668935
+
+Epoch 326:
+Loss: 0.022965
+
+Metrics:
+Validation PSNR: 30.4369 dB
+Validation SSIM: 0.807799
+Set5 PSNR: 29.0128 dB
+Set5 SSIM: 0.840787
+Set14 PSNR: 25.4057 dB
+Set14 SSIM: 0.688321
+
+Epoch 327:
+Loss: 0.022960
+
+Metrics:
+Validation PSNR: 30.4351 dB
+Validation SSIM: 0.808282
+Set5 PSNR: 29.0045 dB
+Set5 SSIM: 0.839369
+Set14 PSNR: 25.4077 dB
+Set14 SSIM: 0.693890
+
+Epoch 328:
+Loss: 0.022966
+
+Metrics:
+Validation PSNR: 30.4309 dB
+Validation SSIM: 0.806884
+Set5 PSNR: 28.9936 dB
+Set5 SSIM: 0.839788
+Set14 PSNR: 25.3889 dB
+Set14 SSIM: 0.684636
+
+Epoch 329:
+Loss: 0.022961
+
+Metrics:
+Validation PSNR: 30.4242 dB
+Validation SSIM: 0.809344
+Set5 PSNR: 28.9794 dB
+Set5 SSIM: 0.840668
+Set14 PSNR: 25.3849 dB
+Set14 SSIM: 0.667675
+
+Epoch 330:
+Loss: 0.022956
+
+Metrics:
+Validation PSNR: 30.4345 dB
+Validation SSIM: 0.811796
+Set5 PSNR: 29.0168 dB
+Set5 SSIM: 0.842831
+Set14 PSNR: 25.4002 dB
+Set14 SSIM: 0.689761
+
+Epoch 331:
+Loss: 0.022962
+
+Metrics:
+Validation PSNR: 30.4372 dB
+Validation SSIM: 0.806954
+Set5 PSNR: 29.0163 dB
+Set5 SSIM: 0.836804
+Set14 PSNR: 25.4009 dB
+Set14 SSIM: 0.682763
+
+Epoch 332:
+Loss: 0.022959
+
+Metrics:
+Validation PSNR: 30.4251 dB
+Validation SSIM: 0.809311
+Set5 PSNR: 29.0055 dB
+Set5 SSIM: 0.841184
+Set14 PSNR: 25.3987 dB
+Set14 SSIM: 0.655418
+
+Epoch 333:
+Loss: 0.022955
+
+Metrics:
+Validation PSNR: 30.4384 dB
+Validation SSIM: 0.807580
+Set5 PSNR: 29.0195 dB
+Set5 SSIM: 0.838603
+Set14 PSNR: 25.4089 dB
+Set14 SSIM: 0.649611
+
+Epoch 334:
+Loss: 0.022958
+
+Metrics:
+Validation PSNR: 30.4236 dB
+Validation SSIM: 0.809657
+Set5 PSNR: 28.9923 dB
+Set5 SSIM: 0.838023
+Set14 PSNR: 25.3931 dB
+Set14 SSIM: 0.675148
+
+Epoch 335:
+Loss: 0.022957
+
+Metrics:
+Validation PSNR: 30.4301 dB
+Validation SSIM: 0.813582
+Set5 PSNR: 28.9956 dB
+Set5 SSIM: 0.840569
+Set14 PSNR: 25.3911 dB
+Set14 SSIM: 0.650958
+
+Epoch 336:
+Loss: 0.022962
+
+Metrics:
+Validation PSNR: 30.4368 dB
+Validation SSIM: 0.810227
+Set5 PSNR: 29.0152 dB
+Set5 SSIM: 0.840416
+Set14 PSNR: 25.4044 dB
+Set14 SSIM: 0.689154
+
+Epoch 337:
+Loss: 0.022953
+
+Metrics:
+Validation PSNR: 30.4329 dB
+Validation SSIM: 0.813341
+Set5 PSNR: 28.9995 dB
+Set5 SSIM: 0.834498
+Set14 PSNR: 25.3983 dB
+Set14 SSIM: 0.666836
+
+Epoch 338:
+Loss: 0.022964
+
+Metrics:
+Validation PSNR: 30.4404 dB
+Validation SSIM: 0.808342
+Set5 PSNR: 29.0238 dB
+Set5 SSIM: 0.839929
+Set14 PSNR: 25.4070 dB
+Set14 SSIM: 0.662968
+
+Epoch 339:
+Loss: 0.022958
+
+Metrics:
+Validation PSNR: 30.4304 dB
+Validation SSIM: 0.811833
+Set5 PSNR: 28.9972 dB
+Set5 SSIM: 0.839984
+Set14 PSNR: 25.3932 dB
+Set14 SSIM: 0.663478
+
+Epoch 340:
+Loss: 0.022958
+
+Metrics:
+Validation PSNR: 30.4314 dB
+Validation SSIM: 0.804516
+Set5 PSNR: 29.0050 dB
+Set5 SSIM: 0.842021
+Set14 PSNR: 25.3949 dB
+Set14 SSIM: 0.684959
+
+Epoch 341:
+Loss: 0.022961
+
+Metrics:
+Validation PSNR: 30.4332 dB
+Validation SSIM: 0.806587
+Set5 PSNR: 29.0011 dB
+Set5 SSIM: 0.837964
+Set14 PSNR: 25.3898 dB
+Set14 SSIM: 0.682497
+
+Epoch 342:
+Loss: 0.022954
+
+Metrics:
+Validation PSNR: 30.4303 dB
+Validation SSIM: 0.808663
+Set5 PSNR: 29.0082 dB
+Set5 SSIM: 0.844597
+Set14 PSNR: 25.3910 dB
+Set14 SSIM: 0.678814
+
+Epoch 343:
+Loss: 0.022958
+
+Metrics:
+Validation PSNR: 30.4296 dB
+Validation SSIM: 0.809628
+Set5 PSNR: 28.9956 dB
+Set5 SSIM: 0.835028
+Set14 PSNR: 25.3899 dB
+Set14 SSIM: 0.686440
+
+Epoch 344:
+Loss: 0.022957
+
+Metrics:
+Validation PSNR: 30.4347 dB
+Validation SSIM: 0.812386
+Set5 PSNR: 28.9984 dB
+Set5 SSIM: 0.842803
+Set14 PSNR: 25.3923 dB
+Set14 SSIM: 0.663246
+
+Epoch 345:
+Loss: 0.022957
+
+Metrics:
+Validation PSNR: 30.4252 dB
+Validation SSIM: 0.804476
+Set5 PSNR: 28.9838 dB
+Set5 SSIM: 0.840318
+Set14 PSNR: 25.3838 dB
+Set14 SSIM: 0.655859
+
+Epoch 346:
+Loss: 0.022953
+
+Metrics:
+Validation PSNR: 30.4367 dB
+Validation SSIM: 0.807553
+Set5 PSNR: 29.0147 dB
+Set5 SSIM: 0.835222
+Set14 PSNR: 25.4023 dB
+Set14 SSIM: 0.686302
+
+Epoch 347:
+Loss: 0.022956
+
+Metrics:
+Validation PSNR: 30.4355 dB
+Validation SSIM: 0.810370
+Set5 PSNR: 29.0074 dB
+Set5 SSIM: 0.839247
+Set14 PSNR: 25.4039 dB
+Set14 SSIM: 0.672462
+
+Epoch 348:
+Loss: 0.022956
+
+Metrics:
+Validation PSNR: 30.4304 dB
+Validation SSIM: 0.809330
+Set5 PSNR: 29.0060 dB
+Set5 SSIM: 0.842062
+Set14 PSNR: 25.3959 dB
+Set14 SSIM: 0.669328
+
+Epoch 349:
+Loss: 0.022952
+
+Metrics:
+Validation PSNR: 30.4377 dB
+Validation SSIM: 0.808414
+Set5 PSNR: 29.0186 dB
+Set5 SSIM: 0.842389
+Set14 PSNR: 25.4123 dB
+Set14 SSIM: 0.677193
+
+Epoch 350:
+Loss: 0.022951
+
+Metrics:
+Validation PSNR: 30.4347 dB
+Validation SSIM: 0.808935
+Set5 PSNR: 29.0082 dB
+Set5 SSIM: 0.840390
+Set14 PSNR: 25.4080 dB
+Set14 SSIM: 0.673860
+
+Epoch 351:
+Loss: 0.022955
+
+Metrics:
+Validation PSNR: 30.4344 dB
+Validation SSIM: 0.807755
+Set5 PSNR: 29.0157 dB
+Set5 SSIM: 0.839063
+Set14 PSNR: 25.4087 dB
+Set14 SSIM: 0.686924
+
+Epoch 352:
+Loss: 0.022954
+
+Metrics:
+Validation PSNR: 30.4349 dB
+Validation SSIM: 0.807604
+Set5 PSNR: 29.0132 dB
+Set5 SSIM: 0.837562
+Set14 PSNR: 25.4104 dB
+Set14 SSIM: 0.674548
+
+Epoch 353:
+Loss: 0.022954
+
+Metrics:
+Validation PSNR: 30.4336 dB
+Validation SSIM: 0.814039
+Set5 PSNR: 29.0050 dB
+Set5 SSIM: 0.840767
+Set14 PSNR: 25.4006 dB
+Set14 SSIM: 0.691109
+
+Epoch 354:
+Loss: 0.022951
+
+Metrics:
+Validation PSNR: 30.4341 dB
+Validation SSIM: 0.805260
+Set5 PSNR: 28.9963 dB
+Set5 SSIM: 0.844737
+Set14 PSNR: 25.3923 dB
+Set14 SSIM: 0.681009
+
+Epoch 355:
+Loss: 0.022954
+
+Metrics:
+Validation PSNR: 30.4374 dB
+Validation SSIM: 0.808527
+Set5 PSNR: 29.0194 dB
+Set5 SSIM: 0.841827
+Set14 PSNR: 25.4091 dB
+Set14 SSIM: 0.683176
+
+Epoch 356:
+Loss: 0.022954
+
+Metrics:
+Validation PSNR: 30.4374 dB
+Validation SSIM: 0.809481
+Set5 PSNR: 29.0099 dB
+Set5 SSIM: 0.835831
+Set14 PSNR: 25.4017 dB
+Set14 SSIM: 0.658342
+
+Epoch 357:
+Loss: 0.022958
+
+Metrics:
+Validation PSNR: 30.4409 dB
+Validation SSIM: 0.805862
+Set5 PSNR: 29.0305 dB
+Set5 SSIM: 0.837599
+Set14 PSNR: 25.4105 dB
+Set14 SSIM: 0.671976
+
+Epoch 358:
+Loss: 0.022953
+
+Metrics:
+Validation PSNR: 30.4356 dB
+Validation SSIM: 0.815643
+Set5 PSNR: 29.0109 dB
+Set5 SSIM: 0.842415
+Set14 PSNR: 25.3996 dB
+Set14 SSIM: 0.647609
+
+Epoch 359:
+Loss: 0.022951
+
+Metrics:
+Validation PSNR: 30.4393 dB
+Validation SSIM: 0.813646
+Set5 PSNR: 29.0199 dB
+Set5 SSIM: 0.833983
+Set14 PSNR: 25.4113 dB
+Set14 SSIM: 0.652693
+
+Epoch 360:
+Loss: 0.022954
+
+Metrics:
+Validation PSNR: 30.4335 dB
+Validation SSIM: 0.806024
+Set5 PSNR: 28.9978 dB
+Set5 SSIM: 0.840992
+Set14 PSNR: 25.3892 dB
+Set14 SSIM: 0.688805
+
+Epoch 361:
+Loss: 0.022952
+
+Metrics:
+Validation PSNR: 30.4357 dB
+Validation SSIM: 0.809896
+Set5 PSNR: 29.0004 dB
+Set5 SSIM: 0.837899
+Set14 PSNR: 25.3996 dB
+Set14 SSIM: 0.684434
+
+Epoch 362:
+Loss: 0.022959
+
+Metrics:
+Validation PSNR: 30.4349 dB
+Validation SSIM: 0.810737
+Set5 PSNR: 29.0031 dB
+Set5 SSIM: 0.842750
+Set14 PSNR: 25.4040 dB
+Set14 SSIM: 0.677660
+
+Epoch 363:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.809586
+Set5 PSNR: 29.0048 dB
+Set5 SSIM: 0.841844
+Set14 PSNR: 25.3969 dB
+Set14 SSIM: 0.684029
+
+Epoch 364:
+Loss: 0.022952
+
+Metrics:
+Validation PSNR: 30.4365 dB
+Validation SSIM: 0.805406
+Set5 PSNR: 29.0053 dB
+Set5 SSIM: 0.844581
+Set14 PSNR: 25.3953 dB
+Set14 SSIM: 0.681119
+
+Epoch 365:
+Loss: 0.022950
+
+Metrics:
+Validation PSNR: 30.4370 dB
+Validation SSIM: 0.810562
+Set5 PSNR: 29.0073 dB
+Set5 SSIM: 0.838448
+Set14 PSNR: 25.3982 dB
+Set14 SSIM: 0.676199
+
+Epoch 366:
+Loss: 0.022956
+
+Metrics:
+Validation PSNR: 30.4317 dB
+Validation SSIM: 0.808272
+Set5 PSNR: 29.0022 dB
+Set5 SSIM: 0.840812
+Set14 PSNR: 25.3906 dB
+Set14 SSIM: 0.689037
+
+Epoch 367:
+Loss: 0.022950
+
+Metrics:
+Validation PSNR: 30.4400 dB
+Validation SSIM: 0.808542
+Set5 PSNR: 29.0313 dB
+Set5 SSIM: 0.839334
+Set14 PSNR: 25.4088 dB
+Set14 SSIM: 0.681089
+
+Epoch 368:
+Loss: 0.022950
+
+Metrics:
+Validation PSNR: 30.4284 dB
+Validation SSIM: 0.806699
+Set5 PSNR: 28.9937 dB
+Set5 SSIM: 0.838499
+Set14 PSNR: 25.3976 dB
+Set14 SSIM: 0.678763
+
+Epoch 369:
+Loss: 0.022949
+
+Metrics:
+Validation PSNR: 30.4322 dB
+Validation SSIM: 0.810326
+Set5 PSNR: 29.0068 dB
+Set5 SSIM: 0.843336
+Set14 PSNR: 25.3954 dB
+Set14 SSIM: 0.687051
+
+Epoch 370:
+Loss: 0.022951
+
+Metrics:
+Validation PSNR: 30.4257 dB
+Validation SSIM: 0.809438
+Set5 PSNR: 28.9870 dB
+Set5 SSIM: 0.842926
+Set14 PSNR: 25.3775 dB
+Set14 SSIM: 0.687133
+
+Epoch 371:
+Loss: 0.022949
+
+Metrics:
+Validation PSNR: 30.4307 dB
+Validation SSIM: 0.804578
+Set5 PSNR: 29.0037 dB
+Set5 SSIM: 0.842065
+Set14 PSNR: 25.3894 dB
+Set14 SSIM: 0.673461
+
+Epoch 372:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4323 dB
+Validation SSIM: 0.810560
+Set5 PSNR: 28.9946 dB
+Set5 SSIM: 0.836346
+Set14 PSNR: 25.3944 dB
+Set14 SSIM: 0.662016
+
+Epoch 373:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4323 dB
+Validation SSIM: 0.810706
+Set5 PSNR: 28.9927 dB
+Set5 SSIM: 0.836972
+Set14 PSNR: 25.3859 dB
+Set14 SSIM: 0.690844
+
+Epoch 374:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4346 dB
+Validation SSIM: 0.812521
+Set5 PSNR: 29.0070 dB
+Set5 SSIM: 0.835860
+Set14 PSNR: 25.4014 dB
+Set14 SSIM: 0.683165
+
+Epoch 375:
+Loss: 0.022950
+
+Metrics:
+Validation PSNR: 30.4395 dB
+Validation SSIM: 0.808743
+Set5 PSNR: 29.0227 dB
+Set5 SSIM: 0.839709
+Set14 PSNR: 25.4120 dB
+Set14 SSIM: 0.674703
+
+Epoch 376:
+Loss: 0.022950
+
+Metrics:
+Validation PSNR: 30.4320 dB
+Validation SSIM: 0.808812
+Set5 PSNR: 29.0004 dB
+Set5 SSIM: 0.839497
+Set14 PSNR: 25.3947 dB
+Set14 SSIM: 0.689647
+
+Epoch 377:
+Loss: 0.022951
+
+Metrics:
+Validation PSNR: 30.4329 dB
+Validation SSIM: 0.807342
+Set5 PSNR: 29.0044 dB
+Set5 SSIM: 0.838053
+Set14 PSNR: 25.4010 dB
+Set14 SSIM: 0.670873
+
+Epoch 378:
+Loss: 0.022950
+
+Metrics:
+Validation PSNR: 30.4378 dB
+Validation SSIM: 0.805837
+Set5 PSNR: 29.0082 dB
+Set5 SSIM: 0.842491
+Set14 PSNR: 25.3959 dB
+Set14 SSIM: 0.662154
+
+Epoch 379:
+Loss: 0.022949
+
+Metrics:
+Validation PSNR: 30.4363 dB
+Validation SSIM: 0.812736
+Set5 PSNR: 28.9973 dB
+Set5 SSIM: 0.838224
+Set14 PSNR: 25.3942 dB
+Set14 SSIM: 0.655537
+
+Epoch 380:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4380 dB
+Validation SSIM: 0.807845
+Set5 PSNR: 29.0191 dB
+Set5 SSIM: 0.838491
+Set14 PSNR: 25.4145 dB
+Set14 SSIM: 0.689599
+
+Epoch 381:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4339 dB
+Validation SSIM: 0.804868
+Set5 PSNR: 29.0034 dB
+Set5 SSIM: 0.839876
+Set14 PSNR: 25.3958 dB
+Set14 SSIM: 0.680474
+
+Epoch 382:
+Loss: 0.022946
+
+Metrics:
+Validation PSNR: 30.4350 dB
+Validation SSIM: 0.808004
+Set5 PSNR: 29.0062 dB
+Set5 SSIM: 0.832355
+Set14 PSNR: 25.3929 dB
+Set14 SSIM: 0.680383
+
+Epoch 383:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4356 dB
+Validation SSIM: 0.804761
+Set5 PSNR: 29.0023 dB
+Set5 SSIM: 0.838890
+Set14 PSNR: 25.3957 dB
+Set14 SSIM: 0.673855
+
+Epoch 384:
+Loss: 0.022946
+
+Metrics:
+Validation PSNR: 30.4308 dB
+Validation SSIM: 0.811786
+Set5 PSNR: 29.0112 dB
+Set5 SSIM: 0.838495
+Set14 PSNR: 25.3964 dB
+Set14 SSIM: 0.644317
+
+Epoch 385:
+Loss: 0.022947
+
+Metrics:
+Validation PSNR: 30.4368 dB
+Validation SSIM: 0.813385
+Set5 PSNR: 29.0033 dB
+Set5 SSIM: 0.833778
+Set14 PSNR: 25.3998 dB
+Set14 SSIM: 0.667896
+
+Epoch 386:
+Loss: 0.022947
+
+Metrics:
+Validation PSNR: 30.4392 dB
+Validation SSIM: 0.807596
+Set5 PSNR: 29.0064 dB
+Set5 SSIM: 0.838233
+Set14 PSNR: 25.3945 dB
+Set14 SSIM: 0.678014
+
+Epoch 387:
+Loss: 0.022949
+
+Metrics:
+Validation PSNR: 30.4360 dB
+Validation SSIM: 0.809060
+Set5 PSNR: 29.0089 dB
+Set5 SSIM: 0.846605
+Set14 PSNR: 25.3987 dB
+Set14 SSIM: 0.657415
+
+Epoch 388:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4384 dB
+Validation SSIM: 0.806460
+Set5 PSNR: 29.0197 dB
+Set5 SSIM: 0.840644
+Set14 PSNR: 25.4077 dB
+Set14 SSIM: 0.678917
+
+Epoch 389:
+Loss: 0.022946
+
+Metrics:
+Validation PSNR: 30.4297 dB
+Validation SSIM: 0.807364
+Set5 PSNR: 28.9891 dB
+Set5 SSIM: 0.841383
+Set14 PSNR: 25.3856 dB
+Set14 SSIM: 0.672208
+
+Epoch 390:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4333 dB
+Validation SSIM: 0.808470
+Set5 PSNR: 28.9970 dB
+Set5 SSIM: 0.841098
+Set14 PSNR: 25.3899 dB
+Set14 SSIM: 0.675067
+
+Epoch 391:
+Loss: 0.022943
+
+Metrics:
+Validation PSNR: 30.4377 dB
+Validation SSIM: 0.809529
+Set5 PSNR: 29.0124 dB
+Set5 SSIM: 0.839783
+Set14 PSNR: 25.4015 dB
+Set14 SSIM: 0.687496
+
+Epoch 392:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4343 dB
+Validation SSIM: 0.806852
+Set5 PSNR: 28.9940 dB
+Set5 SSIM: 0.841640
+Set14 PSNR: 25.3893 dB
+Set14 SSIM: 0.645296
+
+Epoch 393:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4396 dB
+Validation SSIM: 0.808790
+Set5 PSNR: 29.0170 dB
+Set5 SSIM: 0.840648
+Set14 PSNR: 25.4010 dB
+Set14 SSIM: 0.682710
+
+Epoch 394:
+Loss: 0.022946
+
+Metrics:
+Validation PSNR: 30.4391 dB
+Validation SSIM: 0.810977
+Set5 PSNR: 29.0130 dB
+Set5 SSIM: 0.838398
+Set14 PSNR: 25.3930 dB
+Set14 SSIM: 0.677993
+
+Epoch 395:
+Loss: 0.022944
+
+Metrics:
+Validation PSNR: 30.4259 dB
+Validation SSIM: 0.818623
+Set5 PSNR: 28.9926 dB
+Set5 SSIM: 0.839850
+Set14 PSNR: 25.3857 dB
+Set14 SSIM: 0.614736
+
+Epoch 396:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4363 dB
+Validation SSIM: 0.807661
+Set5 PSNR: 29.0080 dB
+Set5 SSIM: 0.841257
+Set14 PSNR: 25.3874 dB
+Set14 SSIM: 0.686105
+
+Epoch 397:
+Loss: 0.022945
+
+Metrics:
+Validation PSNR: 30.4363 dB
+Validation SSIM: 0.808067
+Set5 PSNR: 28.9911 dB
+Set5 SSIM: 0.842065
+Set14 PSNR: 25.3909 dB
+Set14 SSIM: 0.684699
+
+Epoch 398:
+Loss: 0.022943
+
+Metrics:
+Validation PSNR: 30.4357 dB
+Validation SSIM: 0.810221
+Set5 PSNR: 29.0179 dB
+Set5 SSIM: 0.835791
+Set14 PSNR: 25.4051 dB
+Set14 SSIM: 0.683660
+
+Epoch 399:
+Loss: 0.022945
+
+Metrics:
+Validation PSNR: 30.4360 dB
+Validation SSIM: 0.810627
+Set5 PSNR: 29.0075 dB
+Set5 SSIM: 0.840467
+Set14 PSNR: 25.3946 dB
+Set14 SSIM: 0.644814
+
+Epoch 400:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4382 dB
+Validation SSIM: 0.812514
+Set5 PSNR: 29.0093 dB
+Set5 SSIM: 0.839364
+Set14 PSNR: 25.4096 dB
+Set14 SSIM: 0.678612
+
+Epoch 401:
+Loss: 0.022941
+
+Metrics:
+Validation PSNR: 30.4349 dB
+Validation SSIM: 0.805341
+Set5 PSNR: 29.0061 dB
+Set5 SSIM: 0.843566
+Set14 PSNR: 25.3909 dB
+Set14 SSIM: 0.678446
+
+Epoch 402:
+Loss: 0.022944
+
+Metrics:
+Validation PSNR: 30.4342 dB
+Validation SSIM: 0.811862
+Set5 PSNR: 28.9964 dB
+Set5 SSIM: 0.840259
+Set14 PSNR: 25.3868 dB
+Set14 SSIM: 0.683334
+
+Epoch 403:
+Loss: 0.022948
+
+Metrics:
+Validation PSNR: 30.4321 dB
+Validation SSIM: 0.812058
+Set5 PSNR: 28.9912 dB
+Set5 SSIM: 0.838419
+Set14 PSNR: 25.3760 dB
+Set14 SSIM: 0.650201
+
+Epoch 404:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4271 dB
+Validation SSIM: 0.807810
+Set5 PSNR: 28.9921 dB
+Set5 SSIM: 0.841575
+Set14 PSNR: 25.3886 dB
+Set14 SSIM: 0.653739
+
+Epoch 405:
+Loss: 0.022940
+
+Metrics:
+Validation PSNR: 30.4342 dB
+Validation SSIM: 0.807035
+Set5 PSNR: 28.9998 dB
+Set5 SSIM: 0.841303
+Set14 PSNR: 25.3875 dB
+Set14 SSIM: 0.666621
+
+Epoch 406:
+Loss: 0.022943
+
+Metrics:
+Validation PSNR: 30.4380 dB
+Validation SSIM: 0.807230
+Set5 PSNR: 29.0045 dB
+Set5 SSIM: 0.838796
+Set14 PSNR: 25.4006 dB
+Set14 SSIM: 0.672125
+
+Epoch 407:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4361 dB
+Validation SSIM: 0.812401
+Set5 PSNR: 29.0069 dB
+Set5 SSIM: 0.835176
+Set14 PSNR: 25.4039 dB
+Set14 SSIM: 0.684415
+
+Epoch 408:
+Loss: 0.022943
+
+Metrics:
+Validation PSNR: 30.4398 dB
+Validation SSIM: 0.807769
+Set5 PSNR: 29.0124 dB
+Set5 SSIM: 0.839338
+Set14 PSNR: 25.3966 dB
+Set14 SSIM: 0.685315
+
+Epoch 409:
+Loss: 0.022939
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.814184
+Set5 PSNR: 29.0105 dB
+Set5 SSIM: 0.838883
+Set14 PSNR: 25.3982 dB
+Set14 SSIM: 0.644721
+
+Epoch 410:
+Loss: 0.022941
+
+Metrics:
+Validation PSNR: 30.4349 dB
+Validation SSIM: 0.810211
+Set5 PSNR: 28.9952 dB
+Set5 SSIM: 0.838746
+Set14 PSNR: 25.3874 dB
+Set14 SSIM: 0.668030
+
+Epoch 411:
+Loss: 0.022938
+
+Metrics:
+Validation PSNR: 30.4374 dB
+Validation SSIM: 0.811362
+Set5 PSNR: 29.0159 dB
+Set5 SSIM: 0.838374
+Set14 PSNR: 25.4054 dB
+Set14 SSIM: 0.685590
+
+Epoch 412:
+Loss: 0.022941
+
+Metrics:
+Validation PSNR: 30.4394 dB
+Validation SSIM: 0.808781
+Set5 PSNR: 29.0136 dB
+Set5 SSIM: 0.843858
+Set14 PSNR: 25.4077 dB
+Set14 SSIM: 0.686637
+
+Epoch 413:
+Loss: 0.022938
+
+Metrics:
+Validation PSNR: 30.4377 dB
+Validation SSIM: 0.809749
+Set5 PSNR: 29.0089 dB
+Set5 SSIM: 0.838938
+Set14 PSNR: 25.3958 dB
+Set14 SSIM: 0.665761
+
+Epoch 414:
+Loss: 0.022939
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.810932
+Set5 PSNR: 28.9990 dB
+Set5 SSIM: 0.835872
+Set14 PSNR: 25.3891 dB
+Set14 SSIM: 0.663664
+
+Epoch 415:
+Loss: 0.022939
+
+Metrics:
+Validation PSNR: 30.4374 dB
+Validation SSIM: 0.810932
+Set5 PSNR: 29.0171 dB
+Set5 SSIM: 0.834985
+Set14 PSNR: 25.4077 dB
+Set14 SSIM: 0.661843
+
+Epoch 416:
+Loss: 0.022936
+
+Metrics:
+Validation PSNR: 30.4395 dB
+Validation SSIM: 0.805758
+Set5 PSNR: 29.0234 dB
+Set5 SSIM: 0.841384
+Set14 PSNR: 25.4033 dB
+Set14 SSIM: 0.662120
+
+Epoch 417:
+Loss: 0.022943
+
+Metrics:
+Validation PSNR: 30.4370 dB
+Validation SSIM: 0.814109
+Set5 PSNR: 29.0022 dB
+Set5 SSIM: 0.838347
+Set14 PSNR: 25.3955 dB
+Set14 SSIM: 0.644365
+
+Epoch 418:
+Loss: 0.022940
+
+Metrics:
+Validation PSNR: 30.4387 dB
+Validation SSIM: 0.807719
+Set5 PSNR: 29.0233 dB
+Set5 SSIM: 0.837905
+Set14 PSNR: 25.4055 dB
+Set14 SSIM: 0.686199
+
+Epoch 419:
+Loss: 0.022937
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.806934
+Set5 PSNR: 29.0024 dB
+Set5 SSIM: 0.836254
+Set14 PSNR: 25.3984 dB
+Set14 SSIM: 0.675440
+
+Epoch 420:
+Loss: 0.022937
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.811637
+Set5 PSNR: 29.0068 dB
+Set5 SSIM: 0.836108
+Set14 PSNR: 25.3982 dB
+Set14 SSIM: 0.649307
+
+Epoch 421:
+Loss: 0.022939
+
+Metrics:
+Validation PSNR: 30.4385 dB
+Validation SSIM: 0.807344
+Set5 PSNR: 29.0214 dB
+Set5 SSIM: 0.839278
+Set14 PSNR: 25.3969 dB
+Set14 SSIM: 0.655949
+
+Epoch 422:
+Loss: 0.022934
+
+Metrics:
+Validation PSNR: 30.4380 dB
+Validation SSIM: 0.821781
+Set5 PSNR: 29.0100 dB
+Set5 SSIM: 0.836935
+Set14 PSNR: 25.4012 dB
+Set14 SSIM: 0.627354
+
+Epoch 423:
+Loss: 0.022935
+
+Metrics:
+Validation PSNR: 30.4344 dB
+Validation SSIM: 0.807691
+Set5 PSNR: 28.9956 dB
+Set5 SSIM: 0.843344
+Set14 PSNR: 25.3972 dB
+Set14 SSIM: 0.676113
+
+Epoch 424:
+Loss: 0.022939
+
+Metrics:
+Validation PSNR: 30.4344 dB
+Validation SSIM: 0.814423
+Set5 PSNR: 29.0000 dB
+Set5 SSIM: 0.839926
+Set14 PSNR: 25.3956 dB
+Set14 SSIM: 0.662369
+
+Epoch 425:
+Loss: 0.022937
+
+Metrics:
+Validation PSNR: 30.4345 dB
+Validation SSIM: 0.808579
+Set5 PSNR: 28.9912 dB
+Set5 SSIM: 0.837685
+Set14 PSNR: 25.3897 dB
+Set14 SSIM: 0.647593
+
+Epoch 426:
+Loss: 0.022938
+
+Metrics:
+Validation PSNR: 30.4358 dB
+Validation SSIM: 0.812065
+Set5 PSNR: 29.0036 dB
+Set5 SSIM: 0.833902
+Set14 PSNR: 25.3968 dB
+Set14 SSIM: 0.667604
+
+Epoch 427:
+Loss: 0.022937
+
+Metrics:
+Validation PSNR: 30.4333 dB
+Validation SSIM: 0.809796
+Set5 PSNR: 28.9914 dB
+Set5 SSIM: 0.838634
+Set14 PSNR: 25.3924 dB
+Set14 SSIM: 0.660348
+
+Epoch 428:
+Loss: 0.022934
+
+Metrics:
+Validation PSNR: 30.4352 dB
+Validation SSIM: 0.811477
+Set5 PSNR: 29.0110 dB
+Set5 SSIM: 0.844846
+Set14 PSNR: 25.4072 dB
+Set14 SSIM: 0.659112
+
+Epoch 429:
+Loss: 0.022937
+
+Metrics:
+Validation PSNR: 30.4349 dB
+Validation SSIM: 0.814679
+Set5 PSNR: 29.0004 dB
+Set5 SSIM: 0.836879
+Set14 PSNR: 25.3924 dB
+Set14 SSIM: 0.649926
+
+Epoch 430:
+Loss: 0.022933
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.810163
+Set5 PSNR: 28.9903 dB
+Set5 SSIM: 0.836583
+Set14 PSNR: 25.3866 dB
+Set14 SSIM: 0.674474
+
+Epoch 431:
+Loss: 0.022942
+
+Metrics:
+Validation PSNR: 30.4408 dB
+Validation SSIM: 0.806626
+Set5 PSNR: 29.0222 dB
+Set5 SSIM: 0.838620
+Set14 PSNR: 25.4028 dB
+Set14 SSIM: 0.672435
+
+Epoch 432:
+Loss: 0.022931
+
+Metrics:
+Validation PSNR: 30.4392 dB
+Validation SSIM: 0.812228
+Set5 PSNR: 29.0201 dB
+Set5 SSIM: 0.839332
+Set14 PSNR: 25.4079 dB
+Set14 SSIM: 0.669751
+
+Epoch 433:
+Loss: 0.022938
+
+Metrics:
+Validation PSNR: 30.4333 dB
+Validation SSIM: 0.809683
+Set5 PSNR: 28.9842 dB
+Set5 SSIM: 0.839581
+Set14 PSNR: 25.3847 dB
+Set14 SSIM: 0.656181
+
+Epoch 434:
+Loss: 0.022944
+
+Metrics:
+Validation PSNR: 30.4409 dB
+Validation SSIM: 0.809230
+Set5 PSNR: 29.0116 dB
+Set5 SSIM: 0.836304
+Set14 PSNR: 25.4038 dB
+Set14 SSIM: 0.661917
+
+Epoch 435:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4227 dB
+Validation SSIM: 0.809351
+Set5 PSNR: 28.9674 dB
+Set5 SSIM: 0.841131
+Set14 PSNR: 25.3728 dB
+Set14 SSIM: 0.674695
+
+Epoch 436:
+Loss: 0.022934
+
+Metrics:
+Validation PSNR: 30.4329 dB
+Validation SSIM: 0.805170
+Set5 PSNR: 28.9976 dB
+Set5 SSIM: 0.842241
+Set14 PSNR: 25.3847 dB
+Set14 SSIM: 0.681004
+
+Epoch 437:
+Loss: 0.022933
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.811733
+Set5 PSNR: 28.9999 dB
+Set5 SSIM: 0.838759
+Set14 PSNR: 25.3929 dB
+Set14 SSIM: 0.689695
+
+Epoch 438:
+Loss: 0.022932
+
+Metrics:
+Validation PSNR: 30.4349 dB
+Validation SSIM: 0.808285
+Set5 PSNR: 29.0054 dB
+Set5 SSIM: 0.838055
+Set14 PSNR: 25.3975 dB
+Set14 SSIM: 0.682160
+
+Epoch 439:
+Loss: 0.022933
+
+Metrics:
+Validation PSNR: 30.4355 dB
+Validation SSIM: 0.807593
+Set5 PSNR: 29.0015 dB
+Set5 SSIM: 0.836865
+Set14 PSNR: 25.3967 dB
+Set14 SSIM: 0.680905
+
+Epoch 440:
+Loss: 0.022931
+
+Metrics:
+Validation PSNR: 30.4405 dB
+Validation SSIM: 0.806818
+Set5 PSNR: 29.0143 dB
+Set5 SSIM: 0.832700
+Set14 PSNR: 25.4088 dB
+Set14 SSIM: 0.652946
+
+Epoch 441:
+Loss: 0.022937
+
+Metrics:
+Validation PSNR: 30.4330 dB
+Validation SSIM: 0.811895
+Set5 PSNR: 28.9912 dB
+Set5 SSIM: 0.837189
+Set14 PSNR: 25.3880 dB
+Set14 SSIM: 0.673119
+
+Epoch 442:
+Loss: 0.022935
+
+Metrics:
+Validation PSNR: 30.4335 dB
+Validation SSIM: 0.813221
+Set5 PSNR: 28.9795 dB
+Set5 SSIM: 0.835166
+Set14 PSNR: 25.3876 dB
+Set14 SSIM: 0.669889
+
+Epoch 443:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4370 dB
+Validation SSIM: 0.807666
+Set5 PSNR: 28.9928 dB
+Set5 SSIM: 0.837895
+Set14 PSNR: 25.3868 dB
+Set14 SSIM: 0.680785
+
+Epoch 444:
+Loss: 0.022927
+
+Metrics:
+Validation PSNR: 30.4344 dB
+Validation SSIM: 0.807559
+Set5 PSNR: 28.9862 dB
+Set5 SSIM: 0.841517
+Set14 PSNR: 25.3812 dB
+Set14 SSIM: 0.682714
+
+Epoch 445:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4273 dB
+Validation SSIM: 0.808223
+Set5 PSNR: 28.9849 dB
+Set5 SSIM: 0.843016
+Set14 PSNR: 25.3877 dB
+Set14 SSIM: 0.669928
+
+Epoch 446:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4364 dB
+Validation SSIM: 0.809986
+Set5 PSNR: 29.0051 dB
+Set5 SSIM: 0.845107
+Set14 PSNR: 25.3994 dB
+Set14 SSIM: 0.661688
+
+Epoch 447:
+Loss: 0.022927
+
+Metrics:
+Validation PSNR: 30.4411 dB
+Validation SSIM: 0.807688
+Set5 PSNR: 29.0123 dB
+Set5 SSIM: 0.841253
+Set14 PSNR: 25.4037 dB
+Set14 SSIM: 0.676164
+
+Epoch 448:
+Loss: 0.022924
+
+Metrics:
+Validation PSNR: 30.4391 dB
+Validation SSIM: 0.807803
+Set5 PSNR: 29.0120 dB
+Set5 SSIM: 0.836776
+Set14 PSNR: 25.3985 dB
+Set14 SSIM: 0.684855
+
+Epoch 449:
+Loss: 0.022930
+
+Metrics:
+Validation PSNR: 30.4401 dB
+Validation SSIM: 0.806593
+Set5 PSNR: 29.0134 dB
+Set5 SSIM: 0.840926
+Set14 PSNR: 25.3970 dB
+Set14 SSIM: 0.656705
+
+Epoch 450:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4413 dB
+Validation SSIM: 0.810074
+Set5 PSNR: 29.0222 dB
+Set5 SSIM: 0.838234
+Set14 PSNR: 25.4084 dB
+Set14 SSIM: 0.675100
+
+Epoch 451:
+Loss: 0.022926
+
+Metrics:
+Validation PSNR: 30.4333 dB
+Validation SSIM: 0.807858
+Set5 PSNR: 28.9852 dB
+Set5 SSIM: 0.839765
+Set14 PSNR: 25.3851 dB
+Set14 SSIM: 0.673658
+
+Epoch 452:
+Loss: 0.022925
+
+Metrics:
+Validation PSNR: 30.4400 dB
+Validation SSIM: 0.810072
+Set5 PSNR: 29.0175 dB
+Set5 SSIM: 0.833771
+Set14 PSNR: 25.4034 dB
+Set14 SSIM: 0.658367
+
+Epoch 453:
+Loss: 0.022923
+
+Metrics:
+Validation PSNR: 30.4362 dB
+Validation SSIM: 0.809207
+Set5 PSNR: 29.0039 dB
+Set5 SSIM: 0.838754
+Set14 PSNR: 25.3866 dB
+Set14 SSIM: 0.690437
+
+Epoch 454:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4416 dB
+Validation SSIM: 0.806998
+Set5 PSNR: 29.0090 dB
+Set5 SSIM: 0.835675
+Set14 PSNR: 25.4026 dB
+Set14 SSIM: 0.670016
+
+Epoch 455:
+Loss: 0.022932
+
+Metrics:
+Validation PSNR: 30.4384 dB
+Validation SSIM: 0.808038
+Set5 PSNR: 29.0044 dB
+Set5 SSIM: 0.840925
+Set14 PSNR: 25.3889 dB
+Set14 SSIM: 0.675980
+
+Epoch 456:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4380 dB
+Validation SSIM: 0.808731
+Set5 PSNR: 29.0038 dB
+Set5 SSIM: 0.837736
+Set14 PSNR: 25.3952 dB
+Set14 SSIM: 0.654686
+
+Epoch 457:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4369 dB
+Validation SSIM: 0.806075
+Set5 PSNR: 29.0065 dB
+Set5 SSIM: 0.837804
+Set14 PSNR: 25.3978 dB
+Set14 SSIM: 0.659456
+
+Epoch 458:
+Loss: 0.022930
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.805138
+Set5 PSNR: 29.0049 dB
+Set5 SSIM: 0.840719
+Set14 PSNR: 25.3849 dB
+Set14 SSIM: 0.652197
+
+Epoch 459:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4376 dB
+Validation SSIM: 0.806648
+Set5 PSNR: 29.0074 dB
+Set5 SSIM: 0.840434
+Set14 PSNR: 25.3957 dB
+Set14 SSIM: 0.683476
+
+Epoch 460:
+Loss: 0.022927
+
+Metrics:
+Validation PSNR: 30.4310 dB
+Validation SSIM: 0.814011
+Set5 PSNR: 28.9955 dB
+Set5 SSIM: 0.840515
+Set14 PSNR: 25.3926 dB
+Set14 SSIM: 0.694227
+
+Epoch 461:
+Loss: 0.022930
+
+Metrics:
+Validation PSNR: 30.4357 dB
+Validation SSIM: 0.807353
+Set5 PSNR: 29.0179 dB
+Set5 SSIM: 0.840077
+Set14 PSNR: 25.4053 dB
+Set14 SSIM: 0.674147
+
+Epoch 462:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.806926
+Set5 PSNR: 28.9973 dB
+Set5 SSIM: 0.846196
+Set14 PSNR: 25.3838 dB
+Set14 SSIM: 0.673856
+
+Epoch 463:
+Loss: 0.022928
+
+Metrics:
+Validation PSNR: 30.4431 dB
+Validation SSIM: 0.813299
+Set5 PSNR: 29.0196 dB
+Set5 SSIM: 0.841957
+Set14 PSNR: 25.4080 dB
+Set14 SSIM: 0.654361
+
+Epoch 464:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4346 dB
+Validation SSIM: 0.812367
+Set5 PSNR: 28.9912 dB
+Set5 SSIM: 0.837311
+Set14 PSNR: 25.3926 dB
+Set14 SSIM: 0.667598
+
+Epoch 465:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4336 dB
+Validation SSIM: 0.805915
+Set5 PSNR: 28.9924 dB
+Set5 SSIM: 0.842062
+Set14 PSNR: 25.3819 dB
+Set14 SSIM: 0.679719
+
+Epoch 466:
+Loss: 0.022926
+
+Metrics:
+Validation PSNR: 30.4428 dB
+Validation SSIM: 0.811954
+Set5 PSNR: 29.0239 dB
+Set5 SSIM: 0.836699
+Set14 PSNR: 25.4120 dB
+Set14 SSIM: 0.660074
+
+Epoch 467:
+Loss: 0.022924
+
+Metrics:
+Validation PSNR: 30.4392 dB
+Validation SSIM: 0.814794
+Set5 PSNR: 29.0049 dB
+Set5 SSIM: 0.836102
+Set14 PSNR: 25.4039 dB
+Set14 SSIM: 0.656298
+
+Epoch 468:
+Loss: 0.022924
+
+Metrics:
+Validation PSNR: 30.4369 dB
+Validation SSIM: 0.809580
+Set5 PSNR: 28.9931 dB
+Set5 SSIM: 0.847682
+Set14 PSNR: 25.3903 dB
+Set14 SSIM: 0.663298
+
+Epoch 469:
+Loss: 0.022923
+
+Metrics:
+Validation PSNR: 30.4416 dB
+Validation SSIM: 0.806731
+Set5 PSNR: 29.0132 dB
+Set5 SSIM: 0.842921
+Set14 PSNR: 25.3966 dB
+Set14 SSIM: 0.683394
+
+Epoch 470:
+Loss: 0.022919
+
+Metrics:
+Validation PSNR: 30.4364 dB
+Validation SSIM: 0.807458
+Set5 PSNR: 29.0005 dB
+Set5 SSIM: 0.839248
+Set14 PSNR: 25.3937 dB
+Set14 SSIM: 0.671383
+
+Epoch 471:
+Loss: 0.022920
+
+Metrics:
+Validation PSNR: 30.4359 dB
+Validation SSIM: 0.810101
+Set5 PSNR: 28.9871 dB
+Set5 SSIM: 0.841912
+Set14 PSNR: 25.3872 dB
+Set14 SSIM: 0.674176
+
+Epoch 472:
+Loss: 0.022921
+
+Metrics:
+Validation PSNR: 30.4375 dB
+Validation SSIM: 0.814491
+Set5 PSNR: 29.0039 dB
+Set5 SSIM: 0.843983
+Set14 PSNR: 25.3947 dB
+Set14 SSIM: 0.694099
+
+Epoch 473:
+Loss: 0.022925
+
+Metrics:
+Validation PSNR: 30.4351 dB
+Validation SSIM: 0.807762
+Set5 PSNR: 29.0178 dB
+Set5 SSIM: 0.843680
+Set14 PSNR: 25.4009 dB
+Set14 SSIM: 0.661154
+
+Epoch 474:
+Loss: 0.022925
+
+Metrics:
+Validation PSNR: 30.4421 dB
+Validation SSIM: 0.804771
+Set5 PSNR: 29.0105 dB
+Set5 SSIM: 0.835959
+Set14 PSNR: 25.3948 dB
+Set14 SSIM: 0.667421
+
+Epoch 475:
+Loss: 0.022922
+
+Metrics:
+Validation PSNR: 30.4368 dB
+Validation SSIM: 0.813622
+Set5 PSNR: 28.9990 dB
+Set5 SSIM: 0.838098
+Set14 PSNR: 25.3933 dB
+Set14 SSIM: 0.660426
+
+Epoch 476:
+Loss: 0.022920
+
+Metrics:
+Validation PSNR: 30.4367 dB
+Validation SSIM: 0.808288
+Set5 PSNR: 29.0016 dB
+Set5 SSIM: 0.843494
+Set14 PSNR: 25.3847 dB
+Set14 SSIM: 0.675053
+
+Epoch 477:
+Loss: 0.022920
+
+Metrics:
+Validation PSNR: 30.4340 dB
+Validation SSIM: 0.806086
+Set5 PSNR: 28.9961 dB
+Set5 SSIM: 0.843585
+Set14 PSNR: 25.3911 dB
+Set14 SSIM: 0.681023
+
+Epoch 478:
+Loss: 0.022923
+
+Metrics:
+Validation PSNR: 30.4384 dB
+Validation SSIM: 0.814243
+Set5 PSNR: 29.0089 dB
+Set5 SSIM: 0.836045
+Set14 PSNR: 25.4068 dB
+Set14 SSIM: 0.664433
+
+Epoch 479:
+Loss: 0.022922
+
+Metrics:
+Validation PSNR: 30.4399 dB
+Validation SSIM: 0.807193
+Set5 PSNR: 29.0127 dB
+Set5 SSIM: 0.841377
+Set14 PSNR: 25.4045 dB
+Set14 SSIM: 0.672486
+
+Epoch 480:
+Loss: 0.022925
+
+Metrics:
+Validation PSNR: 30.4404 dB
+Validation SSIM: 0.811181
+Set5 PSNR: 29.0081 dB
+Set5 SSIM: 0.841052
+Set14 PSNR: 25.3962 dB
+Set14 SSIM: 0.674047
+
+Epoch 481:
+Loss: 0.022929
+
+Metrics:
+Validation PSNR: 30.4396 dB
+Validation SSIM: 0.807896
+Set5 PSNR: 29.0013 dB
+Set5 SSIM: 0.840518
+Set14 PSNR: 25.3926 dB
+Set14 SSIM: 0.667847
+
+Epoch 482:
+Loss: 0.022923
+
+Metrics:
+Validation PSNR: 30.4420 dB
+Validation SSIM: 0.807200
+Set5 PSNR: 29.0024 dB
+Set5 SSIM: 0.841123
+Set14 PSNR: 25.3942 dB
+Set14 SSIM: 0.687770
+
+Epoch 483:
+Loss: 0.022919
+
+Metrics:
+Validation PSNR: 30.4358 dB
+Validation SSIM: 0.811763
+Set5 PSNR: 28.9845 dB
+Set5 SSIM: 0.838284
+Set14 PSNR: 25.3839 dB
+Set14 SSIM: 0.655939
+
+Epoch 484:
+Loss: 0.022919
+
+Metrics:
+Validation PSNR: 30.4380 dB
+Validation SSIM: 0.809659
+Set5 PSNR: 28.9951 dB
+Set5 SSIM: 0.834368
+Set14 PSNR: 25.3824 dB
+Set14 SSIM: 0.675568
+
+Epoch 485:
+Loss: 0.022927
+
+Metrics:
+Validation PSNR: 30.4416 dB
+Validation SSIM: 0.808183
+Set5 PSNR: 29.0043 dB
+Set5 SSIM: 0.837740
+Set14 PSNR: 25.3915 dB
+Set14 SSIM: 0.681697
+
+Epoch 486:
+Loss: 0.022922
+
+Metrics:
+Validation PSNR: 30.4387 dB
+Validation SSIM: 0.809708
+Set5 PSNR: 29.0007 dB
+Set5 SSIM: 0.837588
+Set14 PSNR: 25.3895 dB
+Set14 SSIM: 0.676200
+
+Epoch 487:
+Loss: 0.022920
+
+Metrics:
+Validation PSNR: 30.4371 dB
+Validation SSIM: 0.808497
+Set5 PSNR: 29.0006 dB
+Set5 SSIM: 0.836516
+Set14 PSNR: 25.3925 dB
+Set14 SSIM: 0.660502
+
+Epoch 488:
+Loss: 0.022920
+
+Metrics:
+Validation PSNR: 30.4429 dB
+Validation SSIM: 0.809915
+Set5 PSNR: 29.0246 dB
+Set5 SSIM: 0.839645
+Set14 PSNR: 25.4104 dB
+Set14 SSIM: 0.654856
+
+Epoch 489:
+Loss: 0.022919
+
+Metrics:
+Validation PSNR: 30.4398 dB
+Validation SSIM: 0.807588
+Set5 PSNR: 29.0069 dB
+Set5 SSIM: 0.841070
+Set14 PSNR: 25.3966 dB
+Set14 SSIM: 0.685534
+
+Epoch 490:
+Loss: 0.022913
+
+Metrics:
+Validation PSNR: 30.4338 dB
+Validation SSIM: 0.812577
+Set5 PSNR: 28.9910 dB
+Set5 SSIM: 0.838986
+Set14 PSNR: 25.3834 dB
+Set14 SSIM: 0.665489
+
+Epoch 491:
+Loss: 0.022924
+
+Metrics:
+Validation PSNR: 30.4402 dB
+Validation SSIM: 0.810693
+Set5 PSNR: 29.0132 dB
+Set5 SSIM: 0.836483
+Set14 PSNR: 25.4024 dB
+Set14 SSIM: 0.654996
+
+Epoch 492:
+Loss: 0.022918
+
+Metrics:
+Validation PSNR: 30.4339 dB
+Validation SSIM: 0.814121
+Set5 PSNR: 28.9869 dB
+Set5 SSIM: 0.837856
+Set14 PSNR: 25.3855 dB
+Set14 SSIM: 0.655241
+
+Epoch 493:
+Loss: 0.022912
+
+Metrics:
+Validation PSNR: 30.4402 dB
+Validation SSIM: 0.811750
+Set5 PSNR: 29.0377 dB
+Set5 SSIM: 0.841100
+Set14 PSNR: 25.4131 dB
+Set14 SSIM: 0.634654
+
+Epoch 494:
+Loss: 0.022916
+
+Metrics:
+Validation PSNR: 30.4385 dB
+Validation SSIM: 0.808582
+Set5 PSNR: 28.9976 dB
+Set5 SSIM: 0.839021
+Set14 PSNR: 25.3877 dB
+Set14 SSIM: 0.682395
+
+Epoch 495:
+Loss: 0.022923
+
+Metrics:
+Validation PSNR: 30.4318 dB
+Validation SSIM: 0.815953
+Set5 PSNR: 28.9788 dB
+Set5 SSIM: 0.834797
+Set14 PSNR: 25.3879 dB
+Set14 SSIM: 0.637990
+
+Epoch 496:
+Loss: 0.022923
+
+Metrics:
+Validation PSNR: 30.4381 dB
+Validation SSIM: 0.808266
+Set5 PSNR: 28.9923 dB
+Set5 SSIM: 0.841682
+Set14 PSNR: 25.3808 dB
+Set14 SSIM: 0.665892
+
+Epoch 497:
+Loss: 0.022917
+
+Metrics:
+Validation PSNR: 30.4381 dB
+Validation SSIM: 0.813164
+Set5 PSNR: 29.0273 dB
+Set5 SSIM: 0.837583
+Set14 PSNR: 25.4052 dB
+Set14 SSIM: 0.688378
+
+Epoch 498:
+Loss: 0.022918
+
+Metrics:
+Validation PSNR: 30.4371 dB
+Validation SSIM: 0.815878
+Set5 PSNR: 28.9933 dB
+Set5 SSIM: 0.834038
+Set14 PSNR: 25.3912 dB
+Set14 SSIM: 0.655117
+
+Epoch 499:
+Loss: 0.022915
+
+Metrics:
+Validation PSNR: 30.4398 dB
+Validation SSIM: 0.806811
+Set5 PSNR: 29.0044 dB
+Set5 SSIM: 0.836071
+Set14 PSNR: 25.3949 dB
+Set14 SSIM: 0.688385
+
+Epoch 500:
+Loss: 0.022921
+
+Metrics:
+Validation PSNR: 30.4381 dB
+Validation SSIM: 0.812879
+Set5 PSNR: 29.0051 dB
+Set5 SSIM: 0.836184
+Set14 PSNR: 25.3944 dB
+Set14 SSIM: 0.663566
+
+Best Performance
+---------------
+Best Validation PSNR at epoch 463:
+  PSNR: 30.4431 dB
+  SSIM: 0.813299
+
+Final Metrics
+-------------
+
+SET5:
+  psnr: 29.005150
+  ssim: 0.836184
+
+SET14:
+  psnr: 25.394383
+  ssim: 0.663566

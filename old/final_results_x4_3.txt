@@ -1,0 +1,13 @@
+Final Evaluation Results
+=======================
+
+Set5 Results:
+PSNR: 12.92
+SSIM: 0.2117
+IFC: 3.1098
+
+Set14 Results:
+PSNR: 13.89
+SSIM: 0.2292
+IFC: 3.1833
+

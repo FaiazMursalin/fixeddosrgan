@@ -1,0 +1,27 @@
+Training History
+===============
+
+Epoch 1:
+G_Loss: 0.500753
+D_Loss: 0.154196
+Val_PSNR: 19.7626
+Val_SSIM: 0.399505
+
+Epoch 2:
+G_Loss: 0.390219
+D_Loss: 0.036685
+Val_PSNR: 21.0312
+Val_SSIM: 0.460968
+
+
+Final Metrics
+=============
+
+Set5:
+PSNR: 21.5069
+SSIM: 0.504827
+
+Set14:
+PSNR: 20.5992
+SSIM: 0.447222
+

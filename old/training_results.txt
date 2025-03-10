@@ -1,0 +1,33 @@
+Training Results - 2024-11-27 17:45:53
+==================================================
+
+Training History
+---------------
+
+Epoch 1:
+Loss: 0.031700
+
+Metrics:
+Validation PSNR: 28.3026 dB
+Validation SSIM: 0.775175
+Set5 PSNR: 27.5628 dB
+Set5 SSIM: 0.785376
+Set14 PSNR: 24.5047 dB
+Set14 SSIM: 0.658100
+
+Best Performance
+---------------
+Best Validation PSNR at epoch 1:
+  PSNR: 28.3026 dB
+  SSIM: 0.775175
+
+Final Metrics
+-------------
+
+SET5:
+  psnr: 27.562845
+  ssim: 0.785376
+
+SET14:
+  psnr: 24.504686
+  ssim: 0.658100
