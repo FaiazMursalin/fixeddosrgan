@@ -3,7 +3,8 @@ import torch.nn as nn
 from torch.utils.data import DataLoader, random_split
 from torch.cuda.amp import autocast, GradScaler
 from helpers.utils_2_x2 import SRDataset, evaluate_model, save_results
-from model_5_x2 import ProposedGenerator, ContentLoss
+from model_5_x2 import ProposedGenerator
+from models.ContentLoss import *
 from tqdm import tqdm
 
 
@@ -59,7 +60,7 @@ def train_model(generator, train_loader, val_loader, test_set5_loader, test_set1
 
     model_save_path = f'proposed_model_swin_x{scale_factor}.pth'
     best_model_path = f'best_model_swin_x{scale_factor}.pth'
-    accumulation_steps = 4
+    accumulation_steps = 8
     best_psnr = 0
 
     print("Starting training with phased approach:")
@@ -183,7 +184,7 @@ if __name__ == "__main__":
     try:
         # Configuration
         scale_factor = 2
-        device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        device = torch.device('cuda' if torch.cuda.is_available() else 'kj')
         batch_size = 16  # change it to 16
         num_epochs = 1000
 
@@ -231,7 +232,7 @@ if __name__ == "__main__":
             batch_size=batch_size,
             shuffle=True,
             pin_memory=True if torch.cuda.is_available() else False,
-            num_workers=4
+            num_workers=8
         )
         val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False)
         test_set5_loader = DataLoader(set5_dataset, batch_size=1, shuffle=False)

@@ -1,4 +1,4 @@
-from FeatureExtractor import *
+from .FeatureExtractor import *
 
 class ContentLoss(nn.Module):
     def __init__(self):

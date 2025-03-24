@@ -1,4 +1,4 @@
-from WindowAttention import *
+from .WindowAttention import *
 from helpers.modelUtil import *
 
 
